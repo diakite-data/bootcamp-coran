@@ -63,8 +63,7 @@ website:
     left: "Bootcamp Coran © 2025"
     center: "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
     right:
-      - text: "Fait avec Quarto"
-        href: https://quarto.org/
+      - text: "Fait par يوسف"
 
   # Options de recherche
   search:
@@ -89,6 +88,6 @@ format:
     mainfont: "Arial, sans-serif"
 
 # Métadonnées globales
-author: "Bootcamp Coran"
+author: "يوسف"
 date-format: "D MMMM YYYY"
 lang: fr
