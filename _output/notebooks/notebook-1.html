@@ -69,6 +69,16 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<!-- PWA Meta Tags -->
+<link rel="manifest" href="../manifest.json">
+<meta name="theme-color" content="#1F4E79">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Bootcamp Coran">
+<link rel="apple-touch-icon" href="../assets/icons/icon-152x152.png">
+<!-- Preconnect pour les polices -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -320,6 +330,19 @@ ul.task-list li input[type="checkbox"] {
 <h1>Premiers sons &amp; Attachement</h1>
 <p><span class="badge duration">⏱️ 30 minutes</span> · <span class="badge new">4 nouvelles lettres</span></p>
 </section>
+</div>
+<div class="progress-container">
+<div class="progress-info">
+<p>📍 Notebook <span class="current">1</span> / <span class="total">8</span></p>
+</div>
+<div class="progress-bar-wrapper">
+<div class="progress-bar">
+<div class="fill" style="width: 25%;">
+
+</div>
+</div>
+</div>
+<p><a href="javascript:window.print()" class="pdf-download">📄 PDF</a></p>
 </div>
 <hr>
 <section id="compétence-visée" class="level2">
@@ -1130,7 +1153,7 @@ Astuce
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/beerus\.quarto\.pub\/lire-le-coran-en-7-jours");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -1474,12 +1497,15 @@ Astuce
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Fait par يوسف
+    <a class="nav-link" href="https://quarto.org/">
+<p>Fait avec Quarto</p>
+</a>
   </li>  
 </ul>
     </div>
   </div>
 </footer>
+<script src="../pwa.js"></script>
 
 
 

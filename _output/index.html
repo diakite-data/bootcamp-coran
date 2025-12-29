@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="يوسف">
+<meta name="author" content="Bootcamp Coran">
 
 <title>Bootcamp - Lire le Coran en 7 jours – Lire le Coran en 7 jours</title>
 <style>
@@ -69,6 +69,16 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<!-- PWA Meta Tags -->
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#1F4E79">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Bootcamp Coran">
+<link rel="apple-touch-icon" href="./assets/icons/icon-152x152.png">
+<!-- Preconnect pour les polices -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -185,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Auteur·rice</div>
     <div class="quarto-title-meta-contents">
-             <p>يوسف </p>
+             <p>Bootcamp Coran </p>
           </div>
   </div>
     
@@ -446,7 +456,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/beerus\.quarto\.pub\/lire-le-coran-en-7-jours");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -790,12 +800,15 @@ ul.task-list li input[type="checkbox"] {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Fait par يوسف
+    <a class="nav-link" href="https://quarto.org/">
+<p>Fait avec Quarto</p>
+</a>
   </li>  
 </ul>
     </div>
   </div>
 </footer>
+<script src="./pwa.js"></script>
 
 
 

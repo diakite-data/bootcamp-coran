@@ -24,7 +24,7 @@ format:
 :::
 :::
 :::
-[📄 PDF](notebook-4.pdf){.pdf-download}
+[📄 PDF](javascript:window.print()){.pdf-download}
 :::
 
 ---

@@ -76,7 +76,7 @@ website:
     location: navbar
     type: textbox
 
-# Format HTML + PDF
+# Format HTML uniquement
 format:
   html:
     theme:
@@ -92,39 +92,23 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     mainfont: "Arial, sans-serif"
-    # Lien vers le PDF
-    format-links: [pdf]
-    # PWA - Inclure dans le head
+    # PWA - Chemins ABSOLUS depuis la racine
     include-in-header:
       text: |
         <!-- PWA Meta Tags -->
-        <link rel="manifest" href="manifest.json">
+        <link rel="manifest" href="/manifest.json">
         <meta name="theme-color" content="#1F4E79">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
         <meta name="apple-mobile-web-app-title" content="Bootcamp Coran">
-        <link rel="apple-touch-icon" href="assets/icons/icon-152x152.png">
+        <link rel="apple-touch-icon" href="/assets/icons/icon-152x152.png">
         <!-- Preconnect pour les polices -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    # PWA - Inclure le script à la fin
+    # PWA - Script avec chemin ABSOLU
     include-after-body:
       text: |
-        <script src="pwa.js"></script>
-  
-  pdf:
-    documentclass: article
-    papersize: a4
-    lang: fr
-    mainfont: "Amiri"
-    fontsize: 12pt
-    geometry:
-      - margin=2.5cm
-    include-in-header:
-      text: |
-        \usepackage{arabxetex}
-        \newfontfamily\arabicfont[Script=Arabic]{Amiri}
-    pdf-engine: xelatex
+        <script src="/pwa.js"></script>
 
 # Métadonnées globales
 author: "Bootcamp Coran"
