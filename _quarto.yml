@@ -18,19 +18,19 @@ website:
           - text: "0 - Introduction"
             href: notebooks/notebook-0.qmd
           - text: "---"
-          - text: "1 - Premiers sons"
+          - text: "Jour 1 - Premiers sons"
             href: notebooks/notebook-1.qmd
-          - text: "2 - Mots complets"
+          - text: "Jour 2 - Mots complets"
             href: notebooks/notebook-2.qmd
-          - text: "3 - Voyelles complètes"
+          - text: "Jour 3 - Voyelles complètes"
             href: notebooks/notebook-3.qmd
-          - text: "4 - Non-attachantes"
+          - text: "Jour 4 - Non-attachantes & Article ال"
             href: notebooks/notebook-4.qmd
-          - text: "5 - Cas spéciaux"
+          - text: "Jour 5 - Dernières lettres & Shadda"
             href: notebooks/notebook-5.qmd
-          - text: "6 - Lecture Mushaf"
+          - text: "Jour 6 - Tanwīn, Hamza & Signes spéciaux"
             href: notebooks/notebook-6.qmd
-          - text: "7 - Lecture Coran"
+          - text: "Jour 7 - Sourate Al-Fatiha"
             href: notebooks/notebook-7.qmd
     right:
       - icon: github
@@ -48,7 +48,7 @@ website:
         - section: "Introduction"
           contents:
             - notebooks/notebook-0.qmd
-        - section: "Semaine 1"
+        - section: "Parcours 7 jours"
           contents:
             - notebooks/notebook-1.qmd
             - notebooks/notebook-2.qmd
