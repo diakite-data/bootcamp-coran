@@ -14,6 +14,19 @@ format:
 [⏱️ 10-15 minutes]{.badge .duration} · [Une seule fois]{.badge .day}
 :::
 
+::: {.progress-container}
+::: {.progress-info}
+📍 Notebook [0]{.current} / [8]{.total}
+:::
+::: {.progress-bar-wrapper}
+::: {.progress-bar}
+::: {.fill style="width: 12.5%;"}
+:::
+:::
+:::
+[📄 PDF](notebook-0.pdf){.pdf-download}
+:::
+
 ---
 
 ## 🎯 Objectif du bootcamp

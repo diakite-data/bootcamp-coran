@@ -14,6 +14,19 @@ format:
 [⏱️ 45 minutes]{.badge .duration} · [Objectif final]{.badge .new}
 :::
 
+::: {.progress-container}
+::: {.progress-info}
+🎉 Notebook [7]{.current} / [8]{.total} — **Terminé !**
+:::
+::: {.progress-bar-wrapper}
+::: {.progress-bar}
+::: {.fill style="width: 100%;"}
+:::
+:::
+:::
+[📄 PDF](notebook-7.pdf){.pdf-download}
+:::
+
 ---
 
 ## 🎯 L'aboutissement du Bootcamp

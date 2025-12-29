@@ -217,6 +217,53 @@ Le fichier `styles.css` contient des variables CSS personnalisables :
 
 ---
 
+## 📱 Mode Offline (PWA)
+
+Le bootcamp fonctionne comme une **Progressive Web App** (PWA), ce qui signifie :
+
+- 📲 **Installable** sur mobile et desktop comme une application native
+- 📴 **Fonctionne hors-ligne** une fois les pages visitées
+- 🔄 **Mise à jour automatique** quand vous êtes en ligne
+
+### Installation sur mobile
+
+1. Ouvrez le site dans Chrome (Android) ou Safari (iOS)
+2. Appuyez sur le bouton **"Installer l'app"** qui apparaît
+3. Ou utilisez le menu : "Ajouter à l'écran d'accueil"
+
+### Installation sur desktop
+
+1. Ouvrez le site dans Chrome ou Edge
+2. Cliquez sur l'icône d'installation dans la barre d'adresse
+3. Ou cliquez sur le bouton **"Installer l'app"**
+
+### Générer les icônes PWA
+
+Le projet inclut un script pour générer les icônes :
+
+```bash
+# Rendre le script exécutable
+chmod +x generate-icons.sh
+
+# Générer les icônes (nécessite Inkscape ou ImageMagick)
+./generate-icons.sh
+```
+
+### Structure des fichiers PWA
+
+```
+bootcamp-coran/
+├── manifest.json        # Métadonnées de l'application
+├── service-worker.js    # Gestion du cache offline
+├── pwa.js               # Script d'installation
+└── assets/
+    └── icons/
+        ├── icon.svg     # Icône source
+        └── icon-*.png   # Icônes générées
+```
+
+---
+
 ## 📄 Licence
 
 Ce contenu pédagogique est fourni à des fins éducatives.

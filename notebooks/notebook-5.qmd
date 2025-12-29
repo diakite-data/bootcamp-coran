@@ -14,6 +14,19 @@ format:
 [⏱️ 35 minutes]{.badge .duration} · [7 nouvelles lettres]{.badge .new}
 :::
 
+::: {.progress-container}
+::: {.progress-info}
+📍 Notebook [5]{.current} / [8]{.total}
+:::
+::: {.progress-bar-wrapper}
+::: {.progress-bar}
+::: {.fill style="width: 75%;"}
+:::
+:::
+:::
+[📄 PDF](notebook-5.pdf){.pdf-download}
+:::
+
 ---
 
 ## 🎯 Compétence visée

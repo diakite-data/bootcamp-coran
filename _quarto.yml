@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _output
+  resources:
+    - manifest.json
+    - service-worker.js
+    - pwa.js
+    - assets/icons/*
 
 website:
   title: "Lire le Coran en 7 jours"
@@ -63,14 +68,15 @@ website:
     left: "Bootcamp Coran © 2025"
     center: "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
     right:
-      - text: "Fait par يوسف"
+      - text: "Fait avec Quarto"
+        href: https://quarto.org/
 
   # Options de recherche
   search:
     location: navbar
     type: textbox
 
-# Format HTML
+# Format HTML + PDF
 format:
   html:
     theme:
@@ -86,8 +92,41 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     mainfont: "Arial, sans-serif"
+    # Lien vers le PDF
+    format-links: [pdf]
+    # PWA - Inclure dans le head
+    include-in-header:
+      text: |
+        <!-- PWA Meta Tags -->
+        <link rel="manifest" href="manifest.json">
+        <meta name="theme-color" content="#1F4E79">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="apple-mobile-web-app-title" content="Bootcamp Coran">
+        <link rel="apple-touch-icon" href="assets/icons/icon-152x152.png">
+        <!-- Preconnect pour les polices -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    # PWA - Inclure le script à la fin
+    include-after-body:
+      text: |
+        <script src="pwa.js"></script>
+  
+  pdf:
+    documentclass: article
+    papersize: a4
+    lang: fr
+    mainfont: "Amiri"
+    fontsize: 12pt
+    geometry:
+      - margin=2.5cm
+    include-in-header:
+      text: |
+        \usepackage{arabxetex}
+        \newfontfamily\arabicfont[Script=Arabic]{Amiri}
+    pdf-engine: xelatex
 
 # Métadonnées globales
-author: "يوسف"
+author: "Bootcamp Coran"
 date-format: "D MMMM YYYY"
 lang: fr

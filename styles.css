@@ -416,21 +416,145 @@ td.arabic-cell {
   font-size: 1.1rem;
 }
 
-/* --- PROGRESSION --- */
+/* --- BARRE DE PROGRESSION --- */
+.progress-container {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border: 1px solid #dee2e6;
+  border-radius: 12px;
+  padding: 1rem 1.5rem;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.progress-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  color: var(--primary-blue);
+  white-space: nowrap;
+}
+
+.progress-info .current {
+  font-size: 1.5rem;
+  color: var(--primary-green);
+}
+
+.progress-info .total {
+  color: #6c757d;
+}
+
+.progress-bar-wrapper {
+  flex: 1;
+  min-width: 200px;
+}
+
 .progress-bar {
   width: 100%;
-  height: 8px;
+  height: 12px;
   background: #e0e0e0;
-  border-radius: 4px;
-  margin: 1rem 0;
+  border-radius: 6px;
   overflow: hidden;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
 }
 
 .progress-bar .fill {
   height: 100%;
   background: linear-gradient(90deg, var(--primary-green) 0%, #81C784 100%);
-  border-radius: 4px;
-  transition: width 0.3s ease;
+  border-radius: 6px;
+  transition: width 0.5s ease;
+  position: relative;
+}
+
+.progress-bar .fill::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255,255,255,0.3) 50%,
+    transparent 100%
+  );
+}
+
+.progress-steps {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  color: #6c757d;
+}
+
+/* --- BOUTON PDF --- */
+.pdf-download {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: #DC3545;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  margin-left: auto;
+}
+
+.pdf-download:hover {
+  background: #c82333;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(220, 53, 69, 0.3);
+}
+
+.pdf-download svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* Actions en haut de page */
+.page-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.page-actions .btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.page-actions .btn-pdf {
+  background: #DC3545;
+  color: white !important;
+}
+
+.page-actions .btn-pdf:hover {
+  background: #c82333;
+}
+
+.page-actions .btn-print {
+  background: #6c757d;
+  color: white !important;
+}
+
+.page-actions .btn-print:hover {
+  background: #5a6268;
 }
 
 /* --- RESPONSIVE --- */
