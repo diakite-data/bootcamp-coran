@@ -1,0 +1,31 @@
+# Métadonnées communes à tous les notebooks
+# Ces options s'appliquent automatiquement à tous les fichiers .qmd dans ce dossier
+
+# Sidebar activée
+sidebar: notebooks
+
+# Format
+format:
+  html:
+    toc: true
+    toc-title: "Sur cette page"
+    toc-depth: 3
+    toc-location: right
+    number-sections: false
+    anchor-sections: true
+    smooth-scroll: true
+
+# Langue
+lang: fr
+
+# Auteur
+author: "Bootcamp Coran"
+
+# Options de lecture
+reading-time: true
+
+# Citation désactivée
+citation: false
+
+# Commentaires désactivés
+comments: false

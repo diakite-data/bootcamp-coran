@@ -1,0 +1,491 @@
+---
+title: "Notebook 2"
+subtitle: "Mots complets & Nouvelles lettres"
+format:
+  html:
+    css: ../styles.css
+---
+
+::: {.notebook-header}
+📓 NOTEBOOK 2 · Jour 2
+
+# Mots complets & Nouvelles lettres
+
+[⏱️ 30 minutes]{.badge .duration} · [5 nouvelles lettres]{.badge .new}
+:::
+
+---
+
+## 🎯 Compétence visée
+
+À la fin de ce notebook, vous saurez :
+
+- ✅ Reconnaître et prononcer **5 nouvelles lettres**
+- ✅ Lire des **mots complets de 3+ lettres**
+- ✅ Identifier les **formes** des nouvelles lettres
+- ✅ Combiner les **9 lettres** apprises (4 + 5)
+
+---
+
+## 📝 Rappel — Lettres du Notebook 1
+
+::: {.display-box style="background: #F5F5F5;"}
+[ب    ت    م    ن]{.arabic .arabic-xl}
+
+bā' · tā' · mīm · nūn
+:::
+
+---
+
+## 🔤 Les 5 nouvelles lettres
+
+::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%);"}
+[ل    ك    ف    س    ه]{.arabic .arabic-giant style="color: #2E7D32;"}
+:::
+
+| Lettre | Nom | Son |
+|:------:|:----|:----|
+| [ل]{.arabic .arabic-xl style="color: #2E7D32;"} | **lām** | l |
+| [ك]{.arabic .arabic-xl style="color: #2E7D32;"} | **kāf** | k |
+| [ف]{.arabic .arabic-xl style="color: #2E7D32;"} | **fā'** | f |
+| [س]{.arabic .arabic-xl style="color: #2E7D32;"} | **sīn** | s |
+| [ه]{.arabic .arabic-xl style="color: #2E7D32;"} | **hā'** | h léger |
+
+::: {.callout-tip}
+## ✅ Bonne nouvelle !
+Ces 5 lettres **s'attachent avant ET après** dans un mot (comme les 4 précédentes).
+:::
+
+---
+
+## 🔄 Les formes des nouvelles lettres
+
+### Les 4 formes de chaque lettre
+
+| Lettre | Isolée | Début | Milieu | Fin |
+|:------:|:------:|:-----:|:------:|:---:|
+| lām | [ل]{.arabic .arabic-lg} | [لـ]{.arabic .arabic-lg} | [ـلـ]{.arabic .arabic-lg} | [ـل]{.arabic .arabic-lg} |
+| kāf | [ك]{.arabic .arabic-lg} | [كـ]{.arabic .arabic-lg} | [ـكـ]{.arabic .arabic-lg} | [ـك]{.arabic .arabic-lg} |
+| fā' | [ف]{.arabic .arabic-lg} | [فـ]{.arabic .arabic-lg} | [ـفـ]{.arabic .arabic-lg} | [ـف]{.arabic .arabic-lg} |
+| sīn | [س]{.arabic .arabic-lg} | [سـ]{.arabic .arabic-lg} | [ـسـ]{.arabic .arabic-lg} | [ـس]{.arabic .arabic-lg} |
+| hā' | [ه]{.arabic .arabic-lg} | [هـ]{.arabic .arabic-lg} | [ـهـ]{.arabic .arabic-lg} | [ـه]{.arabic .arabic-lg} |
+
+### Exemple : comment se forme le mot كَتَبَ
+
+::: {.display-box .yellow}
+**Lettres isolées :**
+
+[ك   +   ت   +   ب]{.arabic .arabic-xl}
+:::
+
+::: {.display-box .green}
+**Lettres attachées (avec position) :**
+
+[كـ   +   ـتـ   +   ـب]{.arabic .arabic-xl}
+
+(début) + (milieu) + (fin)
+:::
+
+::: {.display-box style="background: #C8E6C9; border-color: #4CAF50;"}
+**Résultat final :**
+
+[كَتَبَ]{.arabic .arabic-xxl}
+
+**« ka-ta-ba »** = il a écrit
+:::
+
+---
+
+## 📊 Récapitulatif — Vos 9 lettres
+
+::: {.display-box}
+**Notebook 1 :** [ب ت م ن]{.arabic .arabic-lg}
+
+**Notebook 2 :** [ل ك ف س ه]{.arabic .arabic-lg style="color: #2E7D32;"}
+
+**Total : 9 lettres**
+:::
+
+---
+
+## 👁️ Lecture guidée
+
+### Étape 1 — Les nouvelles syllabes
+
+Lisez chaque syllabe **À VOIX HAUTE** :
+
+| Syllabe | Prononciation |
+|:-------:|:-------------:|
+| [لَ]{.arabic .arabic-xxl} | **la** |
+| [كَ]{.arabic .arabic-xxl} | **ka** |
+| [فَ]{.arabic .arabic-xxl} | **fa** |
+| [سَ]{.arabic .arabic-xxl} | **sa** |
+| [هَ]{.arabic .arabic-xxl} | **ha** |
+
+::: {.callout-tip}
+Répétez **3 fois** chaque syllabe avant de passer à la suivante.
+:::
+
+---
+
+### Étape 2 — Mélange des 9 syllabes
+
+Lisez toutes les syllabes (anciennes + nouvelles) :
+
+::: {.display-box}
+[بَ   تَ   مَ   نَ   لَ   كَ   فَ   سَ   هَ]{.arabic .arabic-xl}
+:::
+
+---
+
+### Étape 3 — Mots de 2 syllabes (nouvelles lettres)
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [كَلَ]{.arabic .arabic-xl} | [لَكَ]{.arabic .arabic-xl} | [فَسَ]{.arabic .arabic-xl} | [سَفَ]{.arabic .arabic-xl} |
+| **ka-la** | **la-ka** | **fa-sa** | **sa-fa** |
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [هَلَ]{.arabic .arabic-xl} | [لَهَ]{.arabic .arabic-xl} | [كَفَ]{.arabic .arabic-xl} | [فَكَ]{.arabic .arabic-xl} |
+| **ha-la** | **la-ha** | **ka-fa** | **fa-ka** |
+
+---
+
+### Étape 4 — Mots mixtes (anciennes + nouvelles)
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [كَتَبَ]{.arabic .arabic-xl} | [فَهَمَ]{.arabic .arabic-xl} | [سَمَكَ]{.arabic .arabic-xl} | [مَلَكَ]{.arabic .arabic-xl} |
+| **ka-ta-ba** | **fa-ha-ma** | **sa-ma-ka** | **ma-la-ka** |
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [سَلَمَ]{.arabic .arabic-xl} | [نَسَبَ]{.arabic .arabic-xl} | [كَسَبَ]{.arabic .arabic-xl} | [لَبَسَ]{.arabic .arabic-xl} |
+| **sa-la-ma** | **na-sa-ba** | **ka-sa-ba** | **la-ba-sa** |
+
+---
+
+### Étape 5 — Mots plus longs (4 syllabes)
+
+| | |
+|:--:|:--:|
+| [كَتَبَهَ]{.arabic .arabic-xl} | [فَهَمَهَ]{.arabic .arabic-xl} |
+| **ka-ta-ba-ha** | **fa-ha-ma-ha** |
+
+| | |
+|:--:|:--:|
+| [سَلَمَكَ]{.arabic .arabic-xl} | [مَلَكَهَ]{.arabic .arabic-xl} |
+| **sa-la-ma-ka** | **ma-la-ka-ha** |
+
+---
+
+## 🧪 QUIZ — Testez-vous !
+
+::: {.section-quiz}
+
+### Quiz 1 — Reconnaissance des nouvelles lettres
+
+Quel est le **nom** de chaque lettre ?
+
+| 1. | 2. | 3. | 4. | 5. |
+|:--:|:--:|:--:|:--:|:--:|
+| [ف]{.arabic .arabic-xxl} | [ل]{.arabic .arabic-xxl} | [ه]{.arabic .arabic-xxl} | [س]{.arabic .arabic-xxl} | [ك]{.arabic .arabic-xxl} |
+| ___________ | ___________ | ___________ | ___________ | ___________ |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+1. fā' — 2. lām — 3. hā' — 4. sīn — 5. kāf
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 2 — Toutes les syllabes (9 lettres)
+
+Lisez chaque syllabe **à voix haute** :
+
+::: {.display-box .purple}
+[لَ   بَ   سَ   تَ   هَ   مَ   كَ   نَ   فَ]{.arabic .arabic-xl}
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 3 — Lecture de mots
+
+Lisez ces mots **SANS épeler** lettre par lettre :
+
+| | | |
+|:--:|:--:|:--:|
+| [كَتَبَ]{.arabic .arabic-xl} | [فَهَمَ]{.arabic .arabic-xl} | [سَلَمَ]{.arabic .arabic-xl} |
+| [مَلَكَ]{.arabic .arabic-xl} | [نَسَبَ]{.arabic .arabic-xl} | [لَبَسَ]{.arabic .arabic-xl} |
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 4 — Identifier les formes
+
+Dans le mot [فَهَمَ]{.arabic .arabic-lg}, quelle est la position de chaque lettre ?
+
+| Lettre | Position |
+|:------:|:---------|
+| [فـ]{.arabic .arabic-lg} | ___________ |
+| [ـهـ]{.arabic .arabic-lg} | ___________ |
+| [ـم]{.arabic .arabic-lg} | ___________ |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+- فـ → **Début** (attachée après)
+- ـهـ → **Milieu** (attachée des deux côtés)
+- ـم → **Fin** (attachée avant)
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 5 — Trouver la lettre manquante
+
+Complétez chaque mot :
+
+| Mot incomplet | Lettre manquante | Mot complet |
+|:-------------:|:----------------:|:-----------:|
+| [كَ_َبَ]{.arabic .arabic-lg} | ت | [كَتَبَ]{.arabic .arabic-lg} |
+| [فَهَ_َ]{.arabic .arabic-lg} | ? | = fa-ha-ma |
+| [سَ_َكَ]{.arabic .arabic-lg} | ? | = sa-ma-ka |
+| [مَ_َكَ]{.arabic .arabic-lg} | ? | = ma-la-ka |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+- فَهَمَ → م (mīm)
+- سَمَكَ → م (mīm)
+- مَلَكَ → ل (lām)
+:::
+
+:::
+
+---
+
+## ✍️ EXERCICES — Entraînez-vous !
+
+::: {.section-exercise}
+
+### Exercice 1 — Répétition des nouvelles syllabes
+
+Lisez chaque ligne **3 FOIS** à voix haute :
+
+::: {.display-box}
+[لَ    لَ    لَ    لَ    لَ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: white;"}
+[كَ    كَ    كَ    كَ    كَ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box}
+[فَ    فَ    فَ    فَ    فَ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: white;"}
+[سَ    سَ    سَ    سَ    سَ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box}
+[هَ    هَ    هَ    هَ    هَ]{.arabic .arabic-xl}
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 2 — Mélange des 9 syllabes
+
+Lisez dans l'ordre, **SANS hésiter** :
+
+::: {.display-box .orange}
+[بَ   لَ   تَ   كَ   مَ   فَ   نَ   سَ   هَ]{.arabic .arabic-lg}
+:::
+
+::: {.display-box style="background: white;"}
+[سَ   نَ   فَ   مَ   كَ   تَ   لَ   بَ   هَ]{.arabic .arabic-lg}
+:::
+
+::: {.display-box .orange}
+[هَ   كَ   بَ   سَ   تَ   لَ   نَ   فَ   مَ]{.arabic .arabic-lg}
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 3 — Combinaisons à 2 lettres (nouvelles)
+
+Lisez chaque combinaison :
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [لَكَ]{.arabic .arabic-lg} | [كَلَ]{.arabic .arabic-lg} | [فَسَ]{.arabic .arabic-lg} | [سَفَ]{.arabic .arabic-lg} |
+| [لَهَ]{.arabic .arabic-lg} | [هَلَ]{.arabic .arabic-lg} | [كَفَ]{.arabic .arabic-lg} | [فَكَ]{.arabic .arabic-lg} |
+| [سَهَ]{.arabic .arabic-lg} | [هَسَ]{.arabic .arabic-lg} | [كَسَ]{.arabic .arabic-lg} | [سَكَ]{.arabic .arabic-lg} |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 4 — Combinaisons mixtes (anciennes + nouvelles)
+
+Lisez chaque combinaison :
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [لَبَ]{.arabic .arabic-lg} | [بَلَ]{.arabic .arabic-lg} | [كَتَ]{.arabic .arabic-lg} | [تَكَ]{.arabic .arabic-lg} |
+| [فَمَ]{.arabic .arabic-lg} | [مَفَ]{.arabic .arabic-lg} | [سَنَ]{.arabic .arabic-lg} | [نَسَ]{.arabic .arabic-lg} |
+| [هَبَ]{.arabic .arabic-lg} | [بَهَ]{.arabic .arabic-lg} | [لَمَ]{.arabic .arabic-lg} | [مَلَ]{.arabic .arabic-lg} |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 5 — Mots de 3 lettres
+
+Lisez chaque mot **LENTEMENT**, puis **PLUS VITE** :
+
+| | | |
+|:--:|:--:|:--:|
+| [كَتَبَ]{.arabic .arabic-lg} | [فَهَمَ]{.arabic .arabic-lg} | [سَمَكَ]{.arabic .arabic-lg} |
+| **ka-ta-ba** | **fa-ha-ma** | **sa-ma-ka** |
+
+| | | |
+|:--:|:--:|:--:|
+| [مَلَكَ]{.arabic .arabic-lg} | [سَلَمَ]{.arabic .arabic-lg} | [نَسَبَ]{.arabic .arabic-lg} |
+| **ma-la-ka** | **sa-la-ma** | **na-sa-ba** |
+
+| | | |
+|:--:|:--:|:--:|
+| [كَسَبَ]{.arabic .arabic-lg} | [لَبَسَ]{.arabic .arabic-lg} | [هَلَكَ]{.arabic .arabic-lg} |
+| **ka-sa-ba** | **la-ba-sa** | **ha-la-ka** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 6 — Mots de 4 lettres
+
+| | | |
+|:--:|:--:|:--:|
+| [كَتَبَهَ]{.arabic .arabic-lg} | [فَهَمَهَ]{.arabic .arabic-lg} | [سَلَمَكَ]{.arabic .arabic-lg} |
+| **ka-ta-ba-ha** | **fa-ha-ma-ha** | **sa-la-ma-ka** |
+
+| | | |
+|:--:|:--:|:--:|
+| [مَلَكَهَ]{.arabic .arabic-lg} | [سَمَكَتَ]{.arabic .arabic-lg} | [نَسَبَهَ]{.arabic .arabic-lg} |
+| **ma-la-ka-ha** | **sa-ma-ka-ta** | **na-sa-ba-ha** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 7 — Lecture continue
+
+Lisez toute la ligne **D'UN SEUL SOUFFLE** :
+
+::: {.display-box .green}
+[كَتَبَ   فَهَمَ   سَلَمَ   مَلَكَ]{.arabic .arabic-lg}
+:::
+
+::: {.display-box style="background: #C8E6C9; border-color: #4CAF50;"}
+[نَسَبَ   كَسَبَ   لَبَسَ   هَلَكَ]{.arabic .arabic-lg}
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 8 — Dictée inversée
+
+Lisez à voix haute, puis vérifiez votre prononciation :
+
+| Vous lisez | C'est correct si vous dites |
+|:----------:|:----------------------------|
+| [كَتَبَ]{.arabic .arabic-lg} | **ka-ta-ba** |
+| [فَهَمَ]{.arabic .arabic-lg} | **fa-ha-ma** |
+| [سَمَكَ]{.arabic .arabic-lg} | **sa-ma-ka** |
+| [مَلَكَ]{.arabic .arabic-lg} | **ma-la-ka** |
+| [كَتَبَهَ]{.arabic .arabic-lg} | **ka-ta-ba-ha** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 9 — Lecture rapide ⏱️
+
+**Chronométrez-vous !** Lisez cette grille le plus vite possible :
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [لَ]{.arabic .arabic-lg} | [كَ]{.arabic .arabic-lg} | [فَ]{.arabic .arabic-lg} | [سَ]{.arabic .arabic-lg} |
+| [بَ]{.arabic .arabic-lg} | [تَ]{.arabic .arabic-lg} | [مَ]{.arabic .arabic-lg} | [نَ]{.arabic .arabic-lg} |
+| [هَ]{.arabic .arabic-lg} | [لَ]{.arabic .arabic-lg} | [بَ]{.arabic .arabic-lg} | [كَ]{.arabic .arabic-lg} |
+| [فَ]{.arabic .arabic-lg} | [مَ]{.arabic .arabic-lg} | [سَ]{.arabic .arabic-lg} | [تَ]{.arabic .arabic-lg} |
+
+::: {.callout-tip}
+🎯 **Objectif** : moins de 15 secondes !
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 10 — Lecture finale
+
+Lisez ce texte complet **sans vous arrêter** :
+
+::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); border: 3px solid #4CAF50;"}
+[لَ   كَ   فَ   سَ   هَ]{.arabic .arabic-lg}
+
+[لَكَ   كَفَ   فَسَ   سَهَ   هَلَ]{.arabic .arabic-lg}
+
+[كَتَبَ   فَهَمَ   سَلَمَ   مَلَكَ]{.arabic .arabic-lg}
+
+[كَتَبَهَ   فَهَمَهَ   سَلَمَكَ   مَلَكَهَ]{.arabic .arabic-lg}
+:::
+
+:::
+
+---
+
+## ✅ Validation du Notebook 2
+
+Avant de passer au Notebook 3, vérifiez que vous maîtrisez :
+
+- [ ] Je reconnais les 5 nouvelles lettres : [ل ك ف س ه]{.arabic .arabic-md}
+- [ ] Je connais les 4 formes de chaque nouvelle lettre
+- [ ] Je lis les syllabes des 9 lettres sans hésiter
+- [ ] Je lis les mots de 3 lettres de façon fluide
+- [ ] Je lis les mots de 4 lettres sans blocage
+
+::: {.callout-note}
+## 💡 Conseil
+Si vous hésitez encore, **refaites les exercices demain** avant de continuer.
+:::
+
+---
+
+::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none;"}
+🎉 **Bravo !**
+
+Vous connaissez maintenant **9 lettres** sur 28 !
+
+Rendez-vous au Notebook 3 pour les voyelles complètes !
+:::
+
+---
+
+::: {.nav-buttons}
+[← Notebook 1](notebook-1.html){.nav-btn .prev}
+[Notebook 3 →](notebook-3.html){.nav-btn}
+:::

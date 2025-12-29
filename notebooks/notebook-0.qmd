@@ -1,0 +1,194 @@
+---
+title: "Notebook 0"
+subtitle: "Introduction & Cadre pédagogique"
+format:
+  html:
+    css: ../styles.css
+---
+
+::: {.notebook-header}
+📓 NOTEBOOK 0
+
+# Introduction & Cadre pédagogique
+
+[⏱️ 10-15 minutes]{.badge .duration} · [Une seule fois]{.badge .day}
+:::
+
+---
+
+## 🎯 Objectif du bootcamp
+
+À la fin des 7 jours, vous saurez **lire le Coran vocalisé** (avec les signes de vocalisation).
+
+::: {.callout-warning}
+## ⚠️ Lire ≠ Comprendre
+L'objectif est la **lecture correcte**, lente mais sans erreur.
+
+La compréhension du sens (tafsīr) est une étape ultérieure, distincte de ce bootcamp.
+:::
+
+---
+
+## 📖 Sens de lecture
+
+L'arabe se lit de **droite vers la gauche**.
+
+::: {.display-box}
+← ← ← ← ← ← ← ← ← ← ← ←
+
+[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-xl}
+:::
+
+---
+
+## 🔤 Les 28 lettres de l'alphabet arabe
+
+Voici **toutes les lettres** que vous apprendrez durant ce bootcamp :
+
+### Lettres 1 à 14
+
+| # | Lettre | Nom | Son |
+|:-:|:------:|:----|:----|
+| 1 | [ا]{.arabic .arabic-lg} | alif | ā / support |
+| 2 | [ب]{.arabic .arabic-lg} | bā' | b |
+| 3 | [ت]{.arabic .arabic-lg} | tā' | t |
+| 4 | [ث]{.arabic .arabic-lg} | thā' | th (think) |
+| 5 | [ج]{.arabic .arabic-lg} | jīm | j |
+| 6 | [ح]{.arabic .arabic-lg} | ḥā' | ḥ aspiré |
+| 7 | [خ]{.arabic .arabic-lg} | khā' | kh (Bach) |
+| 8 | [د]{.arabic .arabic-lg} | dāl | d |
+| 9 | [ذ]{.arabic .arabic-lg} | dhāl | dh (the) |
+| 10 | [ر]{.arabic .arabic-lg} | rā' | r roulé |
+| 11 | [ز]{.arabic .arabic-lg} | zāy | z |
+| 12 | [س]{.arabic .arabic-lg} | sīn | s |
+| 13 | [ش]{.arabic .arabic-lg} | shīn | ch |
+| 14 | [ص]{.arabic .arabic-lg} | ṣād | ṣ emphatique |
+
+### Lettres 15 à 28
+
+| # | Lettre | Nom | Son |
+|:-:|:------:|:----|:----|
+| 15 | [ض]{.arabic .arabic-lg} | ḍād | ḍ emphatique |
+| 16 | [ط]{.arabic .arabic-lg} | ṭā' | ṭ emphatique |
+| 17 | [ظ]{.arabic .arabic-lg} | ẓā' | ẓ emphatique |
+| 18 | [ع]{.arabic .arabic-lg} | ʿayn | ʿ guttural |
+| 19 | [غ]{.arabic .arabic-lg} | ghayn | gh (r parisien) |
+| 20 | [ف]{.arabic .arabic-lg} | fā' | f |
+| 21 | [ق]{.arabic .arabic-lg} | qāf | q profond |
+| 22 | [ك]{.arabic .arabic-lg} | kāf | k |
+| 23 | [ل]{.arabic .arabic-lg} | lām | l |
+| 24 | [م]{.arabic .arabic-lg} | mīm | m |
+| 25 | [ن]{.arabic .arabic-lg} | nūn | n |
+| 26 | [ه]{.arabic .arabic-lg} | hā' | h léger |
+| 27 | [و]{.arabic .arabic-lg} | wāw | w / ū |
+| 28 | [ي]{.arabic .arabic-lg} | yā' | y / ī |
+
+---
+
+## 🔀 Ordre d'apprentissage ≠ ordre alphabétique
+
+::: {.callout-important}
+## ⚠️ Important
+Nous n'apprendrons **PAS** les lettres dans l'ordre alphabétique traditionnel.
+:::
+
+Pourquoi ? Parce que nous les regroupons par **logique pédagogique** :
+
+| Notebook | Lettres | Logique |
+|:--------:|:--------|:--------|
+| 1 | [ب ت م ن]{.arabic .arabic-md} | Lettres simples, faciles, s'attachent |
+| 2 | [ل ك ف س ه]{.arabic .arabic-md} | Idem, permet de former des mots |
+| 3 | [ج ش ي ق ع غ]{.arabic .arabic-md} | Nouveaux sons + voyelles complètes |
+| 4 | [ا د ذ ر ز و]{.arabic .arabic-md} | **NE S'ATTACHENT PAS** → règle capitale |
+| 5 | [ث ح خ ص ض ط ظ]{.arabic .arabic-md} | Lettres emphatiques + cas spéciaux |
+
+::: {.callout-tip}
+## Cette progression permet de :
+- ✅ **Lire des mots dès le Jour 1**
+- ✅ **Éviter la surcharge cognitive**
+- ✅ **Regrouper les difficultés similaires**
+:::
+
+---
+
+## ✏️ Les signes de vocalisation (ḥarakāt)
+
+Le Coran est **vocalisé** : chaque lettre porte un signe qui indique comment la prononcer.
+
+| Signe | Nom | Son | Exemple |
+|:-----:|:----|:----|:--------|
+| [◌َ]{.arabic .arabic-lg} | Fatha | a | [بَ]{.arabic .arabic-md} = ba |
+| [◌ِ]{.arabic .arabic-lg} | Kasra | i | [بِ]{.arabic .arabic-md} = bi |
+| [◌ُ]{.arabic .arabic-lg} | Damma | ou | [بُ]{.arabic .arabic-md} = bou |
+| [◌ْ]{.arabic .arabic-lg} | Sukūn | — (muet) | [بْ]{.arabic .arabic-md} = b |
+| [◌ّ]{.arabic .arabic-lg} | Shadda | doublement | [بّ]{.arabic .arabic-md} = bb |
+| [◌ً ◌ٍ ◌ٌ]{.arabic .arabic-md} | Tanwīn | -an / -in / -oun | [كِتَابًا]{.arabic .arabic-md} |
+
+::: {.callout-note}
+Ces signes seront introduits **progressivement** (Notebooks 1 à 6).
+:::
+
+---
+
+## 📋 Règles du bootcamp
+
+::: {.custom-box .info}
+1. **30 minutes par jour** — pas plus, pas moins
+2. **Lire à voix haute** — indispensable pour l'arabe
+3. **Ne pas brûler les étapes** — chaque notebook prépare le suivant
+4. **Faire les quiz** — ils valident votre progression
+5. **Répéter** — la répétition ancre la mémoire
+:::
+
+---
+
+## 🗓️ Parcours des 7 jours
+
+| Jour | Notebook | Objectif |
+|:----:|:---------|:---------|
+| — | 0 - Introduction | Comprendre la méthode (ce notebook) |
+| 1 | 1 - Premiers sons | Lire des syllabes simples |
+| 2 | 2 - Mots complets | Lire des mots de 3+ lettres |
+| 3 | 3 - Voyelles complètes | Maîtriser toutes les voyelles |
+| 4 | 4 - Non-attachantes | Gérer les lettres qui coupent |
+| 5 | 5 - Cas spéciaux | Lettres emphatiques + cas coraniques |
+| 6 | 6 - Lecture Mushaf | Lire comme dans le Coran |
+| 7 | 7 - Lecture Coran | Sourates complètes ✓ |
+
+---
+
+## ❌ Ce que ce bootcamp N'EST PAS
+
+::: {.custom-box .danger}
+- ❌ Un cours de grammaire arabe
+- ❌ Un cours de compréhension (tafsīr)
+- ❌ Un cours de tajwīd avancé
+- ❌ Un cours d'écriture
+:::
+
+## ✅ Ce que ce bootcamp EST
+
+::: {.custom-box .success}
+- ✅ Un entraînement intensif à la **lecture**
+- ✅ Une méthode pour **déchiffrer** le Coran vocalisé
+- ✅ Une base solide pour **aller plus loin**
+:::
+
+---
+
+## 🚀 Prêt ?
+
+Passez au **Notebook 1** et commencez votre première session de 30 minutes.
+
+::: {.display-box style="background: linear-gradient(135deg, #1F4E79 0%, #2E74B5 100%); border: none; color: white;"}
+[بِسْمِ اللَّهِ]{.arabic .arabic-xxl style="color: white;"}
+
+*Au nom de Dieu*
+:::
+
+---
+
+::: {.nav-buttons}
+[← Accueil](../index.html){.nav-btn .prev}
+[Notebook 1 →](notebook-1.html){.nav-btn}
+:::

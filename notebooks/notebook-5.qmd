@@ -1,0 +1,566 @@
+---
+title: "Notebook 5"
+subtitle: "Les 7 dernières lettres & La Shadda"
+format:
+  html:
+    css: ../styles.css
+---
+
+::: {.notebook-header}
+📓 NOTEBOOK 5 · Jour 5
+
+# Les 7 dernières lettres & La Shadda
+
+[⏱️ 35 minutes]{.badge .duration} · [7 nouvelles lettres]{.badge .new}
+:::
+
+---
+
+## 🎯 Compétence visée
+
+À la fin de ce notebook, vous saurez :
+
+- ✅ Reconnaître les **7 dernières lettres** de l'alphabet
+- ✅ Prononcer les **sons emphatiques et gutturaux**
+- ✅ Maîtriser la **Shadda** (doublement de consonne)
+- ✅ Lire avec les **28 lettres** complètes !
+
+---
+
+## 📝 Rappel — Vos 21 lettres
+
+::: {.display-box style="background: #F5F5F5;"}
+**S'attachent :** [ب ت م ن ل ك ف س ه ج ش ي ق ع غ]{.arabic .arabic-md}
+
+**Ne s'attachent pas :** [ا د ذ ر ز و]{.arabic .arabic-md}
+:::
+
+---
+
+## 🔤 Les 7 dernières lettres
+
+::: {.display-box style="background: linear-gradient(135deg, #FFF3E0 0%, #FFE0B2 100%); border: 3px solid #FF9800;"}
+[ث    ح    خ    ص    ض    ط    ظ]{.arabic .arabic-giant style="color: #E65100;"}
+:::
+
+| Lettre | Nom | Son | Type |
+|:------:|:----|:----|:-----|
+| [ث]{.arabic .arabic-xl style="color: #E65100;"} | **thā'** | th | comme "think" anglais |
+| [ح]{.arabic .arabic-xl style="color: #E65100;"} | **ḥā'** | ḥ | H soufflé du fond de la gorge |
+| [خ]{.arabic .arabic-xl style="color: #E65100;"} | **khā'** | kh | comme "Bach" allemand |
+| [ص]{.arabic .arabic-xl style="color: #E65100;"} | **ṣād** | ṣ | S emphatique (lourd) |
+| [ض]{.arabic .arabic-xl style="color: #E65100;"} | **ḍād** | ḍ | D emphatique (lourd) |
+| [ط]{.arabic .arabic-xl style="color: #E65100;"} | **ṭā'** | ṭ | T emphatique (lourd) |
+| [ظ]{.arabic .arabic-xl style="color: #E65100;"} | **ẓā'** | ẓ | DH emphatique (lourd) |
+
+::: {.callout-tip}
+## ✅ Bonne nouvelle !
+Ces 7 lettres **s'attachent** avant ET après (comme la majorité).
+:::
+
+---
+
+## ⚠️ Les sons difficiles
+
+### Les lettres EMPHATIQUES
+
+::: {.callout-warning}
+## Qu'est-ce qu'une lettre emphatique ?
+
+C'est une lettre prononcée avec la **langue contre le palais** et une **résonance profonde**.
+
+Comparez :
+- [س]{.arabic .arabic-lg} (sīn) = S léger → [ص]{.arabic .arabic-lg} (ṣād) = S **lourd**
+- [ت]{.arabic .arabic-lg} (tā') = T léger → [ط]{.arabic .arabic-lg} (ṭā') = T **lourd**
+- [د]{.arabic .arabic-lg} (dāl) = D léger → [ض]{.arabic .arabic-lg} (ḍād) = D **lourd**
+- [ذ]{.arabic .arabic-lg} (dhāl) = DH léger → [ظ]{.arabic .arabic-lg} (ẓā') = DH **lourd**
+:::
+
+### Les lettres GUTTURALES
+
+| Lettre | Description |
+|:------:|:------------|
+| [ح]{.arabic .arabic-xxl} | Souffle **profond** du fond de la gorge (pas un simple H) |
+| [خ]{.arabic .arabic-xxl} | Comme le **ch** allemand dans "Bach" ou le **j** espagnol dans "José" |
+
+---
+
+## 🔄 Les formes des nouvelles lettres
+
+| Lettre | Isolée | Début | Milieu | Fin |
+|:------:|:------:|:-----:|:------:|:---:|
+| thā' | [ث]{.arabic .arabic-lg} | [ثـ]{.arabic .arabic-lg} | [ـثـ]{.arabic .arabic-lg} | [ـث]{.arabic .arabic-lg} |
+| ḥā' | [ح]{.arabic .arabic-lg} | [حـ]{.arabic .arabic-lg} | [ـحـ]{.arabic .arabic-lg} | [ـح]{.arabic .arabic-lg} |
+| khā' | [خ]{.arabic .arabic-lg} | [خـ]{.arabic .arabic-lg} | [ـخـ]{.arabic .arabic-lg} | [ـخ]{.arabic .arabic-lg} |
+| ṣād | [ص]{.arabic .arabic-lg} | [صـ]{.arabic .arabic-lg} | [ـصـ]{.arabic .arabic-lg} | [ـص]{.arabic .arabic-lg} |
+| ḍād | [ض]{.arabic .arabic-lg} | [ضـ]{.arabic .arabic-lg} | [ـضـ]{.arabic .arabic-lg} | [ـض]{.arabic .arabic-lg} |
+| ṭā' | [ط]{.arabic .arabic-lg} | [طـ]{.arabic .arabic-lg} | [ـطـ]{.arabic .arabic-lg} | [ـط]{.arabic .arabic-lg} |
+| ẓā' | [ظ]{.arabic .arabic-lg} | [ظـ]{.arabic .arabic-lg} | [ـظـ]{.arabic .arabic-lg} | [ـظ]{.arabic .arabic-lg} |
+
+::: {.callout-note}
+## 💡 Observation des paires
+
+Remarquez les ressemblances :
+- [ث]{.arabic .arabic-lg} ressemble à [ب]{.arabic .arabic-lg} [ت]{.arabic .arabic-lg} (3 points dessus)
+- [ح]{.arabic .arabic-lg} ressemble à [ج]{.arabic .arabic-lg} (sans point)
+- [خ]{.arabic .arabic-lg} ressemble à [ج]{.arabic .arabic-lg} (point dessus)
+- [ص]{.arabic .arabic-lg} ressemble à [ض]{.arabic .arabic-lg} (avec/sans point)
+- [ط]{.arabic .arabic-lg} ressemble à [ظ]{.arabic .arabic-lg} (avec/sans point)
+:::
+
+---
+
+## ✏️ La SHADDA — Doublement de consonne
+
+::: {.display-box style="background: linear-gradient(135deg, #F3E5F5 0%, #E1BEE7 100%); border: 3px solid #9C27B0;"}
+[◌ّ]{.arabic .arabic-giant style="color: #7B1FA2;"}
+
+**Shadda** = la consonne est **doublée**
+:::
+
+### Comment ça fonctionne ?
+
+La Shadda indique que la lettre est prononcée **deux fois** :
+
+| Sans Shadda | Avec Shadda | Prononciation |
+|:-----------:|:-----------:|:-------------:|
+| [كَتَبَ]{.arabic .arabic-xl} | [كَتَّبَ]{.arabic .arabic-xl} | kat-**ta**-ba |
+| kataba | kat**t**aba | (le ت est doublé) |
+
+::: {.callout-important}
+## ⚠️ Règle importante
+
+La Shadda porte **toujours** une voyelle (Fatha, Kasra ou Damma) :
+
+- [◌َّ]{.arabic .arabic-xxl} = Shadda + Fatha → consonne doublée + "a"
+- [◌ِّ]{.arabic .arabic-xxl} = Shadda + Kasra → consonne doublée + "i"
+- [◌ُّ]{.arabic .arabic-xxl} = Shadda + Damma → consonne doublée + "ou"
+:::
+
+### Exemples avec Shadda
+
+| Mot | Décomposition | Prononciation |
+|:---:|:-------------:|:-------------:|
+| [رَبَّ]{.arabic .arabic-xl} | rab + ba | **rab-ba** |
+| [إِنَّ]{.arabic .arabic-xl} | in + na | **in-na** |
+| [كُلَّ]{.arabic .arabic-xl} | kul + la | **koul-la** |
+| [صَلَّى]{.arabic .arabic-xl} | ṣal + lā | **ṣal-lā** |
+| [مُحَمَّدَ]{.arabic .arabic-xl} | mu-ḥam + ma-da | **mou-ḥam-ma-da** |
+
+---
+
+## 🎉 L'ALPHABET COMPLET !
+
+::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); border: 3px solid #4CAF50;"}
+**Félicitations ! Vous connaissez les 28 lettres !**
+
+[ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي]{.arabic .arabic-lg}
+:::
+
+### Récapitulatif par catégorie
+
+| Catégorie | Lettres |
+|:----------|:--------|
+| **S'attachent (22)** | [ب ت ث ج ح خ س ش ص ض ط ظ ع غ ف ق ك ل م ن ه ي]{.arabic .arabic-md} |
+| **Ne s'attachent pas (6)** | [ا د ذ ر ز و]{.arabic .arabic-md style="color: #C62828;"} |
+
+---
+
+## 👁️ Lecture guidée
+
+### Étape 1 — Les nouvelles syllabes
+
+| Syllabe | Prononciation |
+|:-------:|:-------------:|
+| [ثَ]{.arabic .arabic-xxl} | **tha** |
+| [حَ]{.arabic .arabic-xxl} | **ḥa** |
+| [خَ]{.arabic .arabic-xxl} | **kha** |
+| [صَ]{.arabic .arabic-xxl} | **ṣa** |
+| [ضَ]{.arabic .arabic-xxl} | **ḍa** |
+| [طَ]{.arabic .arabic-xxl} | **ṭa** |
+| [ظَ]{.arabic .arabic-xxl} | **ẓa** |
+
+---
+
+### Étape 2 — Toutes les voyelles sur les nouvelles lettres
+
+::: {.display-box}
+**Avec Fatha (a) :**
+
+[ثَ   حَ   خَ   صَ   ضَ   طَ   ظَ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box .green}
+**Avec Kasra (i) :**
+
+[ثِ   حِ   خِ   صِ   ضِ   طِ   ظِ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: #E3F2FD;"}
+**Avec Damma (ou) :**
+
+[ثُ   حُ   خُ   صُ   ضُ   طُ   ظُ]{.arabic .arabic-xl}
+:::
+
+---
+
+### Étape 3 — Comparaison léger/emphatique
+
+Lisez les paires en sentant la différence :
+
+| Léger | Emphatique |
+|:-----:|:----------:|
+| [سَ]{.arabic .arabic-xxl} **sa** | [صَ]{.arabic .arabic-xxl} **ṣa** |
+| [تَ]{.arabic .arabic-xxl} **ta** | [طَ]{.arabic .arabic-xxl} **ṭa** |
+| [دَ]{.arabic .arabic-xxl} **da** | [ضَ]{.arabic .arabic-xxl} **ḍa** |
+| [ذَ]{.arabic .arabic-xxl} **dha** | [ظَ]{.arabic .arabic-xxl} **ẓa** |
+
+---
+
+### Étape 4 — Mots avec les nouvelles lettres
+
+| Mot | Prononciation | Sens |
+|:---:|:-------------:|:-----|
+| [ثَلاثَةَ]{.arabic .arabic-xl} | **tha-lā-tha** | trois |
+| [حَمْدَ]{.arabic .arabic-xl} | **ḥam-da** | louange |
+| [خَلَقَ]{.arabic .arabic-xl} | **kha-la-qa** | il a créé |
+| [صَبَرَ]{.arabic .arabic-xl} | **ṣa-ba-ra** | il a patienté |
+| [ضَرَبَ]{.arabic .arabic-xl} | **ḍa-ra-ba** | il a frappé |
+| [طَلَبَ]{.arabic .arabic-xl} | **ṭa-la-ba** | il a demandé |
+| [ظَلَمَ]{.arabic .arabic-xl} | **ẓa-la-ma** | il a opprimé |
+
+---
+
+### Étape 5 — Mots avec Shadda
+
+| Mot | Prononciation | Sens |
+|:---:|:-------------:|:-----|
+| [رَبَّ]{.arabic .arabic-xl} | **rab-ba** | seigneur |
+| [إِنَّ]{.arabic .arabic-xl} | **in-na** | certes |
+| [أَنَّ]{.arabic .arabic-xl} | **an-na** | que |
+| [كُلَّ]{.arabic .arabic-xl} | **koul-la** | tout |
+| [صَلَّى]{.arabic .arabic-xl} | **ṣal-lā** | il a prié |
+| [مُحَمَّدَ]{.arabic .arabic-xl} | **mou-ḥam-ma-da** | Muhammad |
+
+---
+
+### Étape 6 — Mots coraniques
+
+Ces mots apparaissent fréquemment dans le Coran :
+
+| Mot | Prononciation | Sens |
+|:---:|:-------------:|:-----|
+| [الْحَمْدُ]{.arabic .arabic-xl} | **al-ḥam-dou** | la louange |
+| [الرَّحْمَنِ]{.arabic .arabic-xl} | **ar-raḥ-mā-ni** | le Tout-Miséricordieux |
+| [الرَّحِيمِ]{.arabic .arabic-xl} | **ar-ra-ḥī-mi** | le Très-Miséricordieux |
+| [الصِّرَاطَ]{.arabic .arabic-xl} | **aṣ-ṣi-rā-ṭa** | le chemin |
+| [الْمُسْتَقِيمَ]{.arabic .arabic-xl} | **al-mous-ta-qī-ma** | le droit |
+
+---
+
+## 🧪 QUIZ — Testez-vous !
+
+::: {.section-quiz}
+
+### Quiz 1 — Reconnaissance des nouvelles lettres
+
+Quel est le **nom** de chaque lettre ?
+
+| 1. | 2. | 3. | 4. | 5. | 6. | 7. |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [ص]{.arabic .arabic-xxl} | [ث]{.arabic .arabic-xxl} | [ط]{.arabic .arabic-xxl} | [ح]{.arabic .arabic-xxl} | [ض]{.arabic .arabic-xxl} | [خ]{.arabic .arabic-xxl} | [ظ]{.arabic .arabic-xxl} |
+| _____ | _____ | _____ | _____ | _____ | _____ | _____ |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+1. ṣād — 2. thā' — 3. ṭā' — 4. ḥā' — 5. ḍād — 6. khā' — 7. ẓā'
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 2 — Distinguer léger et emphatique
+
+Quelle lettre est **emphatique** dans chaque paire ?
+
+| Paire | Emphatique |
+|:-----:|:----------:|
+| [س]{.arabic .arabic-xl} / [ص]{.arabic .arabic-xl} | _______ |
+| [ت]{.arabic .arabic-xl} / [ط]{.arabic .arabic-xl} | _______ |
+| [د]{.arabic .arabic-xl} / [ض]{.arabic .arabic-xl} | _______ |
+| [ذ]{.arabic .arabic-xl} / [ظ]{.arabic .arabic-xl} | _______ |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+- ص (ṣād) est emphatique
+- ط (ṭā') est emphatique
+- ض (ḍād) est emphatique
+- ظ (ẓā') est emphatique
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 3 — Identifier la Shadda
+
+Quel mot contient une **Shadda** ?
+
+| | | |
+|:--:|:--:|:--:|
+| [كَتَبَ]{.arabic .arabic-xl} | [رَبَّ]{.arabic .arabic-xl} | [ذَهَبَ]{.arabic .arabic-xl} |
+| [صَبَرَ]{.arabic .arabic-xl} | [إِنَّ]{.arabic .arabic-xl} | [خَلَقَ]{.arabic .arabic-xl} |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+Les mots avec Shadda : [رَبَّ]{.arabic .arabic-lg} et [إِنَّ]{.arabic .arabic-lg}
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 4 — Lecture de mots
+
+Lisez ces mots **SANS épeler** :
+
+| | | |
+|:--:|:--:|:--:|
+| [ثَلاثَةَ]{.arabic .arabic-xl} | [حَمْدَ]{.arabic .arabic-xl} | [خَلَقَ]{.arabic .arabic-xl} |
+| [صَبَرَ]{.arabic .arabic-xl} | [ضَرَبَ]{.arabic .arabic-xl} | [طَلَبَ]{.arabic .arabic-xl} |
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 5 — Alphabet complet
+
+Lisez l'alphabet arabe **sans vous arrêter** :
+
+::: {.display-box .purple}
+[ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي]{.arabic .arabic-lg}
+:::
+
+:::
+
+---
+
+## ✍️ EXERCICES — Entraînez-vous !
+
+::: {.section-exercise}
+
+### Exercice 1 — Répétition des nouvelles syllabes
+
+Lisez chaque ligne **3 FOIS** à voix haute :
+
+::: {.display-box}
+[ثَ    ثِ    ثُ    ثْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: white;"}
+[حَ    حِ    حُ    حْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box}
+[خَ    خِ    خُ    خْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: white;"}
+[صَ    صِ    صُ    صْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box}
+[ضَ    ضِ    ضُ    ضْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: white;"}
+[طَ    طِ    طُ    طْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box}
+[ظَ    ظِ    ظُ    ظْ]{.arabic .arabic-xl}
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 2 — Paires léger/emphatique
+
+Prononcez **en alternant** :
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [سَ]{.arabic .arabic-lg} | [صَ]{.arabic .arabic-lg} | [سِ]{.arabic .arabic-lg} | [صِ]{.arabic .arabic-lg} |
+| **sa** | **ṣa** | **si** | **ṣi** |
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [تَ]{.arabic .arabic-lg} | [طَ]{.arabic .arabic-lg} | [تُ]{.arabic .arabic-lg} | [طُ]{.arabic .arabic-lg} |
+| **ta** | **ṭa** | **tou** | **ṭou** |
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [دَ]{.arabic .arabic-lg} | [ضَ]{.arabic .arabic-lg} | [دِ]{.arabic .arabic-lg} | [ضِ]{.arabic .arabic-lg} |
+| **da** | **ḍa** | **di** | **ḍi** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 3 — Mots avec nouvelles lettres
+
+| | | |
+|:--:|:--:|:--:|
+| [ثَلاثَةَ]{.arabic .arabic-lg} | [حَمْدَ]{.arabic .arabic-lg} | [خَلَقَ]{.arabic .arabic-lg} |
+| **tha-lā-tha** | **ḥam-da** | **kha-la-qa** |
+
+| | | |
+|:--:|:--:|:--:|
+| [صَبَرَ]{.arabic .arabic-lg} | [ضَرَبَ]{.arabic .arabic-lg} | [طَلَبَ]{.arabic .arabic-lg} |
+| **ṣa-ba-ra** | **ḍa-ra-ba** | **ṭa-la-ba** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 4 — Mots avec Shadda
+
+| | | |
+|:--:|:--:|:--:|
+| [رَبَّ]{.arabic .arabic-lg} | [إِنَّ]{.arabic .arabic-lg} | [أَنَّ]{.arabic .arabic-lg} |
+| **rab-ba** | **in-na** | **an-na** |
+
+| | | |
+|:--:|:--:|:--:|
+| [كُلَّ]{.arabic .arabic-lg} | [صَلَّى]{.arabic .arabic-lg} | [مُحَمَّدَ]{.arabic .arabic-lg} |
+| **koul-la** | **ṣal-lā** | **mou-ḥam-ma-da** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 5 — Mots coraniques
+
+| | | |
+|:--:|:--:|:--:|
+| [الْحَمْدُ]{.arabic .arabic-lg} | [لِلَّهِ]{.arabic .arabic-lg} | [رَبِّ]{.arabic .arabic-lg} |
+| **al-ḥam-dou** | **lil-lā-hi** | **rab-bi** |
+
+| | | |
+|:--:|:--:|:--:|
+| [الرَّحْمَنِ]{.arabic .arabic-lg} | [الرَّحِيمِ]{.arabic .arabic-lg} | [الْعَالَمِينَ]{.arabic .arabic-lg} |
+| **ar-raḥ-mā-ni** | **ar-ra-ḥī-mi** | **al-ʿā-la-mī-na** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 6 — L'alphabet complet (ordre)
+
+Récitez l'alphabet arabe **dans l'ordre** :
+
+::: {.display-box .orange}
+[ا ب ت ث ج ح خ]{.arabic .arabic-lg}
+:::
+
+::: {.display-box style="background: white;"}
+[د ذ ر ز س ش ص ض]{.arabic .arabic-lg}
+:::
+
+::: {.display-box .orange}
+[ط ظ ع غ ف ق ك]{.arabic .arabic-lg}
+:::
+
+::: {.display-box style="background: white;"}
+[ل م ن ه و ي]{.arabic .arabic-lg}
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 7 — Dictée inversée
+
+| Vous lisez | C'est correct si vous dites |
+|:----------:|:----------------------------|
+| [حَمْدَ]{.arabic .arabic-lg} | **ḥam-da** |
+| [صَبَرَ]{.arabic .arabic-lg} | **ṣa-ba-ra** |
+| [رَبَّ]{.arabic .arabic-lg} | **rab-ba** |
+| [الرَّحِيمِ]{.arabic .arabic-lg} | **ar-ra-ḥī-mi** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 8 — Lecture rapide ⏱️
+
+**Chronométrez-vous !**
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [ثَ]{.arabic .arabic-lg} | [حَ]{.arabic .arabic-lg} | [خَ]{.arabic .arabic-lg} | [صَ]{.arabic .arabic-lg} |
+| [ضَ]{.arabic .arabic-lg} | [طَ]{.arabic .arabic-lg} | [ظَ]{.arabic .arabic-lg} | [ثِ]{.arabic .arabic-lg} |
+| [حِ]{.arabic .arabic-lg} | [خِ]{.arabic .arabic-lg} | [صِ]{.arabic .arabic-lg} | [ضِ]{.arabic .arabic-lg} |
+| [طُ]{.arabic .arabic-lg} | [ظُ]{.arabic .arabic-lg} | [ثُ]{.arabic .arabic-lg} | [حُ]{.arabic .arabic-lg} |
+
+::: {.callout-tip}
+🎯 **Objectif** : moins de 20 secondes !
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 9 — Lecture finale
+
+Lisez ce texte complet **sans vous arrêter** :
+
+::: {.display-box style="background: linear-gradient(135deg, #FFF3E0 0%, #FFE0B2 100%); border: 3px solid #FF9800;"}
+[ث ح خ ص ض ط ظ]{.arabic .arabic-lg}
+
+[ثَلاثَةَ   حَمْدَ   خَلَقَ]{.arabic .arabic-lg}
+
+[صَبَرَ   ضَرَبَ   طَلَبَ   ظَلَمَ]{.arabic .arabic-lg}
+
+[رَبَّ   إِنَّ   كُلَّ   صَلَّى]{.arabic .arabic-lg}
+
+[الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg}
+:::
+
+:::
+
+---
+
+## ✅ Validation du Notebook 5
+
+Avant de passer au Notebook 6, vérifiez que vous maîtrisez :
+
+- [ ] Je reconnais les 7 dernières lettres : [ث ح خ ص ض ط ظ]{.arabic .arabic-md}
+- [ ] Je distingue les lettres légères des emphatiques
+- [ ] Je prononce correctement [ح]{.arabic} (ḥā') et [خ]{.arabic} (khā')
+- [ ] Je reconnais et prononce la Shadda (doublement)
+- [ ] Je peux réciter les **28 lettres** de l'alphabet
+
+::: {.callout-note}
+## 💡 Conseil
+Les sons emphatiques et gutturaux demandent de la pratique. **Écoutez des récitations** du Coran pour vous familiariser avec ces sons.
+:::
+
+---
+
+::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none;"}
+🎉 **FÉLICITATIONS !**
+
+Vous connaissez maintenant les **28 lettres** de l'alphabet arabe !
+
+Rendez-vous au Notebook 6 pour le Tanwīn et la Hamza !
+:::
+
+---
+
+::: {.nav-buttons}
+[← Notebook 4](notebook-4.html){.nav-btn .prev}
+[Notebook 6 →](notebook-6.html){.nav-btn}
+:::

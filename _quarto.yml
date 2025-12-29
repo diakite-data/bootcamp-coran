@@ -1,0 +1,94 @@
+project:
+  type: website
+  output-dir: _output
+
+website:
+  title: "Lire le Coran en 7 jours"
+  
+  # Navigation principale
+  navbar:
+    background: "#1F4E79"
+    foreground: "#FFFFFF"
+    title: "📖 Bootcamp Coran"
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Notebooks"
+        menu:
+          - text: "0 - Introduction"
+            href: notebooks/notebook-0.qmd
+          - text: "---"
+          - text: "1 - Premiers sons"
+            href: notebooks/notebook-1.qmd
+          - text: "2 - Mots complets"
+            href: notebooks/notebook-2.qmd
+          - text: "3 - Voyelles complètes"
+            href: notebooks/notebook-3.qmd
+          - text: "4 - Non-attachantes"
+            href: notebooks/notebook-4.qmd
+          - text: "5 - Cas spéciaux"
+            href: notebooks/notebook-5.qmd
+          - text: "6 - Lecture Mushaf"
+            href: notebooks/notebook-6.qmd
+          - text: "7 - Lecture Coran"
+            href: notebooks/notebook-7.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+
+  # Sidebar pour la navigation dans les notebooks
+  sidebar:
+    - id: notebooks
+      title: "📓 Notebooks"
+      style: "floating"
+      background: "#f8f9fa"
+      collapse-level: 1
+      contents:
+        - section: "Introduction"
+          contents:
+            - notebooks/notebook-0.qmd
+        - section: "Semaine 1"
+          contents:
+            - notebooks/notebook-1.qmd
+            - notebooks/notebook-2.qmd
+            - notebooks/notebook-3.qmd
+            - notebooks/notebook-4.qmd
+            - notebooks/notebook-5.qmd
+            - notebooks/notebook-6.qmd
+            - notebooks/notebook-7.qmd
+
+  # Pied de page
+  page-footer:
+    left: "Bootcamp Coran © 2025"
+    center: "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
+    right:
+      - text: "Fait avec Quarto"
+        href: https://quarto.org/
+
+  # Options de recherche
+  search:
+    location: navbar
+    type: textbox
+
+# Format HTML
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: true
+    toc-title: "Sur cette page"
+    toc-depth: 3
+    toc-location: right
+    number-sections: false
+    code-fold: true
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    mainfont: "Arial, sans-serif"
+
+# Métadonnées globales
+author: "Bootcamp Coran"
+date-format: "D MMMM YYYY"
+lang: fr

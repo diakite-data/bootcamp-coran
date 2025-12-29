@@ -1,0 +1,563 @@
+---
+title: "Notebook 3"
+subtitle: "Voyelles complètes & Nouvelles lettres"
+format:
+  html:
+    css: ../styles.css
+---
+
+::: {.notebook-header}
+📓 NOTEBOOK 3 · Jour 3
+
+# Voyelles complètes & Nouvelles lettres
+
+[⏱️ 30 minutes]{.badge .duration} · [6 nouvelles lettres]{.badge .new}
+:::
+
+---
+
+## 🎯 Compétence visée
+
+À la fin de ce notebook, vous saurez :
+
+- ✅ Reconnaître et prononcer **6 nouvelles lettres**
+- ✅ Maîtriser les **4 voyelles** : Fatha, Kasra, Damma, Sukūn
+- ✅ Lire des mots avec **différentes voyelles**
+- ✅ Combiner les **15 lettres** apprises (9 + 6)
+
+---
+
+## 📝 Rappel — Vos 9 lettres
+
+::: {.display-box style="background: #F5F5F5;"}
+**Notebook 1 :** [ب ت م ن]{.arabic .arabic-lg}
+
+**Notebook 2 :** [ل ك ف س ه]{.arabic .arabic-lg}
+:::
+
+---
+
+## 🔤 Les 6 nouvelles lettres
+
+::: {.display-box style="background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%);"}
+[ج    ش    ي    ق    ع    غ]{.arabic .arabic-giant style="color: #1565C0;"}
+:::
+
+| Lettre | Nom | Son | Remarque |
+|:------:|:----|:----|:---------|
+| [ج]{.arabic .arabic-xl style="color: #1565C0;"} | **jīm** | j | comme "jardin" |
+| [ش]{.arabic .arabic-xl style="color: #1565C0;"} | **shīn** | ch | comme "chat" |
+| [ي]{.arabic .arabic-xl style="color: #1565C0;"} | **yā'** | y / ī | aussi voyelle longue |
+| [ق]{.arabic .arabic-xl style="color: #1565C0;"} | **qāf** | q | du fond de la gorge |
+| [ع]{.arabic .arabic-xl style="color: #1565C0;"} | **ʿayn** | ʿ | son guttural unique |
+| [غ]{.arabic .arabic-xl style="color: #1565C0;"} | **ghayn** | gh | comme "r" parisien |
+
+::: {.callout-tip}
+## ✅ Bonne nouvelle !
+Ces 6 lettres **s'attachent avant ET après** dans un mot.
+:::
+
+::: {.callout-warning}
+## ⚠️ Attention aux sons difficiles
+- **ق (qāf)** : se prononce du fond de la gorge, plus profond que "k"
+- **ع (ʿayn)** : son guttural unique à l'arabe, comme un "a" étranglé
+- **غ (ghayn)** : comme le "r" grasseyé parisien
+:::
+
+---
+
+## 🔄 Les formes des nouvelles lettres
+
+| Lettre | Isolée | Début | Milieu | Fin |
+|:------:|:------:|:-----:|:------:|:---:|
+| jīm | [ج]{.arabic .arabic-lg} | [جـ]{.arabic .arabic-lg} | [ـجـ]{.arabic .arabic-lg} | [ـج]{.arabic .arabic-lg} |
+| shīn | [ش]{.arabic .arabic-lg} | [شـ]{.arabic .arabic-lg} | [ـشـ]{.arabic .arabic-lg} | [ـش]{.arabic .arabic-lg} |
+| yā' | [ي]{.arabic .arabic-lg} | [يـ]{.arabic .arabic-lg} | [ـيـ]{.arabic .arabic-lg} | [ـي]{.arabic .arabic-lg} |
+| qāf | [ق]{.arabic .arabic-lg} | [قـ]{.arabic .arabic-lg} | [ـقـ]{.arabic .arabic-lg} | [ـق]{.arabic .arabic-lg} |
+| ʿayn | [ع]{.arabic .arabic-lg} | [عـ]{.arabic .arabic-lg} | [ـعـ]{.arabic .arabic-lg} | [ـع]{.arabic .arabic-lg} |
+| ghayn | [غ]{.arabic .arabic-lg} | [غـ]{.arabic .arabic-lg} | [ـغـ]{.arabic .arabic-lg} | [ـغ]{.arabic .arabic-lg} |
+
+---
+
+## ✏️ Les 4 voyelles complètes
+
+C'est le moment d'apprendre **toutes les voyelles** !
+
+### Vue d'ensemble
+
+::: {.display-box}
+| Signe | Nom | Son | Position |
+|:-----:|:----|:----|:---------|
+| [◌َ]{.arabic .arabic-xxl} | **Fatha** | a | au-dessus |
+| [◌ِ]{.arabic .arabic-xxl} | **Kasra** | i | en-dessous |
+| [◌ُ]{.arabic .arabic-xxl} | **Damma** | ou | au-dessus |
+| [◌ْ]{.arabic .arabic-xxl} | **Sukūn** | — | au-dessus (muet) |
+:::
+
+---
+
+### 1️⃣ Fatha (rappel)
+
+::: {.display-box .orange}
+[◌َ]{.arabic .arabic-giant style="color: #E65100;"} = **a**
+
+Petit trait oblique **AU-DESSUS** de la lettre
+:::
+
+| Exemple | Prononciation |
+|:-------:|:-------------:|
+| [بَ]{.arabic .arabic-xxl} | **ba** |
+| [تَ]{.arabic .arabic-xxl} | **ta** |
+| [جَ]{.arabic .arabic-xxl} | **ja** |
+
+---
+
+### 2️⃣ Kasra (NOUVEAU)
+
+::: {.display-box style="background: #E8F5E9; border-color: #4CAF50;"}
+[◌ِ]{.arabic .arabic-giant style="color: #2E7D32;"} = **i**
+
+Petit trait oblique **EN-DESSOUS** de la lettre
+:::
+
+| Exemple | Prononciation |
+|:-------:|:-------------:|
+| [بِ]{.arabic .arabic-xxl} | **bi** |
+| [تِ]{.arabic .arabic-xxl} | **ti** |
+| [جِ]{.arabic .arabic-xxl} | **ji** |
+
+---
+
+### 3️⃣ Damma (NOUVEAU)
+
+::: {.display-box style="background: #E3F2FD; border-color: #1976D2;"}
+[◌ُ]{.arabic .arabic-giant style="color: #1565C0;"} = **ou**
+
+Petite boucle **AU-DESSUS** de la lettre (comme un petit و)
+:::
+
+| Exemple | Prononciation |
+|:-------:|:-------------:|
+| [بُ]{.arabic .arabic-xxl} | **bou** |
+| [تُ]{.arabic .arabic-xxl} | **tou** |
+| [جُ]{.arabic .arabic-xxl} | **jou** |
+
+---
+
+### 4️⃣ Sukūn (NOUVEAU)
+
+::: {.display-box style="background: #F3E5F5; border-color: #7B1FA2;"}
+[◌ْ]{.arabic .arabic-giant style="color: #7B1FA2;"} = **—** (absence de voyelle)
+
+Petit cercle **AU-DESSUS** de la lettre = la consonne est **muette**
+:::
+
+| Exemple | Prononciation |
+|:-------:|:-------------:|
+| [بْ]{.arabic .arabic-xxl} | **b** (pas de voyelle) |
+| [تْ]{.arabic .arabic-xxl} | **t** (pas de voyelle) |
+| [جْ]{.arabic .arabic-xxl} | **j** (pas de voyelle) |
+
+::: {.callout-important}
+## ⚠️ Le Sukūn est crucial !
+Sans le Sukūn, vous ne savez pas si la lettre a une voyelle ou non.
+
+- [كَتَبَ]{.arabic .arabic-lg} = **ka-ta-ba** (3 syllabes)
+- [كَتْبَ]{.arabic .arabic-lg} = **kat-ba** (2 syllabes — le ت est muet)
+:::
+
+---
+
+## 📊 Comparaison des 4 voyelles
+
+Voyez la différence sur la même lettre :
+
+| Fatha | Kasra | Damma | Sukūn |
+|:-----:|:-----:|:-----:|:-----:|
+| [بَ]{.arabic .arabic-xxl} | [بِ]{.arabic .arabic-xxl} | [بُ]{.arabic .arabic-xxl} | [بْ]{.arabic .arabic-xxl} |
+| **ba** | **bi** | **bou** | **b** |
+
+| Fatha | Kasra | Damma | Sukūn |
+|:-----:|:-----:|:-----:|:-----:|
+| [جَ]{.arabic .arabic-xxl} | [جِ]{.arabic .arabic-xxl} | [جُ]{.arabic .arabic-xxl} | [جْ]{.arabic .arabic-xxl} |
+| **ja** | **ji** | **jou** | **j** |
+
+| Fatha | Kasra | Damma | Sukūn |
+|:-----:|:-----:|:-----:|:-----:|
+| [قَ]{.arabic .arabic-xxl} | [قِ]{.arabic .arabic-xxl} | [قُ]{.arabic .arabic-xxl} | [قْ]{.arabic .arabic-xxl} |
+| **qa** | **qi** | **qou** | **q** |
+
+---
+
+## 📊 Récapitulatif — Vos 15 lettres
+
+::: {.display-box}
+**Notebook 1 :** [ب ت م ن]{.arabic .arabic-lg}
+
+**Notebook 2 :** [ل ك ف س ه]{.arabic .arabic-lg}
+
+**Notebook 3 :** [ج ش ي ق ع غ]{.arabic .arabic-lg style="color: #1565C0;"}
+
+**Total : 15 lettres**
+:::
+
+---
+
+## 👁️ Lecture guidée
+
+### Étape 1 — Les nouvelles syllabes (avec Fatha)
+
+| Syllabe | Prononciation |
+|:-------:|:-------------:|
+| [جَ]{.arabic .arabic-xxl} | **ja** |
+| [شَ]{.arabic .arabic-xxl} | **cha** |
+| [يَ]{.arabic .arabic-xxl} | **ya** |
+| [قَ]{.arabic .arabic-xxl} | **qa** |
+| [عَ]{.arabic .arabic-xxl} | **ʿa** |
+| [غَ]{.arabic .arabic-xxl} | **gha** |
+
+---
+
+### Étape 2 — Toutes les voyelles sur les nouvelles lettres
+
+::: {.display-box}
+**Avec Fatha (a) :**
+
+[جَ   شَ   يَ   قَ   عَ   غَ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box .green}
+**Avec Kasra (i) :**
+
+[جِ   شِ   يِ   قِ   عِ   غِ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: #E3F2FD;"}
+**Avec Damma (ou) :**
+
+[جُ   شُ   يُ   قُ   عُ   غُ]{.arabic .arabic-xl}
+:::
+
+---
+
+### Étape 3 — Mots avec Sukūn
+
+Le Sukūn crée des syllabes fermées :
+
+| Mot | Décomposition | Prononciation |
+|:---:|:-------------:|:-------------:|
+| [قَلْبَ]{.arabic .arabic-xl} | قَ + لْ + بَ | **qal-ba** |
+| [شَمْسَ]{.arabic .arabic-xl} | شَ + مْ + سَ | **cham-sa** |
+| [عَيْنَ]{.arabic .arabic-xl} | عَ + يْ + نَ | **ʿay-na** |
+
+---
+
+### Étape 4 — Mots avec différentes voyelles
+
+| Mot | Prononciation | Sens |
+|:---:|:-------------:|:-----|
+| [جَمَلَ]{.arabic .arabic-xl} | **ja-ma-la** | chameau |
+| [شَمْسَ]{.arabic .arabic-xl} | **cham-sa** | soleil |
+| [يَكْتُبُ]{.arabic .arabic-xl} | **yak-tou-bou** | il écrit |
+| [قَلْبَ]{.arabic .arabic-xl} | **qal-ba** | cœur |
+| [عَمِلَ]{.arabic .arabic-xl} | **ʿa-mi-la** | il a travaillé |
+| [غَسَلَ]{.arabic .arabic-xl} | **gha-sa-la** | il a lavé |
+
+---
+
+### Étape 5 — Lecture mixte (toutes voyelles)
+
+| | | |
+|:--:|:--:|:--:|
+| [كُتُبَ]{.arabic .arabic-xl} | [قُلْ]{.arabic .arabic-xl} | [مِنْ]{.arabic .arabic-xl} |
+| **kou-tou-ba** | **qoul** | **min** |
+
+| | | |
+|:--:|:--:|:--:|
+| [بِسْمِ]{.arabic .arabic-xl} | [عِنْدَ]{.arabic .arabic-xl} | [يَجْعَلُ]{.arabic .arabic-xl} |
+| **bis-mi** | **ʿin-da** | **yaj-ʿa-lou** |
+
+---
+
+## 🧪 QUIZ — Testez-vous !
+
+::: {.section-quiz}
+
+### Quiz 1 — Reconnaissance des nouvelles lettres
+
+Quel est le **nom** de chaque lettre ?
+
+| 1. | 2. | 3. | 4. | 5. | 6. |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [ع]{.arabic .arabic-xxl} | [ش]{.arabic .arabic-xxl} | [ق]{.arabic .arabic-xxl} | [ج]{.arabic .arabic-xxl} | [غ]{.arabic .arabic-xxl} | [ي]{.arabic .arabic-xxl} |
+| _______ | _______ | _______ | _______ | _______ | _______ |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+1. ʿayn — 2. shīn — 3. qāf — 4. jīm — 5. ghayn — 6. yā'
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 2 — Identifier la voyelle
+
+Quelle voyelle porte chaque lettre ?
+
+| 1. | 2. | 3. | 4. |
+|:--:|:--:|:--:|:--:|
+| [بَ]{.arabic .arabic-xxl} | [بِ]{.arabic .arabic-xxl} | [بُ]{.arabic .arabic-xxl} | [بْ]{.arabic .arabic-xxl} |
+| _______ | _______ | _______ | _______ |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+1. Fatha (a) — 2. Kasra (i) — 3. Damma (ou) — 4. Sukūn (muet)
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 3 — Lecture de syllabes (toutes voyelles)
+
+Lisez chaque syllabe **à voix haute** :
+
+::: {.display-box .purple}
+[جَ   شِ   قُ   عَ   غِ   يُ   جْ   شَ   قِ]{.arabic .arabic-xl}
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 4 — Lecture de mots
+
+Lisez ces mots **SANS épeler** :
+
+| | | |
+|:--:|:--:|:--:|
+| [جَمَلَ]{.arabic .arabic-xl} | [شَمْسَ]{.arabic .arabic-xl} | [قَلْبَ]{.arabic .arabic-xl} |
+| [عَمِلَ]{.arabic .arabic-xl} | [غَسَلَ]{.arabic .arabic-xl} | [يَكْتُبُ]{.arabic .arabic-xl} |
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 5 — Compter les syllabes
+
+Combien de syllabes dans chaque mot ?
+
+| Mot | Nombre de syllabes |
+|:---:|:------------------:|
+| [جَمَلَ]{.arabic .arabic-lg} | _______ |
+| [شَمْسَ]{.arabic .arabic-lg} | _______ |
+| [يَكْتُبُ]{.arabic .arabic-lg} | _______ |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+- جَمَلَ → **3 syllabes** (ja-ma-la)
+- شَمْسَ → **2 syllabes** (cham-sa) — le م a un Sukūn
+- يَكْتُبُ → **3 syllabes** (yak-tou-bou) — le ك a un Sukūn
+:::
+
+:::
+
+---
+
+## ✍️ EXERCICES — Entraînez-vous !
+
+::: {.section-exercise}
+
+### Exercice 1 — Répétition des nouvelles syllabes
+
+Lisez chaque ligne **3 FOIS** à voix haute :
+
+::: {.display-box}
+[جَ    جِ    جُ    جْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: white;"}
+[شَ    شِ    شُ    شْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box}
+[يَ    يِ    يُ    يْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: white;"}
+[قَ    قِ    قُ    قْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box}
+[عَ    عِ    عُ    عْ]{.arabic .arabic-xl}
+:::
+
+::: {.display-box style="background: white;"}
+[غَ    غِ    غُ    غْ]{.arabic .arabic-xl}
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 2 — Toutes les lettres avec Kasra (i)
+
+::: {.display-box .green}
+[بِ   تِ   مِ   نِ   لِ   كِ   فِ   سِ   هِ]{.arabic .arabic-lg}
+:::
+
+::: {.display-box style="background: #C8E6C9;"}
+[جِ   شِ   يِ   قِ   عِ   غِ]{.arabic .arabic-lg}
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 3 — Toutes les lettres avec Damma (ou)
+
+::: {.display-box style="background: #E3F2FD;"}
+[بُ   تُ   مُ   نُ   لُ   كُ   فُ   سُ   هُ]{.arabic .arabic-lg}
+:::
+
+::: {.display-box style="background: #BBDEFB;"}
+[جُ   شُ   يُ   قُ   عُ   غُ]{.arabic .arabic-lg}
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 4 — Mélange des voyelles
+
+Lisez **SANS hésiter** :
+
+::: {.display-box .orange}
+[بَ   بِ   بُ   تَ   تِ   تُ   مَ   مِ   مُ]{.arabic .arabic-lg}
+:::
+
+::: {.display-box style="background: white;"}
+[جَ   جِ   جُ   شَ   شِ   شُ   قَ   قِ   قُ]{.arabic .arabic-lg}
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 5 — Mots avec Sukūn
+
+Lisez en faisant attention au Sukūn :
+
+| | | |
+|:--:|:--:|:--:|
+| [قَلْبَ]{.arabic .arabic-lg} | [شَمْسَ]{.arabic .arabic-lg} | [عَيْنَ]{.arabic .arabic-lg} |
+| **qal-ba** | **cham-sa** | **ʿay-na** |
+
+| | | |
+|:--:|:--:|:--:|
+| [مِنْ]{.arabic .arabic-lg} | [قُلْ]{.arabic .arabic-lg} | [بِسْمِ]{.arabic .arabic-lg} |
+| **min** | **qoul** | **bis-mi** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 6 — Mots complets (nouvelles lettres)
+
+| | | |
+|:--:|:--:|:--:|
+| [جَمَلَ]{.arabic .arabic-lg} | [شَكَلَ]{.arabic .arabic-lg} | [يَسَقَ]{.arabic .arabic-lg} |
+| **ja-ma-la** | **cha-ka-la** | **ya-sa-qa** |
+
+| | | |
+|:--:|:--:|:--:|
+| [قَتَلَ]{.arabic .arabic-lg} | [عَمِلَ]{.arabic .arabic-lg} | [غَسَلَ]{.arabic .arabic-lg} |
+| **qa-ta-la** | **ʿa-mi-la** | **gha-sa-la** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 7 — Dictée inversée
+
+| Vous lisez | C'est correct si vous dites |
+|:----------:|:----------------------------|
+| [جَمَلَ]{.arabic .arabic-lg} | **ja-ma-la** |
+| [شَمْسَ]{.arabic .arabic-lg} | **cham-sa** |
+| [قَلْبَ]{.arabic .arabic-lg} | **qal-ba** |
+| [عَمِلَ]{.arabic .arabic-lg} | **ʿa-mi-la** |
+| [يَكْتُبُ]{.arabic .arabic-lg} | **yak-tou-bou** |
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 8 — Lecture rapide ⏱️
+
+**Chronométrez-vous !** Lisez cette grille :
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| [جَ]{.arabic .arabic-lg} | [شِ]{.arabic .arabic-lg} | [يُ]{.arabic .arabic-lg} | [قَ]{.arabic .arabic-lg} |
+| [عِ]{.arabic .arabic-lg} | [غُ]{.arabic .arabic-lg} | [جِ]{.arabic .arabic-lg} | [شَ]{.arabic .arabic-lg} |
+| [يَ]{.arabic .arabic-lg} | [قُ]{.arabic .arabic-lg} | [عَ]{.arabic .arabic-lg} | [غِ]{.arabic .arabic-lg} |
+| [جُ]{.arabic .arabic-lg} | [شُ]{.arabic .arabic-lg} | [يِ]{.arabic .arabic-lg} | [قِ]{.arabic .arabic-lg} |
+
+::: {.callout-tip}
+🎯 **Objectif** : moins de 20 secondes !
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 9 — Lecture finale
+
+Lisez ce texte complet **sans vous arrêter** :
+
+::: {.display-box style="background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%); border: 3px solid #1976D2;"}
+[جَ   شَ   يَ   قَ   عَ   غَ]{.arabic .arabic-lg}
+
+[جِ   شِ   يِ   قِ   عِ   غِ]{.arabic .arabic-lg}
+
+[جُ   شُ   يُ   قُ   عُ   غُ]{.arabic .arabic-lg}
+
+[جَمَلَ   شَمْسَ   قَلْبَ   عَمِلَ   غَسَلَ]{.arabic .arabic-lg}
+:::
+
+:::
+
+---
+
+## ✅ Validation du Notebook 3
+
+Avant de passer au Notebook 4, vérifiez que vous maîtrisez :
+
+- [ ] Je reconnais les 6 nouvelles lettres : [ج ش ي ق ع غ]{.arabic .arabic-md}
+- [ ] Je distingue les 4 voyelles : Fatha (a), Kasra (i), Damma (ou), Sukūn (muet)
+- [ ] Je lis [بَ بِ بُ بْ]{.arabic .arabic-md} sans hésiter
+- [ ] Je compte correctement les syllabes avec le Sukūn
+- [ ] Je lis les mots avec différentes voyelles
+
+::: {.callout-note}
+## 💡 Conseil
+Les sons **ق** (qāf), **ع** (ʿayn) et **غ** (ghayn) sont difficiles. **Écoutez des récitations** du Coran pour vous familiariser avec ces sons.
+:::
+
+---
+
+::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none;"}
+🎉 **Bravo !**
+
+Vous connaissez maintenant **15 lettres** sur 28 et **toutes les voyelles** !
+
+Rendez-vous au Notebook 4 pour les lettres non-attachantes !
+:::
+
+---
+
+::: {.nav-buttons}
+[← Notebook 2](notebook-2.html){.nav-btn .prev}
+[Notebook 4 →](notebook-4.html){.nav-btn}
+:::
