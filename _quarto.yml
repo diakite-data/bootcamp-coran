@@ -9,8 +9,8 @@ project:
 
 website:
   title: "Lire le Coran en 7 jours"
+  favicon: assets/icons/icon-96x96.png
   
-  # Navigation principale
   navbar:
     background: "#1F4E79"
     foreground: "#FFFFFF"
@@ -36,10 +36,9 @@ website:
             href: notebooks/notebook-7.qmd
     right:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/diakite-data/bootcamp-coran
         aria-label: GitHub
 
-  # Sidebar pour la navigation dans les notebooks
   sidebar:
     - id: notebooks
       title: "📓 Parcours 7 jours"
@@ -72,7 +71,6 @@ website:
             - text: "Jour 7 - Al-Fatiha"
               href: notebooks/notebook-7.qmd
 
-  # Pied de page
   page-footer:
     left: "Bootcamp Coran © 2025"
     center: "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
@@ -80,12 +78,10 @@ website:
       - text: "Fait avec Quarto"
         href: https://quarto.org/
 
-  # Options de recherche
   search:
     location: navbar
     type: textbox
 
-# Format HTML uniquement
 format:
   html:
     theme:
@@ -101,25 +97,20 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     mainfont: "Arial, sans-serif"
-    # PWA - Chemins ABSOLUS depuis la racine
     include-in-header:
       text: |
-        <!-- PWA Meta Tags -->
         <link rel="manifest" href="/manifest.json">
         <meta name="theme-color" content="#1F4E79">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
         <meta name="apple-mobile-web-app-title" content="Bootcamp Coran">
         <link rel="apple-touch-icon" href="/assets/icons/icon-152x152.png">
-        <!-- Preconnect pour les polices -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    # PWA - Script avec chemin ABSOLU
     include-after-body:
       text: |
         <script src="/pwa.js"></script>
 
-# Métadonnées globales
 author: "Bootcamp Coran"
 date-format: "D MMMM YYYY"
 lang: fr
