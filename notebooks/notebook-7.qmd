@@ -331,7 +331,7 @@ Lisez chaque verset **3 fois** lentement, en articulant bien :
 
 :::
 
-:::: {.section-exercise}
+::: {.section-exercise}
 
 ### Exercice 2 — Enchaînement 2 par 2
 
