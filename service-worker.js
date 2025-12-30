@@ -10,8 +10,7 @@ const STATIC_ASSETS = [
   '/styles.css',
   '/manifest.json',
   '/pwa.js',
-  // Notebooks
-  '/notebooks/notebook-0.html',
+  // Notebooks (1 à 7)
   '/notebooks/notebook-1.html',
   '/notebooks/notebook-2.html',
   '/notebooks/notebook-3.html',

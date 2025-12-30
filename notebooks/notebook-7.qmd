@@ -256,47 +256,45 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 ## 🎯 Lecture complète — Al-Fatiha
 
 ::: {.display-box style="background: linear-gradient(135deg, #FFF8E1 0%, #FFECB3 100%); border: 3px solid #FFC107; padding: 2rem;"}
-
 [بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-lg}
 
 **bismi-llāhi-r-raḥmāni-r-raḥīm**
 
----
+・・・
 
 [الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg}
 
 **al-ḥamdu li-llāhi rabbi-l-ʿālamīn**
 
----
+・・・
 
 [الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-lg}
 
 **ar-raḥmāni-r-raḥīm**
 
----
+・・・
 
 [مَالِكِ يَوْمِ الدِّينِ]{.arabic .arabic-lg}
 
 **māliki yawmi-d-dīn**
 
----
+・・・
 
 [إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ]{.arabic .arabic-lg}
 
 **iyyāka naʿbudu wa-iyyāka nastaʿīn**
 
----
+・・・
 
 [اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ]{.arabic .arabic-lg}
 
 **ihdinaṣ-ṣirāṭa-l-mustaqīm**
 
----
+・・・
 
 [صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ]{.arabic .arabic-lg}
 
 **ṣirāṭa-lladhīna anʿamta ʿalayhim ghayri-l-maghḍūbi ʿalayhim wa-la-ḍ-ḍāllīn**
-
 :::
 
 ---
@@ -392,7 +390,7 @@ Vérifiez que vous maîtrisez :
 
 Vous savez maintenant **lire l'arabe coranique vocalisé**.
 
----
+・・・
 
 [بَارَكَ اللَّهُ فِيكُمْ]{.arabic .arabic-xl}
 
