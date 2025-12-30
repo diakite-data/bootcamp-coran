@@ -1,10 +1,12 @@
----
+
+
 title: "Notebook 7"
 subtitle: "Application — Al-Fatiha"
 format:
   html:
     css: ../styles.css
----
+
+
 
 ::: {.notebook-header}
 📓 NOTEBOOK 7 · Jour 7
@@ -27,7 +29,8 @@ format:
 [📄 PDF](javascript:window.print()){.pdf-download}
 :::
 
----
+
+
 
 ## 🎯 L'aboutissement du Bootcamp
 
@@ -38,7 +41,8 @@ Vous y êtes ! Après 6 jours d'apprentissage, vous allez lire la **sourate Al-F
 C'est la **première sourate** du Coran, composée de **7 versets**.
 :::
 
----
+
+
 
 ## 📝 Rappel — Tout ce que vous savez
 
@@ -46,7 +50,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 **28 lettres** · **4 voyelles** (Fatha, Kasra, Damma, Sukūn) · **Shadda** · **Voyelles longues** (ā, ī, ū) · **Article ال** · **Tanwīn** · **Hamza** · **Tā' Marbūṭa** · **Alif Maqṣūra** · **Madda** · **Liaison**
 :::
 
----
+
+
 
 ## 📖 La Sourate Al-Fatiha — Vue d'ensemble
 
@@ -66,7 +71,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 [صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ۝]{.arabic .arabic-lg}
 :::
 
----
+
+
 
 ## 📖 Verset 0 — La Basmala
 
@@ -91,7 +97,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Au nom d'Allah, le Tout-Miséricordieux, le Très-Miséricordieux"
 :::
 
----
+
+
 
 ## 📖 Verset 1
 
@@ -116,7 +123,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Louange à Allah, Seigneur des mondes"
 :::
 
----
+
+
 
 ## 📖 Verset 2
 
@@ -139,7 +147,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Le Tout-Miséricordieux, le Très-Miséricordieux"
 :::
 
----
+
+
 
 ## 📖 Verset 3
 
@@ -163,7 +172,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Maître du Jour du Jugement"
 :::
 
----
+
+
 
 ## 📖 Verset 4
 
@@ -188,7 +198,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "C'est Toi que nous adorons, et c'est Toi dont nous implorons le secours"
 :::
 
----
+
+
 
 ## 📖 Verset 5
 
@@ -212,7 +223,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Guide-nous vers le chemin droit"
 :::
 
----
+
+
 
 ## 📖 Verset 6
 
@@ -251,7 +263,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Le chemin de ceux que Tu as comblés de bienfaits, non pas de ceux qui ont encouru Ta colère, ni des égarés"
 :::
 
----
+
+
 
 ## 🎯 Lecture complète — Al-Fatiha
 
@@ -297,7 +310,8 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 **ṣirāṭa-lladhīna anʿamta ʿalayhim ghayri-l-maghḍūbi ʿalayhim wa-la-ḍ-ḍāllīn**
 :::
 
----
+
+
 
 ## ✍️ EXERCICES — Entraînez-vous !
 
@@ -364,7 +378,8 @@ Comparez avec votre lecture et ajustez votre prononciation.
 
 :::
 
----
+
+
 
 ## ✅ Validation finale du Bootcamp
 
@@ -381,7 +396,8 @@ Vérifiez que vous maîtrisez :
 - [ ] J'applique les **liaisons**
 - [ ] **Je lis la sourate Al-Fatiha en entier** ✅
 
----
+
+
 
 ::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none; padding: 2rem;"}
 # 🎉 FÉLICITATIONS !
@@ -397,7 +413,8 @@ Vous savez maintenant **lire l'arabe coranique vocalisé**.
 **Qu'Allah vous bénisse**
 :::
 
----
+
+
 
 ## 🔜 Et après ?
 
@@ -419,7 +436,8 @@ Vous savez maintenant **lire l'arabe coranique vocalisé**.
 | 108 | Al-Kawthar | 3 | ⭐ |
 | 110 | An-Naṣr | 3 | ⭐⭐ |
 
----
+
+
 
 ::: {.nav-buttons}
 [← Notebook 6](notebook-6.html){.nav-btn .prev}
