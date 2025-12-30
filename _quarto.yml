@@ -74,9 +74,9 @@ website:
   page-footer:
     left: "Bootcamp Coran © 2025"
     center: "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
-    right:
-      - text: "Fait avec Quarto"
-        href: https://quarto.org/
+    #right:
+    #  - text: "Fait avec Quarto"
+     #   href: https://quarto.org/
 
   search:
     location: navbar
@@ -111,6 +111,6 @@ format:
       text: |
         <script src="/pwa.js"></script>
 
-author: "Bootcamp Coran"
+author: "Youssouf DIAKITE"
 date-format: "D MMMM YYYY"
 lang: fr
