@@ -1,6 +1,6 @@
 ---
 title: "Notebook 4"
-subtitle: "Lettres NON-ATTACHANTES & L'article AL"
+subtitle: "Exceptions graphiques"
 format:
   html:
     css: ../styles.css
@@ -9,18 +9,18 @@ format:
 ::: {.notebook-header}
 📓 NOTEBOOK 4 · Jour 4
 
-# Lettres NON-ATTACHANTES & L'article ال
+# Exceptions graphiques
 
-[⏱️ 35 minutes]{.badge .duration} · [6 nouvelles lettres]{.badge .new}
+[⏱️ 30 minutes]{.badge .duration} · [6 nouvelles lettres]{.badge .new}
 :::
 
 ::: {.progress-container}
 ::: {.progress-info}
-📍 Notebook [4]{.current} / [8]{.total}
+📍 Notebook [4]{.current} / [7]{.total}
 :::
 ::: {.progress-bar-wrapper}
 ::: {.progress-bar}
-::: {.fill style="width: 62.5%;"}
+::: {.fill style="width: 57.1%;"}
 :::
 :::
 :::
@@ -33,67 +33,58 @@ format:
 
 À la fin de ce notebook, vous saurez :
 
-- ✅ Reconnaître les **6 lettres qui NE S'ATTACHENT PAS**
-- ✅ Identifier les **coupures visuelles** dans les mots
-- ✅ Lire les **voyelles longues** (ā, ī, ū)
-- ✅ Maîtriser l'article **ال** (al-) et ses règles
-- ✅ Combiner les **21 lettres** apprises (15 + 6)
+- ✅ Reconnaître **21 lettres** au total (15 + 6 nouvelles)
+- ✅ Identifier les **6 lettres qui NE S'ATTACHENT PAS**
+- ✅ Lire les voyelles longues **ā** et **ū**
+- ✅ Reconnaître la ligature **Lām-Alif** (لا)
 
 ---
 
 ## 📝 Rappel — Vos 15 lettres
 
 ::: {.display-box style="background: #F5F5F5;"}
-**Notebook 1 :** [ب ت م ن]{.arabic .arabic-lg}
+[ب ت م ن ل ك ف س ه ج ش ي ق ع غ]{.arabic .arabic-lg}
 
-**Notebook 2 :** [ل ك ف س ه]{.arabic .arabic-lg}
-
-**Notebook 3 :** [ج ش ي ق ع غ]{.arabic .arabic-lg}
-
-Toutes ces lettres **s'attachent** avant ET après.
+Voyelle longue : **ī** (avec ي) · Shadda : doublement
 :::
 
 ---
 
-## 🔤 Les 6 lettres NON-ATTACHANTES
+## 🔤 6 nouvelles lettres — Les NON-ATTACHANTES
 
 ::: {.display-box style="background: linear-gradient(135deg, #FFEBEE 0%, #FFCDD2 100%); border: 3px solid #F44336;"}
 [ا    د    ذ    ر    ز    و]{.arabic .arabic-giant style="color: #C62828;"}
 :::
 
-| Lettre | Nom | Son |
-|:------:|:----|:----|
-| [ا]{.arabic .arabic-xl style="color: #C62828;"} | **alif** | ā / support |
-| [د]{.arabic .arabic-xl style="color: #C62828;"} | **dāl** | d |
-| [ذ]{.arabic .arabic-xl style="color: #C62828;"} | **dhāl** | dh (comme "the" anglais) |
-| [ر]{.arabic .arabic-xl style="color: #C62828;"} | **rā'** | r roulé |
-| [ز]{.arabic .arabic-xl style="color: #C62828;"} | **zāy** | z |
-| [و]{.arabic .arabic-xl style="color: #C62828;"} | **wāw** | w / ū |
+| Lettre | Nom | Son | Équivalent |
+|:------:|:----|:---:|:-----------|
+| [ا]{.arabic .arabic-xxl} | **alif** | ā | support de voyelle / a long |
+| [د]{.arabic .arabic-xxl} | **dāl** | d | comme "date" |
+| [ذ]{.arabic .arabic-xxl} | **dhāl** | dh | comme "the" en anglais |
+| [ر]{.arabic .arabic-xxl} | **rā'** | r | r roulé |
+| [ز]{.arabic .arabic-xxl} | **zāy** | z | comme "zèbre" |
+| [و]{.arabic .arabic-xxl} | **wāw** | w / ū | comme "oui" ou ou long |
 
 ---
 
 ## ⚠️ LA RÈGLE CAPITALE
 
 ::: {.callout-important}
-## Règle à mémoriser ABSOLUMENT
-
-Ces 6 lettres **NE S'ATTACHENT JAMAIS** à la lettre qui les suit.
+## Ces 6 lettres NE S'ATTACHENT JAMAIS à la lettre suivante
 
 Elles créent une **coupure visuelle** dans le mot.
+
+Elles n'ont que **2 formes** : isolée et finale.
 :::
 
 ### Comparaison visuelle
 
-| Lettres qui s'attachent | Lettres qui NE s'attachent PAS |
-|:-----------------------:|:------------------------------:|
-| [بـتـمـنـ]{.arabic .arabic-xl} | [ا د ذ ر ز و]{.arabic .arabic-xl} |
+| Lettres qui s'attachent | Lettres NON-attachantes |
+|:-----------------------:|:-----------------------:|
+| [بـتـمـنـلـ]{.arabic .arabic-xl} | [ا د ذ ر ز و]{.arabic .arabic-xl} |
 | La chaîne continue | La chaîne se coupe |
 
----
-
-## 🔄 Les formes des lettres non-attachantes
-
-Ces lettres n'ont que **2 formes** (au lieu de 4) :
+### Les 2 formes seulement
 
 | Lettre | Isolée | Après une lettre |
 |:------:|:------:|:----------------:|
@@ -104,300 +95,157 @@ Ces lettres n'ont que **2 formes** (au lieu de 4) :
 | zāy | [ز]{.arabic .arabic-xl} | [ـز]{.arabic .arabic-xl} |
 | wāw | [و]{.arabic .arabic-xl} | [ـو]{.arabic .arabic-xl} |
 
+---
+
+## ✏️ Les voyelles longues ā et ū
+
+Vous connaissez déjà **ī** (avec ي). Voici les deux autres :
+
+### ā — Le "a" long (avec Alif)
+
+::: {.display-box .orange}
+[◌َا]{.arabic .arabic-giant}
+
+Fatha + Alif = **ā** (a long)
+:::
+
+| Court | Long | Exemple |
+|:-----:|:----:|:-------:|
+| [بَ]{.arabic .arabic-xl} **ba** | [بَا]{.arabic .arabic-xl} **bā** | [بَابَ]{.arabic .arabic-xl} **bāba** |
+| [كَ]{.arabic .arabic-xl} **ka** | [كَا]{.arabic .arabic-xl} **kā** | [كَانَ]{.arabic .arabic-xl} **kāna** |
+
+### ū — Le "ou" long (avec Wāw)
+
+::: {.display-box style="background: #E3F2FD;"}
+[◌ُو]{.arabic .arabic-giant}
+
+Damma + Wāw = **ū** (ou long)
+:::
+
+| Court | Long | Exemple |
+|:-----:|:----:|:-------:|
+| [نُ]{.arabic .arabic-xl} **nou** | [نُو]{.arabic .arabic-xl} **nū** | [نُورَ]{.arabic .arabic-xl} **nūra** |
+| [سُ]{.arabic .arabic-xl} **sou** | [سُو]{.arabic .arabic-xl} **sū** | [سُورَة]{.arabic .arabic-xl} **sūra** |
+
+---
+
+## 📊 Récapitulatif des 3 voyelles longues
+
 ::: {.callout-note}
-## 💡 Observation
-Ces lettres peuvent être **attachées avant** (à leur gauche) mais **jamais après** (à leur droite).
+## Les 3 voyelles longues
+
+| Voyelle courte | + Lettre | = Voyelle longue |
+|:--------------:|:--------:|:----------------:|
+| [◌َ]{.arabic .arabic-lg} Fatha (a) | [ا]{.arabic .arabic-lg} Alif | **ā** (a long) |
+| [◌ِ]{.arabic .arabic-lg} Kasra (i) | [ي]{.arabic .arabic-lg} Yā' | **ī** (i long) |
+| [◌ُ]{.arabic .arabic-lg} Damma (ou) | [و]{.arabic .arabic-lg} Wāw | **ū** (ou long) |
+
+**Règle :** La lettre (ا/ي/و) n'a **PAS de voyelle** quand elle allonge.
 :::
 
 ---
 
-## 👁️ Visualiser la coupure
+## ✏️ La ligature LĀM-ALIF (لا)
 
-### Exemple 1 : وَلَدَ (walada = enfant)
-
-::: {.display-box .yellow}
-**Lettres isolées :**
-
-[و   +   ل   +   د]{.arabic .arabic-xl}
-:::
-
-::: {.display-box style="background: #FFEBEE; border-color: #F44336;"}
-**Attention à la coupure :**
-
-Le [و]{.arabic .arabic-lg} ne s'attache PAS au [ل]{.arabic .arabic-lg}
-
-Le [د]{.arabic .arabic-lg} ne s'attache PAS (fin de mot)
-:::
-
-::: {.display-box .green}
-**Résultat final :**
-
-[وَلَدَ]{.arabic .arabic-xxl}
-
-= [وَ]{.arabic .arabic-xl} + [لَدَ]{.arabic .arabic-xl}
-
-**« wa-la-da »**
-:::
-
----
-
-### Exemple 2 : دَرَسَ (darasa = il a étudié)
-
-::: {.display-box .yellow}
-**Lettres isolées :**
-
-[د   +   ر   +   س]{.arabic .arabic-xl}
-:::
-
-::: {.display-box style="background: #FFEBEE; border-color: #F44336;"}
-**3 coupures !**
-
-- [د]{.arabic .arabic-lg} ne s'attache pas après
-- [ر]{.arabic .arabic-lg} ne s'attache pas après
-- [س]{.arabic .arabic-lg} est en fin de mot
-:::
-
-::: {.display-box .green}
-**Résultat final :**
-
-[دَرَسَ]{.arabic .arabic-xxl}
-
-= [دَ]{.arabic .arabic-xl} + [رَ]{.arabic .arabic-xl} + [سَ]{.arabic .arabic-xl}
-
-**« da-ra-sa »**
-:::
-
----
-
-## 📏 Les voyelles LONGUES
-
-Les lettres [ا]{.arabic} , [و]{.arabic} et [ي]{.arabic} servent aussi de **voyelles longues** :
-
-| Voyelle courte | + | Lettre | = | Voyelle longue |
-|:--------------:|:-:|:------:|:-:|:--------------:|
-| [◌َ]{.arabic .arabic-lg} (a) | + | [ا]{.arabic .arabic-lg} | = | **ā** (a long) |
-| [◌ُ]{.arabic .arabic-lg} (ou) | + | [و]{.arabic .arabic-lg} | = | **ū** (ou long) |
-| [◌ِ]{.arabic .arabic-lg} (i) | + | [ي]{.arabic .arabic-lg} | = | **ī** (i long) |
-
-### Exemples
-
-| Mot | Prononciation | Explication |
-|:---:|:-------------:|:------------|
-| [بَابَ]{.arabic .arabic-xl} | **bā-ba** | Le [ا]{.arabic} allonge le "a" |
-| [نُورَ]{.arabic .arabic-xl} | **nū-ra** | Le [و]{.arabic} allonge le "ou" |
-| [كَرِيمَ]{.arabic .arabic-xl} | **ka-rī-ma** | Le [ي]{.arabic} allonge le "i" |
-
-::: {.callout-tip}
-## 💡 Astuce
-Quand [ا]{.arabic}, [و]{.arabic} ou [ي]{.arabic} n'ont **pas de voyelle** (pas de signe dessus), ils servent à **allonger** la voyelle précédente.
-:::
-
----
-
-## 🌟 L'ARTICLE ال (Alif-Lām)
+Quand [ل]{.arabic} et [ا]{.arabic} se suivent, ils forment une **ligature spéciale** :
 
 ::: {.display-box style="background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%); border: 3px solid #1976D2;"}
-[ال]{.arabic .arabic-giant style="color: #1565C0;"}
+[لا]{.arabic .arabic-giant style="color: #1565C0;"}
 
-L'article défini = **« le / la / les »**
+**Lām + Alif = لا**
 :::
 
-En arabe, il n'y a qu'**UN SEUL article** pour "le", "la" et "les" : c'est **ال**.
+| Séparées | Ligature | Prononciation |
+|:--------:|:--------:|:-------------:|
+| ل + ا | [لا]{.arabic .arabic-xxl} | **lā** |
+| ل + ا + ل | [لاَل]{.arabic .arabic-xxl} | **lāl** |
 
-| Sans article | Avec article |
-|:------------:|:------------:|
-| [كِتَاب]{.arabic .arabic-xl} | [الْكِتَاب]{.arabic .arabic-xl} |
-| **kitāb** (un livre) | **al-kitāb** (le livre) |
+### Exemples de mots avec لا
 
----
-
-### ⚠️ La règle cruciale : Lettres SOLAIRES et LUNAIRES
-
-::: {.callout-important}
-## Règle à mémoriser
-
-La prononciation de **ال** change selon la lettre qui suit !
-
-- **Lettres LUNAIRES** → Le [ل]{.arabic} se prononce : **al-**
-- **Lettres SOLAIRES** → Le [ل]{.arabic} ne se prononce PAS, la lettre suivante est doublée
-:::
-
----
-
-### 🌙 Lettres LUNAIRES (القمرية)
-
-Le [ل]{.arabic} de l'article **SE PRONONCE** :
-
-::: {.display-box style="background: #F3E5F5; border-color: #9C27B0;"}
-[ا   ب   ج   ح   خ   ع   غ   ف   ق   ك   م   ه   و   ي]{.arabic .arabic-lg style="color: #7B1FA2;"}
-
-**14 lettres lunaires**
-:::
-
-| Exemple | Prononciation | Sens |
-|:-------:|:-------------:|:-----|
-| [الْقَمَر]{.arabic .arabic-xl} | **al-qamar** | la lune |
-| [الْكِتَاب]{.arabic .arabic-xl} | **al-kitāb** | le livre |
-| [الْحَمْد]{.arabic .arabic-xl} | **al-ḥamd** | la louange |
-| [الْمَلِك]{.arabic .arabic-xl} | **al-malik** | le roi |
-| [الْعَالَمِين]{.arabic .arabic-xl} | **al-ʿālamīn** | les mondes |
+| Mot | Prononciation | Sens |
+|:---:|:-------------:|:-----|
+| [لا]{.arabic .arabic-xl} | **lā** | non |
+| [إِلَّا]{.arabic .arabic-xl} | **il-lā** | sauf |
+| [صَلاة]{.arabic .arabic-xl} | **ṣa-lā** | prière |
 
 ::: {.callout-tip}
-## 💡 Astuce mnémotechnique
-Les lettres lunaires sont dans cette phrase :
-
-**ا**ِ**ب**ْ**غ**ِ **ح**َ**ج**َّ**ك**َ **و**َ**خ**َ**ف**ْ **ع**َ**ق**ِي**م**َ**ه**ُ
-
-(ibghi ḥajjaka wa-khaf ʿaqīmahu)
+## 💡 Reconnaître لا
+C'est comme un **"X" allongé** ou une **croix**. Très reconnaissable !
 :::
 
 ---
 
-### ☀️ Lettres SOLAIRES (الشمسية)
+## 👁️ Visualiser les coupures
 
-Le [ل]{.arabic} de l'article **NE SE PRONONCE PAS** — la lettre suivante est **doublée** (comme s'il y avait une Shadda) :
+### Exemple 1 : وَلَدَ (walada)
 
-::: {.display-box style="background: #FFF3E0; border-color: #FF9800;"}
-[ت   ث   د   ذ   ر   ز   س   ش   ص   ض   ط   ظ   ل   ن]{.arabic .arabic-lg style="color: #E65100;"}
+::: {.display-box .yellow}
+[و]{.arabic .arabic-xl} ne s'attache PAS à [ل]{.arabic .arabic-xl}
 
-**14 lettres solaires**
+Résultat : [وَلَدَ]{.arabic .arabic-xxl} = **wa-la-da**
 :::
 
-| Écrit | Prononciation | Sens |
-|:-----:|:-------------:|:-----|
-| [الشَّمْس]{.arabic .arabic-xl} | **ash-shams** (≠ al-shams) | le soleil |
-| [الرَّحْمَن]{.arabic .arabic-xl} | **ar-raḥmān** (≠ al-raḥmān) | le Miséricordieux |
-| [الصِّرَاط]{.arabic .arabic-xl} | **aṣ-ṣirāṭ** (≠ al-ṣirāṭ) | le chemin |
-| [النُّور]{.arabic .arabic-xl} | **an-nūr** (≠ al-nūr) | la lumière |
-| [الدِّين]{.arabic .arabic-xl} | **ad-dīn** (≠ al-dīn) | la religion |
+### Exemple 2 : دَرَسَ (darasa)
 
-::: {.callout-warning}
-## ⚠️ Observation importante
-Remarquez que dans l'écriture, le [ل]{.arabic} est toujours présent, mais à l'oral il **disparaît** et la lettre suivante porte une **Shadda** !
+::: {.display-box .yellow}
+[د]{.arabic .arabic-xl} et [ر]{.arabic .arabic-xl} ne s'attachent PAS
 
-[الرَّحِيم]{.arabic .arabic-lg} → Le ر porte une Shadda car c'est une lettre solaire.
-:::
-
----
-
-### 📊 Récapitulatif visuel
-
-| Type | Le ل se prononce ? | Exemple écrit | Prononciation |
-|:-----|:------------------:|:-------------:|:-------------:|
-| **Lunaire** | ✅ OUI | [الْقَمَر]{.arabic .arabic-lg} | **al**-qamar |
-| **Solaire** | ❌ NON | [الشَّمْس]{.arabic .arabic-lg} | **a**sh-shams |
-
----
-
-### 🔍 Dans la Fatiha
-
-La sourate Al-Fatiha contient beaucoup d'articles ! Observez :
-
-| Mot | Type | Prononciation |
-|:---:|:----:|:-------------:|
-| [الْحَمْدُ]{.arabic .arabic-lg} | Lunaire (ح) | **al**-ḥamdu |
-| [الْعَالَمِينَ]{.arabic .arabic-lg} | Lunaire (ع) | **al**-ʿālamīn |
-| [الرَّحْمَنِ]{.arabic .arabic-lg} | Solaire (ر) | **ar**-raḥmāni |
-| [الرَّحِيمِ]{.arabic .arabic-lg} | Solaire (ر) | **ar**-raḥīmi |
-| [الدِّينِ]{.arabic .arabic-lg} | Solaire (د) | **ad**-dīni |
-| [الصِّرَاطَ]{.arabic .arabic-lg} | Solaire (ص) | **aṣ**-ṣirāṭa |
-| [الْمُسْتَقِيمَ]{.arabic .arabic-lg} | Lunaire (م) | **al**-mustaqīma |
-| [الْمَغْضُوبِ]{.arabic .arabic-lg} | Lunaire (م) | **al**-maghḍūbi |
-| [الضَّالِّينَ]{.arabic .arabic-lg} | Solaire (ض) | **aḍ**-ḍāllīn |
-
----
-
-## 📊 Récapitulatif — Vos 21 lettres
-
-::: {.display-box}
-**S'attachent (15) :** [ب ت م ن ل ك ف س ه ج ش ي ق ع غ]{.arabic .arabic-md}
-
-**NE s'attachent PAS (6) :** [ا د ذ ر ز و]{.arabic .arabic-md style="color: #C62828;"}
-
-**Total : 21 lettres**
+Résultat : [دَرَسَ]{.arabic .arabic-xxl} = **da-ra-sa**
 :::
 
 ---
 
 ## 👁️ Lecture guidée
 
-### Étape 1 — Les nouvelles syllabes
-
-| Syllabe | Prononciation |
-|:-------:|:-------------:|
-| [دَ]{.arabic .arabic-xxl} | **da** |
-| [ذَ]{.arabic .arabic-xxl} | **dha** |
-| [رَ]{.arabic .arabic-xxl} | **ra** |
-| [زَ]{.arabic .arabic-xxl} | **za** |
-
-::: {.callout-note}
-[ا]{.arabic} (alif) et [و]{.arabic} (wāw) sont souvent des voyelles longues, pas des consonnes.
-:::
-
----
-
-### Étape 2 — Syllabes avec toutes les voyelles
+### Étape 1 — Nouvelles syllabes avec Fatha
 
 ::: {.display-box}
-**Avec Fatha (a) :**
+[دَ    ذَ    رَ    زَ]{.arabic .arabic-xxl}
 
-[دَ   ذَ   رَ   زَ]{.arabic .arabic-xl}
+**da — dha — ra — za**
 :::
 
-::: {.display-box .green}
-**Avec Kasra (i) :**
+### Étape 2 — Nouvelles syllabes avec Kasra
 
-[دِ   ذِ   رِ   زِ]{.arabic .arabic-xl}
+::: {.display-box .green}
+[دِ    ذِ    رِ    زِ]{.arabic .arabic-xxl}
+
+**di — dhi — ri — zi**
+:::
+
+### Étape 3 — Nouvelles syllabes avec Damma
+
+::: {.display-box style="background: #E3F2FD;"}
+[دُ    ذُ    رُ    زُ]{.arabic .arabic-xxl}
+
+**dou — dhou — rou — zou**
+:::
+
+### Étape 4 — Voyelles longues
+
+::: {.display-box .orange}
+**ā (a long) :**
+
+[بَا    تَا    مَا    نَا    كَا    لَا]{.arabic .arabic-xl}
+
+**bā — tā — mā — nā — kā — lā**
 :::
 
 ::: {.display-box style="background: #E3F2FD;"}
-**Avec Damma (ou) :**
+**ū (ou long) :**
 
-[دُ   ذُ   رُ   زُ]{.arabic .arabic-xl}
+[بُو    تُو    مُو    نُو    كُو    لُو]{.arabic .arabic-xl}
+
+**bū — tū — mū — nū — kū — lū**
 :::
 
----
+### Étape 5 — Mots avec coupures
 
-### Étape 3 — Mots avec coupures
+::: {.display-box}
+[وَلَدَ    دَرَسَ    زَرَعَ    ذَهَبَ]{.arabic .arabic-xl}
 
-Repérez les coupures visuelles :
-
-| Mot | Coupure | Prononciation |
-|:---:|:-------:|:-------------:|
-| [وَلَدَ]{.arabic .arabic-xl} | وَ + لَدَ | **wa-la-da** |
-| [دَرَسَ]{.arabic .arabic-xl} | دَ + رَ + سَ | **da-ra-sa** |
-| [زَرَعَ]{.arabic .arabic-xl} | زَ + رَ + عَ | **za-ra-ʿa** |
-| [ذَهَبَ]{.arabic .arabic-xl} | ذَ + هَبَ | **dha-ha-ba** |
-
----
-
-### Étape 4 — Mots avec voyelles longues
-
-| Mot | Prononciation | Voyelle longue |
-|:---:|:-------------:|:--------------:|
-| [بَابَ]{.arabic .arabic-xl} | **bā-ba** | ā (a long) |
-| [كِتَابَ]{.arabic .arabic-xl} | **ki-tā-ba** | ā (a long) |
-| [نُورَ]{.arabic .arabic-xl} | **nū-ra** | ū (ou long) |
-| [رَسُولَ]{.arabic .arabic-xl} | **ra-sū-la** | ū (ou long) |
-| [كَرِيمَ]{.arabic .arabic-xl} | **ka-rī-ma** | ī (i long) |
-
----
-
-### Étape 5 — Mots avec article ال
-
-**Lettres lunaires (al- se prononce) :**
-
-| | | |
-|:--:|:--:|:--:|
-| [الْقَمَر]{.arabic .arabic-xl} | [الْكِتَاب]{.arabic .arabic-xl} | [الْحَمْد]{.arabic .arabic-xl} |
-| **al-qamar** | **al-kitāb** | **al-ḥamd** |
-
-**Lettres solaires (al- devient a + lettre doublée) :**
-
-| | | |
-|:--:|:--:|:--:|
-| [الشَّمْس]{.arabic .arabic-xl} | [الرَّحْمَن]{.arabic .arabic-xl} | [النُّور]{.arabic .arabic-xl} |
-| **ash-shams** | **ar-raḥmān** | **an-nūr** |
+**wa-la-da — da-ra-sa — za-ra-ʿa — dha-ha-ba**
+:::
 
 ---
 
@@ -407,7 +255,7 @@ Repérez les coupures visuelles :
 
 ### Quiz 1 — Identifier les non-attachantes
 
-Quelles lettres **NE S'ATTACHENT PAS** à la lettre suivante ?
+Quelles lettres NE S'ATTACHENT PAS ?
 
 ::: {.display-box .purple}
 [ب   ا   ت   د   م   ر   ن   و   ل   ز   ك   ذ]{.arabic .arabic-xl}
@@ -422,77 +270,29 @@ Les 6 non-attachantes : [ا د ر و ز ذ]{.arabic .arabic-lg}
 
 ::: {.section-quiz}
 
-### Quiz 2 — Reconnaissance des nouvelles lettres
+### Quiz 2 — Voyelle longue ?
 
-Quel est le **nom** de chaque lettre ?
+Quelle voyelle longue contient chaque mot ?
 
-| 1. | 2. | 3. | 4. | 5. | 6. |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [ر]{.arabic .arabic-xxl} | [د]{.arabic .arabic-xxl} | [و]{.arabic .arabic-xxl} | [ا]{.arabic .arabic-xxl} | [ز]{.arabic .arabic-xxl} | [ذ]{.arabic .arabic-xxl} |
-| _______ | _______ | _______ | _______ | _______ | _______ |
-
-::: {.callout-note collapse="true"}
-## Voir les réponses
-1. rā' — 2. dāl — 3. wāw — 4. alif — 5. zāy — 6. dhāl
-:::
-
-:::
-
-::: {.section-quiz}
-
-### Quiz 3 — Lunaire ou Solaire ?
-
-Pour chaque mot, dites si la lettre après ال est **lunaire** ou **solaire** :
-
-| Mot | Type | Prononciation |
-|:---:|:----:|:-------------:|
-| [الْكِتَاب]{.arabic .arabic-xl} | _______ | _______ |
-| [الشَّمْس]{.arabic .arabic-xl} | _______ | _______ |
-| [الرَّحِيم]{.arabic .arabic-xl} | _______ | _______ |
-| [الْقَمَر]{.arabic .arabic-xl} | _______ | _______ |
-| [النُّور]{.arabic .arabic-xl} | _______ | _______ |
-
-::: {.callout-note collapse="true"}
-## Voir les réponses
-- الْكِتَاب → **Lunaire** (ك) → al-kitāb
-- الشَّمْس → **Solaire** (ش) → ash-shams
-- الرَّحِيم → **Solaire** (ر) → ar-raḥīm
-- الْقَمَر → **Lunaire** (ق) → al-qamar
-- النُّور → **Solaire** (ن) → an-nūr
-:::
-
-:::
-
-::: {.section-quiz}
-
-### Quiz 4 — Lecture de mots
-
-Lisez ces mots **SANS épeler** :
-
-| | | |
+| 1. | 2. | 3. |
 |:--:|:--:|:--:|
-| [وَلَدَ]{.arabic .arabic-xl} | [دَرَسَ]{.arabic .arabic-xl} | [زَرَعَ]{.arabic .arabic-xl} |
-| [ذَهَبَ]{.arabic .arabic-xl} | [رَزَقَ]{.arabic .arabic-xl} | [وَرَدَ]{.arabic .arabic-xl} |
+| [نُورَ]{.arabic .arabic-xxl} | [كَانَ]{.arabic .arabic-xxl} | [فِي]{.arabic .arabic-xxl} |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+1. **ū** (ou long) — 2. **ā** (a long) — 3. **ī** (i long)
+:::
 
 :::
 
 ::: {.section-quiz}
 
-### Quiz 5 — Voyelles longues
+### Quiz 3 — Reconnaître Lām-Alif
 
-Quelle voyelle est **allongée** dans chaque mot ?
+Repérez la ligature [لا]{.arabic} dans ces mots :
 
-| Mot | Voyelle longue |
-|:---:|:--------------:|
-| [بَابَ]{.arabic .arabic-xl} | _______ |
-| [نُورَ]{.arabic .arabic-xl} | _______ |
-| [كَرِيمَ]{.arabic .arabic-xl} | _______ |
-
-::: {.callout-note collapse="true"}
-## Voir les réponses
-- بَابَ → **ā** (a long)
-- نُورَ → **ū** (ou long)
-- كَرِيمَ → **ī** (i long)
+::: {.display-box}
+[صَلاة    إِلَّا    لا    فَلا]{.arabic .arabic-xl}
 :::
 
 :::
@@ -503,9 +303,7 @@ Quelle voyelle est **allongée** dans chaque mot ?
 
 ::: {.section-exercise}
 
-### Exercice 1 — Répétition des nouvelles syllabes
-
-Lisez chaque ligne **3 FOIS** à voix haute :
+### Exercice 1 — Nouvelles syllabes
 
 ::: {.display-box}
 [دَ    دِ    دُ    دْ]{.arabic .arabic-xl}
@@ -527,139 +325,53 @@ Lisez chaque ligne **3 FOIS** à voix haute :
 
 ::: {.section-exercise}
 
-### Exercice 2 — Mots avec coupures simples
+### Exercice 2 — Voyelles longues ā
 
-| | | |
-|:--:|:--:|:--:|
-| [وَلَدَ]{.arabic .arabic-lg} | [دَرَسَ]{.arabic .arabic-lg} | [زَرَعَ]{.arabic .arabic-lg} |
-| **wa-la-da** | **da-ra-sa** | **za-ra-ʿa** |
+::: {.display-box .orange}
+[بَابَ    كَانَ    قَالَ    جَاءَ    نَامَ    صَامَ]{.arabic .arabic-xl}
 
-| | | |
-|:--:|:--:|:--:|
-| [ذَهَبَ]{.arabic .arabic-lg} | [رَزَقَ]{.arabic .arabic-lg} | [وَرَدَ]{.arabic .arabic-lg} |
-| **dha-ha-ba** | **ra-za-qa** | **wa-ra-da** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 3 — Mots avec voyelles longues (ā)
-
-| | | |
-|:--:|:--:|:--:|
-| [بَابَ]{.arabic .arabic-lg} | [كِتَابَ]{.arabic .arabic-lg} | [قَالَ]{.arabic .arabic-lg} |
-| **bā-ba** | **ki-tā-ba** | **qā-la** |
-
-| | | |
-|:--:|:--:|:--:|
-| [زَادَ]{.arabic .arabic-lg} | [رَادَ]{.arabic .arabic-lg} | [ذَاقَ]{.arabic .arabic-lg} |
-| **zā-da** | **rā-da** | **dhā-qa** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 4 — Article ال avec lettres LUNAIRES
-
-Prononcez bien **al-** :
-
-| | | |
-|:--:|:--:|:--:|
-| [الْقَمَر]{.arabic .arabic-lg} | [الْكِتَاب]{.arabic .arabic-lg} | [الْحَمْد]{.arabic .arabic-lg} |
-| **al-qamar** | **al-kitāb** | **al-ḥamd** |
-
-| | | |
-|:--:|:--:|:--:|
-| [الْمَلِك]{.arabic .arabic-lg} | [الْعَالَمِين]{.arabic .arabic-lg} | [الْبَيْت]{.arabic .arabic-lg} |
-| **al-malik** | **al-ʿālamīn** | **al-bayt** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 5 — Article ال avec lettres SOLAIRES
-
-Le ل ne se prononce PAS — doublez la lettre suivante :
-
-| | | |
-|:--:|:--:|:--:|
-| [الشَّمْس]{.arabic .arabic-lg} | [الرَّحْمَن]{.arabic .arabic-lg} | [النُّور]{.arabic .arabic-lg} |
-| **ash-shams** | **ar-raḥmān** | **an-nūr** |
-
-| | | |
-|:--:|:--:|:--:|
-| [الصِّرَاط]{.arabic .arabic-lg} | [الدِّين]{.arabic .arabic-lg} | [التَّوْبَة]{.arabic .arabic-lg} |
-| **aṣ-ṣirāṭ** | **ad-dīn** | **at-tawba** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 6 — Mélange Lunaires et Solaires
-
-Alternez entre les deux types :
-
-| | | |
-|:--:|:--:|:--:|
-| [الْحَمْد]{.arabic .arabic-lg} | [الرَّحْمَن]{.arabic .arabic-lg} | [الرَّحِيم]{.arabic .arabic-lg} |
-| **al-ḥamd** | **ar-raḥmān** | **ar-raḥīm** |
-
-| | | |
-|:--:|:--:|:--:|
-| [الْعَالَمِين]{.arabic .arabic-lg} | [الصِّرَاط]{.arabic .arabic-lg} | [الْمُسْتَقِيم]{.arabic .arabic-lg} |
-| **al-ʿālamīn** | **aṣ-ṣirāṭ** | **al-mustaqīm** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 7 — Dictée inversée
-
-| Vous lisez | C'est correct si vous dites |
-|:----------:|:----------------------------|
-| [وَلَدَ]{.arabic .arabic-lg} | **wa-la-da** |
-| [الْكِتَاب]{.arabic .arabic-lg} | **al-kitāb** |
-| [الشَّمْس]{.arabic .arabic-lg} | **ash-shams** |
-| [نُورَ]{.arabic .arabic-lg} | **nū-ra** |
-| [الرَّحِيم]{.arabic .arabic-lg} | **ar-raḥīm** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 8 — Lecture rapide ⏱️
-
-**Chronométrez-vous !**
-
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [دَ]{.arabic .arabic-lg} | [رَ]{.arabic .arabic-lg} | [زَ]{.arabic .arabic-lg} | [ذَ]{.arabic .arabic-lg} |
-| [رِ]{.arabic .arabic-lg} | [دِ]{.arabic .arabic-lg} | [ذِ]{.arabic .arabic-lg} | [زِ]{.arabic .arabic-lg} |
-| [زُ]{.arabic .arabic-lg} | [ذُ]{.arabic .arabic-lg} | [دُ]{.arabic .arabic-lg} | [رُ]{.arabic .arabic-lg} |
-
-::: {.callout-tip}
-🎯 **Objectif** : moins de 15 secondes !
+**bāba — kāna — qāla — jā'a — nāma — ṣāma**
 :::
 
 :::
 
 ::: {.section-exercise}
 
-### Exercice 9 — Lecture finale
+### Exercice 3 — Voyelles longues ū
 
-Lisez ce texte complet **sans vous arrêter** :
+::: {.display-box style="background: #E3F2FD;"}
+[نُورَ    سُورَة    يَقُولُ    رَسُولَ]{.arabic .arabic-xl}
 
-::: {.display-box style="background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%); border: 3px solid #1976D2;"}
-[دَ   ذَ   رَ   زَ]{.arabic .arabic-lg}
-
-[وَلَدَ   دَرَسَ   زَرَعَ   ذَهَبَ]{.arabic .arabic-lg}
-
-[بَابَ   نُورَ   كَرِيمَ   رَسُولَ]{.arabic .arabic-lg}
-
-[الْقَمَر   الْكِتَاب   الْحَمْد]{.arabic .arabic-lg}
-
-[الشَّمْس   الرَّحْمَن   الرَّحِيم]{.arabic .arabic-lg}
+**nūra — sūra — ya-qū-lou — ra-sū-la**
 :::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 4 — Mots avec Lām-Alif
+
+::: {.display-box}
+[لا    إِلَّا    صَلاة    فَلا    وَلا]{.arabic .arabic-xl}
+
+**lā — il-lā — ṣa-lā — fa-lā — wa-lā**
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 5 — Lecture rapide ⏱️
+
+::: {.display-box .purple}
+[دَ ذِ رُ زَ وَ]{.arabic .arabic-xl}
+
+[بَا تُو فِي كَا نُو لِي]{.arabic .arabic-xl}
+
+[وَلَدَ دَرَسَ لا إِلَّا]{.arabic .arabic-xl}
+:::
+
+🎯 **Objectif** : moins de 20 secondes !
 
 :::
 
@@ -669,25 +381,19 @@ Lisez ce texte complet **sans vous arrêter** :
 
 Avant de passer au Notebook 5, vérifiez que vous maîtrisez :
 
-- [ ] Je reconnais les 6 lettres non-attachantes : [ا د ذ ر ز و]{.arabic .arabic-md}
-- [ ] Je sais que ces lettres créent une **coupure** dans le mot
-- [ ] Je lis les voyelles longues (ā, ū, ī)
-- [ ] Je connais la différence entre **lettres lunaires** et **solaires**
-- [ ] Je prononce correctement [الْكِتَاب]{.arabic} (al-kitāb) et [الشَّمْس]{.arabic} (ash-shams)
-
-::: {.callout-note}
-## 💡 Conseil
-Pour mémoriser les lettres solaires, pensez au mot **الشَّمْس** (le soleil) — la lettre **ش** est solaire !
-:::
+- [ ] Je reconnais les 6 non-attachantes : [ا د ذ ر ز و]{.arabic .arabic-md}
+- [ ] Je lis les voyelles longues : **ā** (avec ا), **ū** (avec و)
+- [ ] Je reconnais la ligature **Lām-Alif** : [لا]{.arabic .arabic-md}
+- [ ] Je compte **21 lettres** au total
 
 ---
 
 ::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none;"}
-🎉 **Bravo !**
+🎉 **Excellent !**
 
-Vous connaissez maintenant **21 lettres** sur 28 et l'article **ال** !
+Vous connaissez **21 lettres** sur 28 !
 
-Plus que **7 lettres** à apprendre au Notebook 5 !
+Plus que **7 lettres** au Notebook 5 pour compléter l'alphabet !
 :::
 
 ---

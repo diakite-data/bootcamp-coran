@@ -1,103 +1,178 @@
 ---
 title: "Lire le Coran en 7 jours"
-subtitle: "Bootcamp intensif de lecture arabe"
-pagetitle: "Bootcamp - Lire le Coran en 7 jours"
+subtitle: "Bootcamp de lecture arabe pour débutants"
+format:
+  html:
+    css: styles.css
 ---
 
-::: {.display-box style="background: linear-gradient(135deg, #1F4E79 0%, #2E74B5 100%); border: none;"}
-[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-xxl style="color: white;"}
+::: {.notebook-header}
+📖 BOOTCAMP CORAN
 
-*Au nom de Dieu, le Tout Miséricordieux, le Très Miséricordieux*{style="color: white;"}
+# Lire le Coran vocalisé en 7 jours
+
+[⏱️ ~3h30 au total]{.badge .duration} · [7 jours]{.badge .day}
 :::
 
-## 🎯 Objectif
+---
 
-À la fin de ce bootcamp de **7 jours**, vous saurez **lire le Coran vocalisé** (avec les signes de vocalisation).
+## 🎯 Objectif du bootcamp
+
+À la fin des 7 jours, vous saurez **lire le Coran vocalisé** (avec les signes de vocalisation).
 
 ::: {.callout-warning}
-## Lire ≠ Comprendre
-L'objectif est la **lecture correcte**, lente mais sans erreur. La compréhension du sens (tafsīr) est une étape ultérieure.
+## ⚠️ Lire ≠ Comprendre
+
+L'objectif est la **lecture correcte**, lente mais sans erreur.
+
+La compréhension du sens (tafsīr) est une étape ultérieure, distincte de ce bootcamp.
 :::
 
 ---
 
-## 📖 Comment ça marche ?
+## 👤 Pour qui ?
 
-| | |
-|:---:|:---|
-| ⏱️ | **30 minutes par jour** pendant 7 jours |
-| 🔊 | **Lecture à voix haute** obligatoire |
-| 📝 | **Quiz et exercices** pour valider chaque étape |
-| 📱 | **Accessible** sur ordinateur, tablette et mobile |
+Ce bootcamp est conçu pour :
+
+- ✅ Les **débutants complets** (aucune connaissance de l'arabe)
+- ✅ Les **francophones**
+- ✅ Les **salariés** avec peu de temps (~30 min/jour)
+- ✅ Ceux qui veulent lire **la Fatiha** rapidement
 
 ---
 
-## 🗓️ Parcours des 7 jours
+## 📖 Sens de lecture
 
-::: {.callout-note appearance="minimal"}
-Cliquez sur un notebook pour commencer.
+L'arabe se lit de **droite vers la gauche**.
+
+::: {.display-box}
+← ← ← ← ← ← ← ← ← ←
+
+[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-xl}
 :::
 
-| Jour | Notebook | Objectif | Lettres |
-|:----:|:---------|:---------|:--------|
-| — | [**0 - Introduction**](notebooks/notebook-0.qmd) | Comprendre la méthode | — |
-| 1 | [**1 - Premiers sons**](notebooks/notebook-1.qmd) | Syllabes simples + attachement | [ب ت م ن]{.arabic} |
-| 2 | [**2 - Mots complets**](notebooks/notebook-2.qmd) | Lire des mots de 3+ lettres | [ل ك ف س ه]{.arabic} |
-| 3 | [**3 - Voyelles complètes**](notebooks/notebook-3.qmd) | Maîtriser toutes les voyelles | [ج ش ي ق ع غ]{.arabic} |
-| 4 | [**4 - Non-attachantes**](notebooks/notebook-4.qmd) | Lettres qui coupent le mot | [ا د ذ ر ز و]{.arabic} |
-| 5 | [**5 - Cas spéciaux**](notebooks/notebook-5.qmd) | Emphatiques + hamza, tā marbūṭa | [ث ح خ ص ض ط ظ]{.arabic} |
-| 6 | [**6 - Lecture Mushaf**](notebooks/notebook-6.qmd) | Shadda, tanwīn, article ال | — |
-| 7 | [**7 - Lecture Coran**](notebooks/notebook-7.qmd) | Sourates complètes ✓ | — |
+::: {.callout-tip}
+## 💡 Astuce
+Imaginez que vous lisez un livre à l'envers. La première page est à droite, la dernière à gauche.
+:::
 
 ---
 
-## 🔤 Les 28 lettres de l'alphabet arabe
+## 🔤 L'alphabet arabe — Vue d'ensemble
 
-::: {.display-box style="background: #F5F5F5;"}
+L'arabe compte **28 lettres**. Les voici toutes :
+
+::: {.display-box style="background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%); border: 3px solid #1976D2;"}
 [ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي]{.arabic .arabic-lg}
 :::
 
-Vous les apprendrez **progressivement** au fil des notebooks, regroupées par logique pédagogique (pas dans l'ordre alphabétique).
-
----
-
-## ✅ Ce que ce bootcamp EST
-
-::: {.custom-box .success}
-- ✅ Un entraînement intensif à la **lecture**
-- ✅ Une méthode pour **déchiffrer** le Coran vocalisé
-- ✅ Une base solide pour **aller plus loin**
-:::
-
-## ❌ Ce que ce bootcamp N'EST PAS
-
-::: {.custom-box .danger}
-- ❌ Un cours de grammaire arabe
-- ❌ Un cours de compréhension (tafsīr)
-- ❌ Un cours de tajwīd avancé
-- ❌ Un cours d'écriture
+::: {.callout-note}
+## 📌 Pas de panique !
+Vous apprendrez ces lettres **progressivement** sur 5 jours. Aujourd'hui, vous n'avez besoin de rien mémoriser.
 :::
 
 ---
 
-## 📋 Règles du bootcamp
+## 📚 Programme des 7 jours
 
-1. **30 minutes par jour** — pas plus, pas moins
-2. **Lire à voix haute** — indispensable pour l'arabe
-3. **Ne pas brûler les étapes** — chaque notebook prépare le suivant
-4. **Faire les quiz** — ils valident votre progression
-5. **Répéter** — la répétition ancre la mémoire
+| Jour | Titre | Ce que vous apprendrez | Durée |
+|:----:|-------|------------------------|:-----:|
+| 1 | Premiers sons | 4 lettres + Fatha + Kasra | 25 min |
+| 2 | Lecture fluide | 5 lettres + Damma + Sukūn | 30 min |
+| 3 | Lecture renforcée | 6 lettres + ī long + Shadda | 30 min |
+| 4 | Exceptions graphiques | 6 lettres + ā/ū + Lām-Alif | 30 min |
+| 5 | Alphabet complet | 7 lettres + Article ال | 30 min |
+| 6 | Signes coraniques | Tanwīn, Hamza, ة, ى, آ, Liaison | 35 min |
+| 7 | Application | Lecture de la sourate Al-Fatiha | 35 min |
 
 ---
 
-## 🚀 Prêt à commencer ?
+## 🔢 Progression des lettres
 
-::: {style="text-align: center; margin: 2rem 0;"}
-[Commencer le Bootcamp →](notebooks/notebook-0.qmd){.nav-btn style="font-size: 1.2rem; padding: 1rem 2rem;"}
+::: {.display-box .green}
+**Jour 1 :** [ب ت م ن]{.arabic .arabic-lg} (4 lettres)
+
+**Jour 2 :** [ل ك ف س ه]{.arabic .arabic-lg} (9 lettres au total)
+
+**Jour 3 :** [ج ش ي ق ع غ]{.arabic .arabic-lg} (15 lettres au total)
+
+**Jour 4 :** [ا د ذ ر ز و]{.arabic .arabic-lg} (21 lettres au total)
+
+**Jour 5 :** [ث ح خ ص ض ط ظ]{.arabic .arabic-lg} (**28 lettres** ✅)
 :::
 
-::: {.display-box style="background: #1F4E79; border: none; margin-top: 3rem;"}
-[بِسْمِ اللَّهِ]{.arabic .arabic-xl style="color: white;"}
+---
 
-*Au nom de Dieu*{style="color: white;"}
+## ✏️ Les signes de vocalisation
+
+En arabe, les voyelles sont des **petits signes** au-dessus ou en-dessous des lettres :
+
+| Signe | Nom | Son | Appris au |
+|:-----:|:----|:---:|:---------:|
+| [◌َ]{.arabic .arabic-xl} | Fatha | a | Jour 1 |
+| [◌ِ]{.arabic .arabic-xl} | Kasra | i | Jour 1 |
+| [◌ُ]{.arabic .arabic-xl} | Damma | ou | Jour 2 |
+| [◌ْ]{.arabic .arabic-xl} | Sukūn | — | Jour 2 |
+| [◌ّ]{.arabic .arabic-xl} | Shadda | × 2 | Jour 3 |
+
+::: {.callout-tip}
+## 💡 Mnémotechnique
+- Trait **en haut** → "a" (Fatha)
+- Trait **en bas** → "i" (Kasra)
+:::
+
+---
+
+## 🎯 Votre objectif final
+
+À la fin du Jour 7, vous lirez **la sourate Al-Fatiha** :
+
+::: {.display-box style="background: linear-gradient(135deg, #FFF8E1 0%, #FFECB3 100%); border: 3px solid #FFC107;"}
+[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-lg}
+
+[الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg}
+
+[الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-lg}
+
+[مَالِكِ يَوْمِ الدِّينِ]{.arabic .arabic-lg}
+
+[إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ]{.arabic .arabic-lg}
+
+[اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ]{.arabic .arabic-lg}
+
+[صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ]{.arabic .arabic-lg}
+:::
+
+---
+
+## ✅ Conseils pour réussir
+
+1. **30 minutes par jour** — Pas plus, pas moins
+2. **Lisez à voix haute** — L'arabe s'apprend par l'oreille
+3. **Répétez 3 fois** — Chaque exercice, 3 répétitions minimum
+4. **Ne sautez pas d'étape** — Chaque jour prépare le suivant
+5. **Soyez patient** — La lenteur au début = la fluidité à la fin
+
+---
+
+## 🔊 Ressources audio recommandées
+
+Pour perfectionner votre prononciation, écoutez :
+
+- **Mishary Rashid Alafasy** — Récitation claire et lente
+- **Abdul Rahman Al-Sudais** — Prononciation distincte
+- **Quran.com** — Récitations avec suivi mot par mot
+
+---
+
+::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none;"}
+🚀 **Prêt à commencer ?**
+
+Cliquez sur le bouton ci-dessous pour démarrer le Jour 1 !
+:::
+
+---
+
+::: {.nav-buttons}
+[Commencer le Jour 1 →](notebooks/notebook-1.html){.nav-btn}
 :::

@@ -1,6 +1,6 @@
 ---
 title: "Notebook 6"
-subtitle: "Tanwīn, Hamza & Signes spéciaux"
+subtitle: "Signes coraniques"
 format:
   html:
     css: ../styles.css
@@ -9,18 +9,18 @@ format:
 ::: {.notebook-header}
 📓 NOTEBOOK 6 · Jour 6
 
-# Tanwīn, Hamza & Signes spéciaux
+# Signes coraniques
 
-[⏱️ 40 minutes]{.badge .duration} · [Signes avancés]{.badge .new}
+[⏱️ 35 minutes]{.badge .duration} · [Signes spéciaux]{.badge .new}
 :::
 
 ::: {.progress-container}
 ::: {.progress-info}
-📍 Notebook [6]{.current} / [8]{.total}
+📍 Notebook [6]{.current} / [7]{.total}
 :::
 ::: {.progress-bar-wrapper}
 ::: {.progress-bar}
-::: {.fill style="width: 87.5%;"}
+::: {.fill style="width: 85.7%;"}
 :::
 :::
 :::
@@ -33,26 +33,12 @@ format:
 
 À la fin de ce notebook, vous saurez :
 
-- ✅ Reconnaître et prononcer les **3 formes du Tanwīn**
-- ✅ Identifier la **Hamza** et ses supports
+- ✅ Lire le **Tanwīn** (nasalisation : -an, -in, -oun)
+- ✅ Reconnaître la **Hamza** et ses supports
 - ✅ Lire la **Tā' Marbūṭa** (ة)
-- ✅ Reconnaître l'**Alif Maqṣūra** (ى)
-- ✅ Lire la **Madda** (آ)
-- ✅ Appliquer la règle de **liaison** (Alif Waṣla)
-
----
-
-## 📝 Rappel — Les signes déjà appris
-
-::: {.display-box style="background: #F5F5F5;"}
-| Signe | Nom | Son |
-|:-----:|:----|:----|
-| [◌َ]{.arabic .arabic-xl} | Fatha | a |
-| [◌ِ]{.arabic .arabic-xl} | Kasra | i |
-| [◌ُ]{.arabic .arabic-xl} | Damma | ou |
-| [◌ْ]{.arabic .arabic-xl} | Sukūn | — (muet) |
-| [◌ّ]{.arabic .arabic-xl} | Shadda | doublement |
-:::
+- ✅ Distinguer l'**Alif Maqṣūra** (ى)
+- ✅ Reconnaître la **Madda** (آ)
+- ✅ Appliquer la **liaison** (Waṣla)
 
 ---
 
@@ -61,95 +47,30 @@ format:
 ::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); border: 3px solid #4CAF50;"}
 Le **Tanwīn** ajoute un son **"n"** à la fin d'un mot.
 
-C'est la marque de l'**indéfinition** (comme "un/une" en français).
+C'est la marque de l'**indéfinition** (comme "un/une").
 :::
 
 ### Les 3 formes du Tanwīn
 
-| Signe | Nom | Son | Équivalent |
-|:-----:|:----|:----|:-----------|
-| [◌ً]{.arabic .arabic-giant} | **Tanwīn Fatha** | -an | voyelle "a" + n |
-| [◌ٍ]{.arabic .arabic-giant} | **Tanwīn Kasra** | -in | voyelle "i" + n |
-| [◌ٌ]{.arabic .arabic-giant} | **Tanwīn Damma** | -oun | voyelle "ou" + n |
+| Signe | Nom | Son | Exemple |
+|:-----:|:----|:---:|:-------:|
+| [◌ً]{.arabic .arabic-giant} | Tanwīn Fatha | **-an** | [كِتَابًا]{.arabic .arabic-xl} ki-tāb**an** |
+| [◌ٍ]{.arabic .arabic-giant} | Tanwīn Kasra | **-in** | [كِتَابٍ]{.arabic .arabic-xl} ki-tāb**in** |
+| [◌ٌ]{.arabic .arabic-giant} | Tanwīn Damma | **-oun** | [كِتَابٌ]{.arabic .arabic-xl} ki-tāb**oun** |
 
 ::: {.callout-tip}
 ## 💡 Astuce visuelle
-Le Tanwīn, c'est la voyelle **doublée** :
-- Fatha doublée = [◌ً]{.arabic .arabic-lg}
-- Kasra doublée = [◌ٍ]{.arabic .arabic-lg}
-- Damma doublée = [◌ٌ]{.arabic .arabic-lg}
+Le Tanwīn = la voyelle **doublée** :
+- Fatha doublée [◌ً]{.arabic} = -an
+- Kasra doublée [◌ٍ]{.arabic} = -in
+- Damma doublée [◌ٌ]{.arabic} = -oun
 :::
-
----
-
-### 1️⃣ Tanwīn Fatha (-an)
-
-::: {.display-box .orange}
-[◌ً]{.arabic .arabic-giant style="color: #E65100;"} = **-an**
-
-Deux Fatha superposées (souvent avec un Alif de support)
-:::
-
-| Exemple | Prononciation |
-|:-------:|:-------------:|
-| [كِتَابًا]{.arabic .arabic-xxl} | **ki-tā-ban** |
-| [بَيْتًا]{.arabic .arabic-xxl} | **bay-tan** |
-| [قَلْبًا]{.arabic .arabic-xxl} | **qal-ban** |
 
 ::: {.callout-note}
-## 📌 Règle importante
-Le Tanwīn Fatha s'écrit généralement avec un **Alif de support** : [ـًا]{.arabic .arabic-lg}
+## 📌 Règle
+Le Tanwīn Fatha s'écrit souvent avec un **Alif de support** : [ـًا]{.arabic .arabic-lg}
 
-Sauf après [ة]{.arabic} (tā' marbūṭa) ou [ء]{.arabic} (hamza sur Alif).
-:::
-
----
-
-### 2️⃣ Tanwīn Kasra (-in)
-
-::: {.display-box .green}
-[◌ٍ]{.arabic .arabic-giant style="color: #2E7D32;"} = **-in**
-
-Deux Kasra superposées (en-dessous de la lettre)
-:::
-
-| Exemple | Prononciation |
-|:-------:|:-------------:|
-| [كِتَابٍ]{.arabic .arabic-xxl} | **ki-tā-bin** |
-| [بَيْتٍ]{.arabic .arabic-xxl} | **bay-tin** |
-| [قَلْبٍ]{.arabic .arabic-xxl} | **qal-bin** |
-
----
-
-### 3️⃣ Tanwīn Damma (-oun)
-
-::: {.display-box style="background: #E3F2FD; border-color: #1976D2;"}
-[◌ٌ]{.arabic .arabic-giant style="color: #1565C0;"} = **-oun**
-
-Deux Damma superposées (au-dessus de la lettre)
-:::
-
-| Exemple | Prononciation |
-|:-------:|:-------------:|
-| [كِتَابٌ]{.arabic .arabic-xxl} | **ki-tā-boun** |
-| [بَيْتٌ]{.arabic .arabic-xxl} | **bay-toun** |
-| [قَلْبٌ]{.arabic .arabic-xxl} | **qal-boun** |
-
----
-
-### Comparaison des 3 Tanwīn
-
-Sur le même mot [كِتَاب]{.arabic} (livre) :
-
-| Tanwīn | Mot | Prononciation | Cas grammatical |
-|:------:|:---:|:-------------:|:----------------|
-| Fatha | [كِتَابًا]{.arabic .arabic-xl} | **ki-tā-ban** | Accusatif (COD) |
-| Kasra | [كِتَابٍ]{.arabic .arabic-xl} | **ki-tā-bin** | Génitif (complément) |
-| Damma | [كِتَابٌ]{.arabic .arabic-xl} | **ki-tā-boun** | Nominatif (sujet) |
-
-::: {.callout-note}
-## 💡 Pour le bootcamp
-Ne vous souciez pas de la grammaire pour l'instant. Concentrez-vous sur la **prononciation** : -an, -in, -oun.
+Sauf après [ة]{.arabic} ou [ء]{.arabic}.
 :::
 
 ---
@@ -159,109 +80,54 @@ Ne vous souciez pas de la grammaire pour l'instant. Concentrez-vous sur la **pro
 ::: {.display-box style="background: linear-gradient(135deg, #F3E5F5 0%, #E1BEE7 100%); border: 3px solid #9C27B0;"}
 [ء]{.arabic .arabic-giant style="color: #7B1FA2;"}
 
-La **Hamza** est un **coup de glotte** — une brève interruption du son.
+La **Hamza** = une brève interruption du son (coup de glotte)
 :::
-
-### Qu'est-ce qu'un coup de glotte ?
-
-C'est le son que vous faites entre les deux "oh" dans "oh-oh!" (exclamation de surprise).
-
----
 
 ### Les supports de la Hamza
 
-La Hamza peut s'écrire :
-
 | Position | Support | Exemple |
-|:---------|:--------|:-------:|
-| Seule | [ء]{.arabic .arabic-xl} | [شَيْءٌ]{.arabic .arabic-xl} (shay'oun) |
-| Sur Alif | [أ]{.arabic .arabic-xl} ou [إ]{.arabic .arabic-xl} | [أَحْمَدَ]{.arabic .arabic-xl} (aḥmada) |
-| Sur Wāw | [ؤ]{.arabic .arabic-xl} | [رُؤُوسٌ]{.arabic .arabic-xl} (rou'ous) |
-| Sur Yā' | [ئ]{.arabic .arabic-xl} | [سَيِّئَةٌ]{.arabic .arabic-xl} (sayyi'a) |
-| Sous Alif | [إ]{.arabic .arabic-xl} | [إِنَّ]{.arabic .arabic-xl} (inna) |
+|:---------|:-------:|:-------:|
+| Seule | [ء]{.arabic .arabic-xl} | [شَيْءٌ]{.arabic .arabic-xl} shay'oun |
+| Sur Alif | [أ]{.arabic .arabic-xl} | [أَحْمَد]{.arabic .arabic-xl} aḥmad |
+| Sous Alif | [إ]{.arabic .arabic-xl} | [إِنَّ]{.arabic .arabic-xl} inna |
+| Sur Wāw | [ؤ]{.arabic .arabic-xl} | [رُؤُوس]{.arabic .arabic-xl} rou'ous |
+| Sur Yā' | [ئ]{.arabic .arabic-xl} | [سَيِّئَة]{.arabic .arabic-xl} sayyi'a |
 
----
-
-### La Hamza en début de mot
-
-::: {.display-box}
-**Hamza avec Fatha :** [أَ]{.arabic .arabic-xxl}
-
-[أَحْمَدَ]{.arabic .arabic-xl} = **aḥ-ma-da**
-:::
-
-::: {.display-box .green}
-**Hamza avec Kasra :** [إِ]{.arabic .arabic-xxl}
-
-[إِنَّ]{.arabic .arabic-xl} = **in-na**
-:::
-
-::: {.display-box style="background: #E3F2FD;"}
-**Hamza avec Damma :** [أُ]{.arabic .arabic-xxl}
-
-[أُمَّةٌ]{.arabic .arabic-xl} = **oum-ma-toun**
-:::
-
----
-
-### Exemples de mots avec Hamza
+### Exemples courants
 
 | Mot | Prononciation | Sens |
 |:---:|:-------------:|:-----|
 | [أَنَا]{.arabic .arabic-xl} | **a-na** | je/moi |
 | [إِلَى]{.arabic .arabic-xl} | **i-lā** | vers |
-| [أُمَّ]{.arabic .arabic-xl} | **oumm** | mère |
 | [سَأَلَ]{.arabic .arabic-xl} | **sa-a-la** | il a demandé |
 | [قَرَأَ]{.arabic .arabic-xl} | **qa-ra-a** | il a lu |
-| [شَيْءٌ]{.arabic .arabic-xl} | **shay-'oun** | chose |
 
 ---
 
-## ✏️ La TĀ' MARBŪṬA (ة) — TRÈS IMPORTANT !
+## ✏️ La TĀ' MARBŪṬA (ة)
 
 ::: {.display-box style="background: linear-gradient(135deg, #FFEBEE 0%, #FFCDD2 100%); border: 3px solid #F44336;"}
 [ة]{.arabic .arabic-giant style="color: #C62828;"}
 
-La **Tā' Marbūṭa** = un [ه]{.arabic} avec **deux points** dessus
+La **Tā' Marbūṭa** = un [ه]{.arabic} avec **deux points**
 :::
 
 ### Règle de prononciation
 
 | Situation | Prononciation | Exemple |
 |:----------|:-------------:|:-------:|
-| **En pause** (fin de phrase) | **-a** (comme un "a") | [رَحْمَةْ]{.arabic .arabic-lg} = raḥma |
-| **En liaison** (phrase continue) | **-t** (comme un "t") | [رَحْمَةُ اللَّهِ]{.arabic .arabic-lg} = raḥmatu-llāh |
-
-::: {.callout-important}
-## ⚠️ C'est TRÈS fréquent !
-La Tā' Marbūṭa apparaît dans énormément de mots coraniques. Apprenez à la reconnaître !
-:::
+| **En pause** | **-a** | [رَحْمَة]{.arabic .arabic-lg} → raḥm**a** |
+| **En liaison** | **-t** | [رَحْمَةُ اللَّه]{.arabic .arabic-lg} → raḥma**tu**-llāh |
+| **Avec Tanwīn** | **-toun/-tin/-tan** | [رَحْمَةٌ]{.arabic .arabic-lg} → raḥma**toun** |
 
 ### Exemples courants
 
-| Mot | En pause | En liaison |
-|:---:|:--------:|:----------:|
-| [سُورَة]{.arabic .arabic-xl} | **sūra** | **sūrat**... |
-| [رَحْمَة]{.arabic .arabic-xl} | **raḥma** | **raḥmat**... |
-| [الْفَاتِحَة]{.arabic .arabic-xl} | **al-fātiḥa** | **al-fātiḥat**... |
-| [آيَة]{.arabic .arabic-xl} | **āya** | **āyat**... |
-| [صَلَاة]{.arabic .arabic-xl} | **ṣalā** | **ṣalāt**... |
-| [نِعْمَة]{.arabic .arabic-xl} | **niʿma** | **niʿmat**... |
-
-### Avec Tanwīn
-
-Quand la Tā' Marbūṭa porte un Tanwīn :
-
-| Tanwīn | Exemple | Prononciation |
-|:------:|:-------:|:-------------:|
-| Fatha | [رَحْمَةً]{.arabic .arabic-xl} | **raḥma-tan** |
-| Kasra | [رَحْمَةٍ]{.arabic .arabic-xl} | **raḥma-tin** |
-| Damma | [رَحْمَةٌ]{.arabic .arabic-xl} | **raḥma-toun** |
-
-::: {.callout-note}
-## 💡 Observation
-Avec le Tanwīn, la Tā' Marbūṭa se prononce toujours **"t"** !
-:::
+| Mot | En pause | Avec Tanwīn |
+|:---:|:--------:|:-----------:|
+| [سُورَة]{.arabic .arabic-xl} | **sūra** | **sūratoun** |
+| [آيَة]{.arabic .arabic-xl} | **āya** | **āyatoun** |
+| [صَلَاة]{.arabic .arabic-xl} | **ṣalā** | **ṣalātoun** |
+| [نِعْمَة]{.arabic .arabic-xl} | **niʿma** | **niʿmatoun** |
 
 ---
 
@@ -270,12 +136,12 @@ Avec le Tanwīn, la Tā' Marbūṭa se prononce toujours **"t"** !
 ::: {.display-box style="background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%); border: 3px solid #1976D2;"}
 [ى]{.arabic .arabic-giant style="color: #1565C0;"}
 
-L'**Alif Maqṣūra** = ressemble au [ي]{.arabic} mais **SANS les deux points**
+L'**Alif Maqṣūra** = ressemble au [ي]{.arabic} mais **SANS points**
 :::
 
 ### Règle simple
 
-L'Alif Maqṣūra se prononce toujours **ā** (a long), exactement comme un Alif normal.
+Se prononce toujours **ā** (a long), comme un Alif normal.
 
 | Lettre | Apparence | Prononciation |
 |:------:|:---------:|:-------------:|
@@ -285,7 +151,7 @@ L'Alif Maqṣūra se prononce toujours **ā** (a long), exactement comme un Alif
 
 ::: {.callout-warning}
 ## ⚠️ Ne confondez pas !
-- [ي]{.arabic .arabic-lg} (avec 2 points) = **yā'** (consonne "y" ou voyelle longue "ī")
+- [ي]{.arabic .arabic-lg} (avec 2 points) = **yā'**
 - [ى]{.arabic .arabic-lg} (sans points) = **alif maqṣūra** (se prononce "ā")
 :::
 
@@ -297,8 +163,6 @@ L'Alif Maqṣūra se prononce toujours **ā** (a long), exactement comme un Alif
 | [إِلَى]{.arabic .arabic-xl} | **i-lā** | vers |
 | [مُوسَى]{.arabic .arabic-xl} | **mū-sā** | Moïse |
 | [عِيسَى]{.arabic .arabic-xl} | **ʿī-sā** | Jésus |
-| [هُدًى]{.arabic .arabic-xl} | **hou-dan** | guidance |
-| [تَقْوَى]{.arabic .arabic-xl} | **taq-wā** | piété |
 
 ---
 
@@ -307,91 +171,41 @@ L'Alif Maqṣūra se prononce toujours **ā** (a long), exactement comme un Alif
 ::: {.display-box style="background: linear-gradient(135deg, #FFF3E0 0%, #FFE0B2 100%); border: 3px solid #FF9800;"}
 [آ]{.arabic .arabic-giant style="color: #E65100;"}
 
-La **Madda** = Alif avec une **tilde (~)** dessus
+La **Madda** = Alif avec une **tilde (~)**
 :::
 
-### Qu'est-ce que la Madda ?
+### Règle
 
-La Madda représente : **Hamza + Alif** (ء + ا) combinés en un seul signe.
-
-Elle se prononce **"ā"** long (parfois précédé d'un coup de glotte).
-
-### Exemples courants
+Se prononce **ā** long (parfois précédé d'un coup de glotte).
 
 | Mot | Prononciation | Sens |
 |:---:|:-------------:|:-----|
 | [آمَنَ]{.arabic .arabic-xl} | **ā-ma-na** | il a cru |
 | [آدَم]{.arabic .arabic-xl} | **ā-dam** | Adam |
-| [آيَة]{.arabic .arabic-xl} | **ā-ya** | verset/signe |
+| [آيَة]{.arabic .arabic-xl} | **ā-ya** | verset |
 | [الْقُرْآن]{.arabic .arabic-xl} | **al-qur-'ān** | le Coran |
-| [آخِر]{.arabic .arabic-xl} | **ā-khir** | dernier |
-
-::: {.callout-tip}
-## 💡 Astuce
-Quand vous voyez [آ]{.arabic}, pensez à un **"ā" long** au début ou au milieu d'un mot.
-:::
 
 ---
 
-## ✏️ L'ALIF WAṢLA — La liaison
+## ✏️ La LIAISON (Waṣla)
 
 ::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); border: 3px solid #4CAF50;"}
-[ٱ]{.arabic .arabic-giant style="color: #2E7D32;"}
+En milieu de phrase, l'Alif de l'article **ال** ne se prononce pas.
 
-L'**Alif Waṣla** = Alif de **liaison** (ne se prononce pas en milieu de phrase)
+On **enchaîne** directement avec le mot précédent.
 :::
-
-### Où trouve-t-on l'Alif Waṣla ?
-
-1. **Dans l'article ال** au milieu d'une phrase
-2. **Au début de certains verbes** (impératif, forme VII-X)
-3. **Dans certains noms** comme [اِبْن]{.arabic} (ibn = fils), [اِسْم]{.arabic} (ism = nom)
-
-### La règle de liaison
-
-| Position | Prononciation | Exemple |
-|:---------|:-------------:|:-------:|
-| **Début de phrase** | Se prononce | [الْحَمْدُ]{.arabic .arabic-lg} = **al**-ḥamdu |
-| **Milieu de phrase** | NE se prononce PAS | [بِسْمِ اللَّهِ]{.arabic .arabic-lg} = bismi-**ll**āhi |
 
 ### Exemples de liaison
 
-::: {.display-box .green}
-**بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ**
-
-= **bismi-llāhi-r-raḥmāni-r-raḥīm**
-
-(Pas "bismi allāhi al-raḥmāni al-raḥīmi")
-:::
-
-| Écrit | Prononciation correcte | ❌ Incorrect |
-|:-----:|:----------------------:|:------------:|
-| [بِسْمِ اللَّهِ]{.arabic .arabic-lg} | **bismi-llāh** | bismi allāh |
-| [قَالَ اللَّهُ]{.arabic .arabic-lg} | **qāla-llāh** | qāla allāh |
-| [وَالْعَصْرِ]{.arabic .arabic-lg} | **wal-ʿaṣr** | wa al-ʿaṣr |
-| [فِي الْأَرْضِ]{.arabic .arabic-lg} | **fil-arḍ** | fī al-arḍ |
+| Écrit | Prononciation | ❌ Incorrect |
+|:-----:|:-------------:|:------------:|
+| [بِسْمِ اللَّهِ]{.arabic .arabic-xl} | **bismi-llāh** | ~~bismi allāh~~ |
+| [الْحَمْدُ لِلَّهِ]{.arabic .arabic-xl} | **al-ḥamdu li-llāh** | ~~al-ḥamdu li allāh~~ |
+| [فِي الْأَرْضِ]{.arabic .arabic-xl} | **fi-l-arḍ** | ~~fī al-arḍ~~ |
 
 ::: {.callout-important}
-## ⚠️ Règle essentielle
-Quand un mot se termine par une **voyelle** et que le mot suivant commence par **ال**, on **enchaîne** directement — l'alif de l'article ne se prononce pas.
-:::
-
----
-
-## 📊 Récapitulatif des signes spéciaux
-
-::: {.display-box style="background: linear-gradient(135deg, #FFF8E1 0%, #FFECB3 100%);"}
-**Tanwīn :** [◌ً]{.arabic .arabic-lg} (-an) · [◌ٍ]{.arabic .arabic-lg} (-in) · [◌ٌ]{.arabic .arabic-lg} (-oun)
-
-**Hamza :** [ء]{.arabic .arabic-lg} [أ]{.arabic .arabic-lg} [إ]{.arabic .arabic-lg} [ؤ]{.arabic .arabic-lg} [ئ]{.arabic .arabic-lg}
-
-**Tā' Marbūṭa :** [ة]{.arabic .arabic-lg} (-a en pause, -t en liaison)
-
-**Alif Maqṣūra :** [ى]{.arabic .arabic-lg} (= ā, comme alif)
-
-**Madda :** [آ]{.arabic .arabic-lg} (= ā long)
-
-**Alif Waṣla :** [ٱ]{.arabic .arabic-lg} (liaison, ne se prononce pas)
+## ⚠️ Règle de liaison
+Quand un mot se termine par une **voyelle** et que le mot suivant commence par **ال**, on enchaîne — l'alif ne se prononce pas.
 :::
 
 ---
@@ -401,118 +215,49 @@ Quand un mot se termine par une **voyelle** et que le mot suivant commence par *
 ### Étape 1 — Tanwīn
 
 ::: {.display-box}
-[كِتَابًا   كِتَابٍ   كِتَابٌ]{.arabic .arabic-xl}
+[كِتَابًا    كِتَابٍ    كِتَابٌ]{.arabic .arabic-xl}
 
-**ki-tā-ban** · **ki-tā-bin** · **ki-tā-boun**
+**kitāban — kitābin — kitāboun**
 :::
-
----
 
 ### Étape 2 — Mots avec Hamza
 
-| | | |
-|:--:|:--:|:--:|
-| [أَنَا]{.arabic .arabic-xl} | [إِلَى]{.arabic .arabic-xl} | [أُمَّةٌ]{.arabic .arabic-xl} |
-| **a-na** | **i-lā** | **oum-ma-toun** |
+::: {.display-box .purple}
+[أَنَا    إِنَّ    سَأَلَ    قَرَأَ    شَيْءٌ]{.arabic .arabic-xl}
 
----
+**ana — inna — sa'ala — qara'a — shay'oun**
+:::
 
 ### Étape 3 — Mots avec Tā' Marbūṭa
 
-| | | |
-|:--:|:--:|:--:|
-| [رَحْمَةٌ]{.arabic .arabic-xl} | [سُورَةٌ]{.arabic .arabic-xl} | [نِعْمَةٌ]{.arabic .arabic-xl} |
-| **raḥma-toun** | **sūra-toun** | **niʿma-toun** |
+::: {.display-box .green}
+[رَحْمَةٌ    سُورَةٌ    آيَةٌ    صَلَاةٌ    نِعْمَةٌ]{.arabic .arabic-xl}
 
-| | | |
-|:--:|:--:|:--:|
-| [آيَةٌ]{.arabic .arabic-xl} | [صَلَاةٌ]{.arabic .arabic-xl} | [الْفَاتِحَةُ]{.arabic .arabic-xl} |
-| **āya-toun** | **ṣalā-toun** | **al-fātiḥa-tou** |
-
----
+**raḥmatoun — sūratoun — āyatoun — ṣalātoun — niʿmatoun**
+:::
 
 ### Étape 4 — Mots avec Alif Maqṣūra
 
-| | | |
-|:--:|:--:|:--:|
-| [عَلَى]{.arabic .arabic-xl} | [إِلَى]{.arabic .arabic-xl} | [مُوسَى]{.arabic .arabic-xl} |
-| **ʿa-lā** | **i-lā** | **mū-sā** |
+::: {.display-box}
+[عَلَى    إِلَى    مُوسَى    عِيسَى    هُدًى]{.arabic .arabic-xl}
 
-| | | |
-|:--:|:--:|:--:|
-| [عِيسَى]{.arabic .arabic-xl} | [هُدًى]{.arabic .arabic-xl} | [تَقْوَى]{.arabic .arabic-xl} |
-| **ʿī-sā** | **hou-dan** | **taq-wā** |
-
----
+**ʿalā — ilā — mūsā — ʿīsā — houdan**
+:::
 
 ### Étape 5 — Mots avec Madda
 
-| | | |
-|:--:|:--:|:--:|
-| [آمَنَ]{.arabic .arabic-xl} | [آدَم]{.arabic .arabic-xl} | [آيَة]{.arabic .arabic-xl} |
-| **ā-ma-na** | **ā-dam** | **ā-ya** |
+::: {.display-box .orange}
+[آمَنَ    آدَم    آيَة    الْقُرْآن    آمِين]{.arabic .arabic-xl}
 
-| | | |
-|:--:|:--:|:--:|
-| [الْقُرْآن]{.arabic .arabic-xl} | [آخِر]{.arabic .arabic-xl} | [آمِين]{.arabic .arabic-xl} |
-| **al-qur-'ān** | **ā-khir** | **ā-mīn** |
-
----
-
-### Étape 6 — Pratique de la liaison
-
-Lisez ces phrases **EN ENCHAÎNANT** :
-
-::: {.display-box .green}
-[بِسْمِ اللَّهِ]{.arabic .arabic-xl}
-
-**bismi-llāh** (pas "bismi allāh")
+**āmana — ādam — āya — al-qur'ān — āmīn**
 :::
 
-::: {.display-box style="background: white;"}
-[الْحَمْدُ لِلَّهِ]{.arabic .arabic-xl}
+### Étape 6 — Liaison
 
-**al-ḥamdu li-llāh**
-:::
-
-::: {.display-box .green}
-[فِي سَبِيلِ اللَّهِ]{.arabic .arabic-xl}
-
-**fī sabīli-llāh**
-:::
-
-::: {.display-box style="background: white;"}
-[قَالَ اللَّهُ تَعَالَى]{.arabic .arabic-xl}
-
-**qāla-llāhu taʿālā**
-:::
-
----
-
-### Étape 7 — Versets coraniques
-
-::: {.display-box style="background: #FFF8E1; border-color: #FFC107;"}
+::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%);"}
 [بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ]{.arabic .arabic-lg}
 
 **bismi-llāhi-r-raḥmāni-r-raḥīm**
-
-"Au nom d'Allah, le Tout-Miséricordieux, le Très-Miséricordieux"
-:::
-
-::: {.display-box style="background: #E8F5E9; border-color: #4CAF50;"}
-[الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg}
-
-**al-ḥamdu li-llāhi rabbi-l-ʿālamīn**
-
-"Louange à Allah, Seigneur des mondes"
-:::
-
-::: {.display-box style="background: #E3F2FD; border-color: #1976D2;"}
-[صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ]{.arabic .arabic-lg}
-
-**ṣirāṭa-lladhīna anʿamta ʿalayhim**
-
-"Le chemin de ceux que Tu as comblés de bienfaits"
 :::
 
 ---
@@ -523,18 +268,13 @@ Lisez ces phrases **EN ENCHAÎNANT** :
 
 ### Quiz 1 — Identifier le Tanwīn
 
-Quel type de Tanwīn porte chaque mot ?
-
 | 1. | 2. | 3. |
 |:--:|:--:|:--:|
 | [كِتَابٌ]{.arabic .arabic-xxl} | [كِتَابًا]{.arabic .arabic-xxl} | [كِتَابٍ]{.arabic .arabic-xxl} |
-| _______ | _______ | _______ |
 
 ::: {.callout-note collapse="true"}
 ## Voir les réponses
-1. Tanwīn Damma (-oun)
-2. Tanwīn Fatha (-an)
-3. Tanwīn Kasra (-in)
+1. Tanwīn Damma (-oun) — 2. Tanwīn Fatha (-an) — 3. Tanwīn Kasra (-in)
 :::
 
 :::
@@ -543,15 +283,15 @@ Quel type de Tanwīn porte chaque mot ?
 
 ### Quiz 2 — Reconnaître la Tā' Marbūṭa
 
-Quels mots contiennent une **Tā' Marbūṭa** ?
+Quels mots contiennent [ة]{.arabic} ?
 
-::: {.display-box .purple}
-[كِتَاب   سُورَة   رَحْمَة   قَلْب   نِعْمَة   بَيْت   آيَة]{.arabic .arabic-xl}
+::: {.display-box}
+[كِتَاب    سُورَة    رَحْمَة    قَلْب    آيَة    بَيْت]{.arabic .arabic-xl}
 :::
 
 ::: {.callout-note collapse="true"}
 ## Voir les réponses
-Mots avec Tā' Marbūṭa : [سُورَة]{.arabic} · [رَحْمَة]{.arabic} · [نِعْمَة]{.arabic} · [آيَة]{.arabic}
+Mots avec ة : [سُورَة]{.arabic} · [رَحْمَة]{.arabic} · [آيَة]{.arabic}
 :::
 
 :::
@@ -560,59 +300,17 @@ Mots avec Tā' Marbūṭa : [سُورَة]{.arabic} · [رَحْمَة]{.arabic}
 
 ### Quiz 3 — Alif ou Alif Maqṣūra ?
 
-Identifiez si le mot se termine par un **Alif (ا)** ou un **Alif Maqṣūra (ى)** :
-
-| Mot | Alif ou Maqṣūra ? |
-|:---:|:-----------------:|
-| [عَلَى]{.arabic .arabic-xl} | _______ |
-| [دُنْيَا]{.arabic .arabic-xl} | _______ |
-| [مُوسَى]{.arabic .arabic-xl} | _______ |
-| [سَمَاء]{.arabic .arabic-xl} | _______ |
+| Mot | Type |
+|:---:|:----:|
+| [عَلَى]{.arabic .arabic-xl} | _____ |
+| [دُنْيَا]{.arabic .arabic-xl} | _____ |
+| [مُوسَى]{.arabic .arabic-xl} | _____ |
 
 ::: {.callout-note collapse="true"}
 ## Voir les réponses
-- عَلَى → **Alif Maqṣūra** (ى sans points)
+- عَلَى → **Alif Maqṣūra** (ى)
 - دُنْيَا → **Alif** (ا)
-- مُوسَى → **Alif Maqṣūra** (ى sans points)
-- سَمَاء → **Alif** (ا) + Hamza
-:::
-
-:::
-
-::: {.section-quiz}
-
-### Quiz 4 — Identifier la Madda
-
-Quels mots contiennent une **Madda (آ)** ?
-
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [آمَنَ]{.arabic .arabic-xl} | [أَحْمَد]{.arabic .arabic-xl} | [الْقُرْآن]{.arabic .arabic-xl} | [إِنَّ]{.arabic .arabic-xl} |
-
-::: {.callout-note collapse="true"}
-## Voir les réponses
-Mots avec Madda : [آمَنَ]{.arabic} et [الْقُرْآن]{.arabic}
-:::
-
-:::
-
-::: {.section-quiz}
-
-### Quiz 5 — Liaison
-
-Comment prononce-t-on ces expressions ?
-
-| Écrit | Prononciation |
-|:-----:|:-------------:|
-| [بِسْمِ اللَّهِ]{.arabic .arabic-lg} | _______ |
-| [فِي الْأَرْضِ]{.arabic .arabic-lg} | _______ |
-| [وَالْعَصْرِ]{.arabic .arabic-lg} | _______ |
-
-::: {.callout-note collapse="true"}
-## Voir les réponses
-- بِسْمِ اللَّهِ → **bismi-llāh**
-- فِي الْأَرْضِ → **fi-l-arḍ**
-- وَالْعَصْرِ → **wa-l-ʿaṣr**
+- مُوسَى → **Alif Maqṣūra** (ى)
 :::
 
 :::
@@ -623,157 +321,62 @@ Comment prononce-t-on ces expressions ?
 
 ::: {.section-exercise}
 
-### Exercice 1 — Répétition du Tanwīn
-
-Lisez chaque colonne **3 FOIS** :
-
-| Tanwīn Fatha | Tanwīn Kasra | Tanwīn Damma |
-|:------------:|:------------:|:------------:|
-| [بًا]{.arabic .arabic-xl} | [بٍ]{.arabic .arabic-xl} | [بٌ]{.arabic .arabic-xl} |
-| [تًا]{.arabic .arabic-xl} | [تٍ]{.arabic .arabic-xl} | [تٌ]{.arabic .arabic-xl} |
-| [نًا]{.arabic .arabic-xl} | [نٍ]{.arabic .arabic-xl} | [نٌ]{.arabic .arabic-xl} |
-| [مًا]{.arabic .arabic-xl} | [مٍ]{.arabic .arabic-xl} | [مٌ]{.arabic .arabic-xl} |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 2 — Mots avec Tā' Marbūṭa
-
-Lisez **en pause** (fin de phrase = "-a") :
-
-| | | |
-|:--:|:--:|:--:|
-| [رَحْمَة]{.arabic .arabic-lg} | [سُورَة]{.arabic .arabic-lg} | [نِعْمَة]{.arabic .arabic-lg} |
-| **raḥma** | **sūra** | **niʿma** |
-
-Lisez **avec Tanwīn** :
-
-| | | |
-|:--:|:--:|:--:|
-| [رَحْمَةٌ]{.arabic .arabic-lg} | [سُورَةٌ]{.arabic .arabic-lg} | [نِعْمَةٌ]{.arabic .arabic-lg} |
-| **raḥma-toun** | **sūra-toun** | **niʿma-toun** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 3 — Alif Maqṣūra vs Yā'
-
-Distinguez bien la prononciation :
-
-| Alif Maqṣūra (ā) | Yā' (ī/y) |
-|:----------------:|:---------:|
-| [عَلَى]{.arabic .arabic-xl} **ʿalā** | [عَلِي]{.arabic .arabic-xl} **ʿalī** |
-| [إِلَى]{.arabic .arabic-xl} **ilā** | [إِلَيْ]{.arabic .arabic-xl} **ilay** |
-| [مُوسَى]{.arabic .arabic-xl} **mūsā** | [مُوسِي]{.arabic .arabic-xl} **mūsī** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 4 — Mots avec Madda
-
-| | | |
-|:--:|:--:|:--:|
-| [آمَنَ]{.arabic .arabic-lg} | [آدَم]{.arabic .arabic-lg} | [آخِر]{.arabic .arabic-lg} |
-| **ā-ma-na** | **ā-dam** | **ā-khir** |
-
-| | | |
-|:--:|:--:|:--:|
-| [آيَة]{.arabic .arabic-lg} | [الْقُرْآن]{.arabic .arabic-lg} | [آمِين]{.arabic .arabic-lg} |
-| **ā-ya** | **al-qur'ān** | **ā-mīn** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 5 — Pratique de liaison
-
-Lisez **en enchaînant** les mots :
+### Exercice 1 — Tanwīn
 
 ::: {.display-box}
-[بِسْمِ اللَّهِ]{.arabic .arabic-lg} → **bismi-llāh**
+[بَيْتًا    بَيْتٍ    بَيْتٌ]{.arabic .arabic-xl}
+
+**baytan — baytin — baytoun**
 :::
 
 ::: {.display-box style="background: white;"}
-[الْحَمْدُ لِلَّهِ]{.arabic .arabic-lg} → **al-ḥamdu li-llāh**
-:::
+[قَلْبًا    قَلْبٍ    قَلْبٌ]{.arabic .arabic-xl}
 
-::: {.display-box}
-[رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg} → **rabbi-l-ʿālamīn**
-:::
-
-::: {.display-box style="background: white;"}
-[مَالِكِ يَوْمِ الدِّينِ]{.arabic .arabic-lg} → **māliki yawmi-d-dīn**
+**qalban — qalbin — qalboun**
 :::
 
 :::
 
 ::: {.section-exercise}
 
-### Exercice 6 — Versets de la Fatiha avec liaison
-
-Lisez ces extraits **avec les liaisons correctes** :
+### Exercice 2 — Tā' Marbūṭa avec Tanwīn
 
 ::: {.display-box .green}
+[رَحْمَةً    رَحْمَةٍ    رَحْمَةٌ]{.arabic .arabic-xl}
+
+**raḥmatan — raḥmatin — raḥmatoun**
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 3 — Liaison (Basmala)
+
+Lisez **en enchaînant** :
+
+::: {.display-box style="background: linear-gradient(135deg, #FFF8E1 0%, #FFECB3 100%);"}
 [بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ]{.arabic .arabic-lg}
 
 **bismi-llāhi-r-raḥmāni-r-raḥīm**
 :::
 
-::: {.display-box style="background: white;"}
+:::
+
+::: {.section-exercise}
+
+### Exercice 4 — Versets avec liaison
+
+::: {.display-box}
 [الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg}
 
 **al-ḥamdu li-llāhi rabbi-l-ʿālamīn**
 :::
 
-::: {.display-box .green}
-[إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ]{.arabic .arabic-lg}
-
-**iyyāka naʿbudu wa-iyyāka nastaʿīn**
-:::
-
 ::: {.display-box style="background: white;"}
-[اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ]{.arabic .arabic-lg}
+[مَالِكِ يَوْمِ الدِّينِ]{.arabic .arabic-lg}
 
-**ihdina-ṣ-ṣirāṭa-l-mustaqīm**
-:::
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 7 — Dictée inversée
-
-| Vous lisez | C'est correct si vous dites |
-|:----------:|:----------------------------|
-| [رَحْمَةٌ]{.arabic .arabic-lg} | **raḥma-toun** |
-| [عَلَى]{.arabic .arabic-lg} | **ʿalā** |
-| [آمَنَ]{.arabic .arabic-lg} | **āmana** |
-| [بِسْمِ اللَّهِ]{.arabic .arabic-lg} | **bismi-llāh** |
-| [الْقُرْآن]{.arabic .arabic-lg} | **al-qur'ān** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 8 — Lecture finale
-
-Lisez ce texte complet **sans vous arrêter** :
-
-::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); border: 3px solid #4CAF50;"}
-[كِتَابًا   كِتَابٍ   كِتَابٌ]{.arabic .arabic-lg}
-
-[رَحْمَةٌ   سُورَةٌ   نِعْمَةٌ   آيَةٌ]{.arabic .arabic-lg}
-
-[عَلَى   إِلَى   مُوسَى   عِيسَى]{.arabic .arabic-lg}
-
-[آمَنَ   آدَم   الْقُرْآن   آمِين]{.arabic .arabic-lg}
-
-[بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ]{.arabic .arabic-lg}
-
-[الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg}
+**māliki yawmi-d-dīn**
 :::
 
 :::
@@ -784,26 +387,21 @@ Lisez ce texte complet **sans vous arrêter** :
 
 Avant de passer au Notebook 7, vérifiez que vous maîtrisez :
 
-- [ ] Je reconnais les 3 Tanwīn : [◌ً]{.arabic} (-an), [◌ٍ]{.arabic} (-in), [◌ٌ]{.arabic} (-oun)
-- [ ] Je reconnais la Hamza sous ses différentes formes
-- [ ] Je lis la **Tā' Marbūṭa** [ة]{.arabic} correctement (-a en pause, -t en liaison)
-- [ ] Je distingue **Alif Maqṣūra** [ى]{.arabic} et **Yā'** [ي]{.arabic}
-- [ ] Je reconnais la **Madda** [آ]{.arabic} et la prononce "ā"
-- [ ] J'applique les **liaisons** (Alif Waṣla) correctement
-
-::: {.callout-note}
-## 💡 Conseil
-Ces signes sont très fréquents dans le Coran. Entraînez-vous à les repérer **visuellement** avant de lire.
-:::
+- [ ] Je lis les 3 Tanwīn : [◌ً]{.arabic} (-an), [◌ٍ]{.arabic} (-in), [◌ٌ]{.arabic} (-oun)
+- [ ] Je reconnais la Hamza sous ses formes
+- [ ] Je lis la Tā' Marbūṭa [ة]{.arabic} (-a ou -t)
+- [ ] Je distingue Alif Maqṣūra [ى]{.arabic} et Yā' [ي]{.arabic}
+- [ ] Je reconnais la Madda [آ]{.arabic}
+- [ ] J'applique les liaisons : [بِسْمِ اللَّهِ]{.arabic} = bismi-llāh
 
 ---
 
 ::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none;"}
-🎉 **Excellent travail !**
+🎉 **Presque terminé !**
 
-Vous maîtrisez maintenant **tous les signes de vocalisation** !
+Vous maîtrisez maintenant **tous les signes** nécessaires !
 
-Rendez-vous au Notebook 7 pour lire la sourate Al-Fatiha en entier !
+Rendez-vous au Notebook 7 pour lire la sourate **Al-Fatiha** !
 :::
 
 ---

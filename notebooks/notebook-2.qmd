@@ -1,6 +1,6 @@
 ---
 title: "Notebook 2"
-subtitle: "Mots complets & Nouvelles lettres"
+subtitle: "Lecture fluide"
 format:
   html:
     css: ../styles.css
@@ -9,18 +9,18 @@ format:
 ::: {.notebook-header}
 📓 NOTEBOOK 2 · Jour 2
 
-# Mots complets & Nouvelles lettres
+# Lecture fluide
 
 [⏱️ 30 minutes]{.badge .duration} · [5 nouvelles lettres]{.badge .new}
 :::
 
 ::: {.progress-container}
 ::: {.progress-info}
-📍 Notebook [2]{.current} / [8]{.total}
+📍 Notebook [2]{.current} / [7]{.total}
 :::
 ::: {.progress-bar-wrapper}
 ::: {.progress-bar}
-::: {.fill style="width: 37.5%;"}
+::: {.fill style="width: 28.6%;"}
 :::
 :::
 :::
@@ -33,163 +33,189 @@ format:
 
 À la fin de ce notebook, vous saurez :
 
-- ✅ Reconnaître et prononcer **5 nouvelles lettres**
-- ✅ Lire des **mots complets de 3+ lettres**
-- ✅ Identifier les **formes** des nouvelles lettres
-- ✅ Combiner les **9 lettres** apprises (4 + 5)
+- ✅ Reconnaître **9 lettres** au total (4 + 5 nouvelles)
+- ✅ Lire la voyelle **Damma** (son "ou")
+- ✅ Reconnaître le **Sukūn** (absence de voyelle)
+- ✅ Lire vos **premiers mots** arabes
 
 ---
 
-## 📝 Rappel — Lettres du Notebook 1
+## 📝 Rappel — Vos 4 premières lettres
 
 ::: {.display-box style="background: #F5F5F5;"}
 [ب    ت    م    ن]{.arabic .arabic-xl}
 
-bā' · tā' · mīm · nūn
+**bā' — tā' — mīm — nūn**
+
+Fatha (◌َ) = a | Kasra (◌ِ) = i
 :::
 
 ---
 
-## 🔤 Les 5 nouvelles lettres
+## 🔤 5 nouvelles lettres
 
-::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%);"}
+::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); border: 3px solid #4CAF50;"}
 [ل    ك    ف    س    ه]{.arabic .arabic-giant style="color: #2E7D32;"}
 :::
 
-| Lettre | Nom | Son |
-|:------:|:----|:----|
-| [ل]{.arabic .arabic-xl style="color: #2E7D32;"} | **lām** | l |
-| [ك]{.arabic .arabic-xl style="color: #2E7D32;"} | **kāf** | k |
-| [ف]{.arabic .arabic-xl style="color: #2E7D32;"} | **fā'** | f |
-| [س]{.arabic .arabic-xl style="color: #2E7D32;"} | **sīn** | s |
-| [ه]{.arabic .arabic-xl style="color: #2E7D32;"} | **hā'** | h léger |
+| Lettre | Nom | Son | Équivalent français |
+|:------:|:----|:---:|:--------------------|
+| [ل]{.arabic .arabic-xxl} | **lām** | l | comme "lune" |
+| [ك]{.arabic .arabic-xxl} | **kāf** | k | comme "kayak" |
+| [ف]{.arabic .arabic-xxl} | **fā'** | f | comme "famille" |
+| [س]{.arabic .arabic-xxl} | **sīn** | s | comme "soleil" |
+| [ه]{.arabic .arabic-xxl} | **hā'** | h | h aspiré (comme "hello") |
 
 ::: {.callout-tip}
-## ✅ Bonne nouvelle !
-Ces 5 lettres **s'attachent avant ET après** dans un mot (comme les 4 précédentes).
+## 💡 Astuces visuelles
+- [ل]{.arabic .arabic-lg} = grande barre verticale (comme un "L" inversé)
+- [ك]{.arabic .arabic-lg} = a un petit trait à l'intérieur
+- [ف]{.arabic .arabic-lg} = a **1 point AU-DESSUS**
+- [س]{.arabic .arabic-lg} = 3 dents (comme une scie)
+- [ه]{.arabic .arabic-lg} = petit rond (comme un "o")
 :::
 
 ---
 
-## 🔄 Les formes des nouvelles lettres
+## ✏️ 2 nouveaux signes : Damma et Sukūn
 
-### Les 4 formes de chaque lettre
+### Damma — Le son "ou"
+
+::: {.display-box style="background: #E3F2FD; border-color: #1976D2;"}
+[◌ُ]{.arabic .arabic-giant style="color: #1565C0;"}
+
+Une **petite boucle AU-DESSUS** de la lettre = son **"ou"**
+:::
+
+### Sukūn — L'absence de voyelle
+
+::: {.display-box style="background: #F5F5F5; border-color: #757575;"}
+[◌ْ]{.arabic .arabic-giant style="color: #424242;"}
+
+Un **petit rond AU-DESSUS** = la lettre est **muette** (pas de voyelle)
+:::
+
+---
+
+## 🧠 Récapitulatif des 4 voyelles
+
+::: {.callout-important}
+## Les 3 voyelles + le silence
+
+| Signe | Nom | Son | Position | Mnémotechnique |
+|:-----:|:----|:---:|:--------:|:---------------|
+| [◌َ]{.arabic .arabic-xl} | Fatha | **a** | en haut | Trait haut = a |
+| [◌ِ]{.arabic .arabic-xl} | Kasra | **i** | en bas | Trait bas = i |
+| [◌ُ]{.arabic .arabic-xl} | Damma | **ou** | en haut | Boucle = ou |
+| [◌ْ]{.arabic .arabic-xl} | Sukūn | **—** | en haut | Rond = silence |
+:::
+
+---
+
+## 🔊 Les nouvelles lettres avec les 3 voyelles
+
+### Avec Fatha (a)
+
+::: {.display-box}
+[لَ    كَ    فَ    سَ    هَ]{.arabic .arabic-xxl}
+
+**la — ka — fa — sa — ha**
+:::
+
+### Avec Kasra (i)
+
+::: {.display-box .green}
+[لِ    كِ    فِ    سِ    هِ]{.arabic .arabic-xxl}
+
+**li — ki — fi — si — hi**
+:::
+
+### Avec Damma (ou)
+
+::: {.display-box style="background: #E3F2FD;"}
+[لُ    كُ    فُ    سُ    هُ]{.arabic .arabic-xxl}
+
+**lou — kou — fou — sou — hou**
+:::
+
+---
+
+## 📖 Les formes des nouvelles lettres
 
 | Lettre | Isolée | Début | Milieu | Fin |
 |:------:|:------:|:-----:|:------:|:---:|
-| lām | [ل]{.arabic .arabic-lg} | [لـ]{.arabic .arabic-lg} | [ـلـ]{.arabic .arabic-lg} | [ـل]{.arabic .arabic-lg} |
-| kāf | [ك]{.arabic .arabic-lg} | [كـ]{.arabic .arabic-lg} | [ـكـ]{.arabic .arabic-lg} | [ـك]{.arabic .arabic-lg} |
-| fā' | [ف]{.arabic .arabic-lg} | [فـ]{.arabic .arabic-lg} | [ـفـ]{.arabic .arabic-lg} | [ـف]{.arabic .arabic-lg} |
-| sīn | [س]{.arabic .arabic-lg} | [سـ]{.arabic .arabic-lg} | [ـسـ]{.arabic .arabic-lg} | [ـس]{.arabic .arabic-lg} |
-| hā' | [ه]{.arabic .arabic-lg} | [هـ]{.arabic .arabic-lg} | [ـهـ]{.arabic .arabic-lg} | [ـه]{.arabic .arabic-lg} |
-
-### Exemple : comment se forme le mot كَتَبَ
-
-::: {.display-box .yellow}
-**Lettres isolées :**
-
-[ك   +   ت   +   ب]{.arabic .arabic-xl}
-:::
-
-::: {.display-box .green}
-**Lettres attachées (avec position) :**
-
-[كـ   +   ـتـ   +   ـب]{.arabic .arabic-xl}
-
-(début) + (milieu) + (fin)
-:::
-
-::: {.display-box style="background: #C8E6C9; border-color: #4CAF50;"}
-**Résultat final :**
-
-[كَتَبَ]{.arabic .arabic-xxl}
-
-**« ka-ta-ba »** = il a écrit
-:::
+| lām | [ل]{.arabic .arabic-xl} | [لـ]{.arabic .arabic-xl} | [ـلـ]{.arabic .arabic-xl} | [ـل]{.arabic .arabic-xl} |
+| kāf | [ك]{.arabic .arabic-xl} | [كـ]{.arabic .arabic-xl} | [ـكـ]{.arabic .arabic-xl} | [ـك]{.arabic .arabic-xl} |
+| fā' | [ف]{.arabic .arabic-xl} | [فـ]{.arabic .arabic-xl} | [ـفـ]{.arabic .arabic-xl} | [ـف]{.arabic .arabic-xl} |
+| sīn | [س]{.arabic .arabic-xl} | [سـ]{.arabic .arabic-xl} | [ـسـ]{.arabic .arabic-xl} | [ـس]{.arabic .arabic-xl} |
+| hā' | [ه]{.arabic .arabic-xl} | [هـ]{.arabic .arabic-xl} | [ـهـ]{.arabic .arabic-xl} | [ـه]{.arabic .arabic-xl} |
 
 ---
 
-## 📊 Récapitulatif — Vos 9 lettres
+## 📚 Vos premiers MOTS !
 
-::: {.display-box}
-**Notebook 1 :** [ب ت م ن]{.arabic .arabic-lg}
+Maintenant que vous connaissez 9 lettres et 4 signes, vous pouvez lire de vrais mots :
 
-**Notebook 2 :** [ل ك ف س ه]{.arabic .arabic-lg style="color: #2E7D32;"}
+### Mots de 2 syllabes
 
-**Total : 9 lettres**
+| Mot | Lettres | Prononciation |
+|:---:|:-------:|:-------------:|
+| [بَنَ]{.arabic .arabic-xxl} | ب + ن | **ba-na** |
+| [كَتَبَ]{.arabic .arabic-xxl} | ك + ت + ب | **ka-ta-ba** (il a écrit) |
+| [سَمِنَ]{.arabic .arabic-xxl} | س + م + ن | **sa-mi-na** |
+
+### Mots avec Sukūn
+
+Le Sukūn ferme une syllabe (la consonne ne se prononce pas avec une voyelle) :
+
+| Mot | Prononciation | Explication |
+|:---:|:-------------:|:------------|
+| [مِنْ]{.arabic .arabic-xxl} | **min** | Le ن porte un Sukūn → pas de voyelle |
+| [لَكْ]{.arabic .arabic-xxl} | **lak** | Le ك porte un Sukūn → pas de voyelle |
+| [كَمْ]{.arabic .arabic-xxl} | **kam** | Le م porte un Sukūn → pas de voyelle |
+
+::: {.callout-tip}
+## 💡 Comment lire avec le Sukūn
+1. Lisez la lettre avec sa voyelle
+2. La lettre avec Sukūn se "colle" à la précédente
+3. مِنْ = مِ + نْ = mi + n = **min**
 :::
 
 ---
 
 ## 👁️ Lecture guidée
 
-### Étape 1 — Les nouvelles syllabes
-
-Lisez chaque syllabe **À VOIX HAUTE** :
-
-| Syllabe | Prononciation |
-|:-------:|:-------------:|
-| [لَ]{.arabic .arabic-xxl} | **la** |
-| [كَ]{.arabic .arabic-xxl} | **ka** |
-| [فَ]{.arabic .arabic-xxl} | **fa** |
-| [سَ]{.arabic .arabic-xxl} | **sa** |
-| [هَ]{.arabic .arabic-xxl} | **ha** |
-
-::: {.callout-tip}
-Répétez **3 fois** chaque syllabe avant de passer à la suivante.
-:::
-
----
-
-### Étape 2 — Mélange des 9 syllabes
-
-Lisez toutes les syllabes (anciennes + nouvelles) :
+### Étape 1 — Nouvelles syllabes avec Fatha
 
 ::: {.display-box}
-[بَ   تَ   مَ   نَ   لَ   كَ   فَ   سَ   هَ]{.arabic .arabic-xl}
+[لَ    كَ    فَ    سَ    هَ]{.arabic .arabic-xxl}
 :::
 
----
+### Étape 2 — Nouvelles syllabes avec Kasra
 
-### Étape 3 — Mots de 2 syllabes (nouvelles lettres)
+::: {.display-box .green}
+[لِ    كِ    فِ    سِ    هِ]{.arabic .arabic-xxl}
+:::
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [كَلَ]{.arabic .arabic-xl} | [لَكَ]{.arabic .arabic-xl} | [فَسَ]{.arabic .arabic-xl} | [سَفَ]{.arabic .arabic-xl} |
-| **ka-la** | **la-ka** | **fa-sa** | **sa-fa** |
+### Étape 3 — Nouvelles syllabes avec Damma
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [هَلَ]{.arabic .arabic-xl} | [لَهَ]{.arabic .arabic-xl} | [كَفَ]{.arabic .arabic-xl} | [فَكَ]{.arabic .arabic-xl} |
-| **ha-la** | **la-ha** | **ka-fa** | **fa-ka** |
+::: {.display-box style="background: #E3F2FD;"}
+[لُ    كُ    فُ    سُ    هُ]{.arabic .arabic-xxl}
+:::
 
----
+### Étape 4 — Toutes les lettres mélangées
 
-### Étape 4 — Mots mixtes (anciennes + nouvelles)
+::: {.display-box .purple}
+[بَ تِ مُ نَ لِ كُ فَ سِ هُ]{.arabic .arabic-xl}
+:::
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [كَتَبَ]{.arabic .arabic-xl} | [فَهَمَ]{.arabic .arabic-xl} | [سَمَكَ]{.arabic .arabic-xl} | [مَلَكَ]{.arabic .arabic-xl} |
-| **ka-ta-ba** | **fa-ha-ma** | **sa-ma-ka** | **ma-la-ka** |
+### Étape 5 — Mots simples
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [سَلَمَ]{.arabic .arabic-xl} | [نَسَبَ]{.arabic .arabic-xl} | [كَسَبَ]{.arabic .arabic-xl} | [لَبَسَ]{.arabic .arabic-xl} |
-| **sa-la-ma** | **na-sa-ba** | **ka-sa-ba** | **la-ba-sa** |
+::: {.display-box .orange}
+[مِنْ    لَكْ    كَمْ    بِنْتْ]{.arabic .arabic-xl}
 
----
-
-### Étape 5 — Mots plus longs (4 syllabes)
-
-| | |
-|:--:|:--:|
-| [كَتَبَهَ]{.arabic .arabic-xl} | [فَهَمَهَ]{.arabic .arabic-xl} |
-| **ka-ta-ba-ha** | **fa-ha-ma-ha** |
-
-| | |
-|:--:|:--:|
-| [سَلَمَكَ]{.arabic .arabic-xl} | [مَلَكَهَ]{.arabic .arabic-xl} |
-| **sa-la-ma-ka** | **ma-la-ka-ha** |
+**min — lak — kam — bint**
+:::
 
 ---
 
@@ -197,30 +223,34 @@ Lisez toutes les syllabes (anciennes + nouvelles) :
 
 ::: {.section-quiz}
 
-### Quiz 1 — Reconnaissance des nouvelles lettres
+### Quiz 1 — Reconnaître les nouvelles lettres
 
 Quel est le **nom** de chaque lettre ?
 
 | 1. | 2. | 3. | 4. | 5. |
 |:--:|:--:|:--:|:--:|:--:|
-| [ف]{.arabic .arabic-xxl} | [ل]{.arabic .arabic-xxl} | [ه]{.arabic .arabic-xxl} | [س]{.arabic .arabic-xxl} | [ك]{.arabic .arabic-xxl} |
-| ___________ | ___________ | ___________ | ___________ | ___________ |
+| [س]{.arabic .arabic-xxl} | [ل]{.arabic .arabic-xxl} | [ه]{.arabic .arabic-xxl} | [ف]{.arabic .arabic-xxl} | [ك]{.arabic .arabic-xxl} |
 
 ::: {.callout-note collapse="true"}
 ## Voir les réponses
-1. fā' — 2. lām — 3. hā' — 4. sīn — 5. kāf
+1. sīn — 2. lām — 3. hā' — 4. fā' — 5. kāf
 :::
 
 :::
 
 ::: {.section-quiz}
 
-### Quiz 2 — Toutes les syllabes (9 lettres)
+### Quiz 2 — Identifier la voyelle
 
-Lisez chaque syllabe **à voix haute** :
+Quelle voyelle porte chaque syllabe ?
 
-::: {.display-box .purple}
-[لَ   بَ   سَ   تَ   هَ   مَ   كَ   نَ   فَ]{.arabic .arabic-xl}
+| 1. | 2. | 3. | 4. |
+|:--:|:--:|:--:|:--:|
+| [كُ]{.arabic .arabic-xxl} | [سَ]{.arabic .arabic-xxl} | [لِ]{.arabic .arabic-xxl} | [فْ]{.arabic .arabic-xxl} |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+1. Damma (ou) — 2. Fatha (a) — 3. Kasra (i) — 4. Sukūn (muet)
 :::
 
 :::
@@ -229,54 +259,15 @@ Lisez chaque syllabe **à voix haute** :
 
 ### Quiz 3 — Lecture de mots
 
-Lisez ces mots **SANS épeler** lettre par lettre :
+Lisez ces mots :
 
-| | | |
+| 1. | 2. | 3. |
 |:--:|:--:|:--:|
-| [كَتَبَ]{.arabic .arabic-xl} | [فَهَمَ]{.arabic .arabic-xl} | [سَلَمَ]{.arabic .arabic-xl} |
-| [مَلَكَ]{.arabic .arabic-xl} | [نَسَبَ]{.arabic .arabic-xl} | [لَبَسَ]{.arabic .arabic-xl} |
-
-:::
-
-::: {.section-quiz}
-
-### Quiz 4 — Identifier les formes
-
-Dans le mot [فَهَمَ]{.arabic .arabic-lg}, quelle est la position de chaque lettre ?
-
-| Lettre | Position |
-|:------:|:---------|
-| [فـ]{.arabic .arabic-lg} | ___________ |
-| [ـهـ]{.arabic .arabic-lg} | ___________ |
-| [ـم]{.arabic .arabic-lg} | ___________ |
+| [كَتَبَ]{.arabic .arabic-xxl} | [مِنْ]{.arabic .arabic-xxl} | [لَكُمْ]{.arabic .arabic-xxl} |
 
 ::: {.callout-note collapse="true"}
 ## Voir les réponses
-- فـ → **Début** (attachée après)
-- ـهـ → **Milieu** (attachée des deux côtés)
-- ـم → **Fin** (attachée avant)
-:::
-
-:::
-
-::: {.section-quiz}
-
-### Quiz 5 — Trouver la lettre manquante
-
-Complétez chaque mot :
-
-| Mot incomplet | Lettre manquante | Mot complet |
-|:-------------:|:----------------:|:-----------:|
-| [كَ_َبَ]{.arabic .arabic-lg} | ت | [كَتَبَ]{.arabic .arabic-lg} |
-| [فَهَ_َ]{.arabic .arabic-lg} | ? | = fa-ha-ma |
-| [سَ_َكَ]{.arabic .arabic-lg} | ? | = sa-ma-ka |
-| [مَ_َكَ]{.arabic .arabic-lg} | ? | = ma-la-ka |
-
-::: {.callout-note collapse="true"}
-## Voir les réponses
-- فَهَمَ → م (mīm)
-- سَمَكَ → م (mīm)
-- مَلَكَ → ل (lām)
+1. **ka-ta-ba** — 2. **min** — 3. **la-koum**
 :::
 
 :::
@@ -289,183 +280,89 @@ Complétez chaque mot :
 
 ### Exercice 1 — Répétition des nouvelles syllabes
 
-Lisez chaque ligne **3 FOIS** à voix haute :
+Lisez chaque ligne **3 fois** :
 
 ::: {.display-box}
-[لَ    لَ    لَ    لَ    لَ]{.arabic .arabic-xl}
+[لَ    لِ    لُ    لْ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box style="background: white;"}
-[كَ    كَ    كَ    كَ    كَ]{.arabic .arabic-xl}
+[كَ    كِ    كُ    كْ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box}
-[فَ    فَ    فَ    فَ    فَ]{.arabic .arabic-xl}
+[فَ    فِ    فُ    فْ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box style="background: white;"}
-[سَ    سَ    سَ    سَ    سَ]{.arabic .arabic-xl}
+[سَ    سِ    سُ    سْ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box}
-[هَ    هَ    هَ    هَ    هَ]{.arabic .arabic-xl}
+[هَ    هِ    هُ    هْ]{.arabic .arabic-xl}
 :::
 
 :::
 
 ::: {.section-exercise}
 
-### Exercice 2 — Mélange des 9 syllabes
+### Exercice 2 — Toutes les 9 lettres avec Fatha
 
-Lisez dans l'ordre, **SANS hésiter** :
-
-::: {.display-box .orange}
-[بَ   لَ   تَ   كَ   مَ   فَ   نَ   سَ   هَ]{.arabic .arabic-lg}
-:::
-
-::: {.display-box style="background: white;"}
-[سَ   نَ   فَ   مَ   كَ   تَ   لَ   بَ   هَ]{.arabic .arabic-lg}
-:::
-
-::: {.display-box .orange}
-[هَ   كَ   بَ   سَ   تَ   لَ   نَ   فَ   مَ]{.arabic .arabic-lg}
+::: {.display-box}
+[بَ تَ مَ نَ لَ كَ فَ سَ هَ]{.arabic .arabic-xl}
 :::
 
 :::
 
 ::: {.section-exercise}
 
-### Exercice 3 — Combinaisons à 2 lettres (nouvelles)
-
-Lisez chaque combinaison :
-
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [لَكَ]{.arabic .arabic-lg} | [كَلَ]{.arabic .arabic-lg} | [فَسَ]{.arabic .arabic-lg} | [سَفَ]{.arabic .arabic-lg} |
-| [لَهَ]{.arabic .arabic-lg} | [هَلَ]{.arabic .arabic-lg} | [كَفَ]{.arabic .arabic-lg} | [فَكَ]{.arabic .arabic-lg} |
-| [سَهَ]{.arabic .arabic-lg} | [هَسَ]{.arabic .arabic-lg} | [كَسَ]{.arabic .arabic-lg} | [سَكَ]{.arabic .arabic-lg} |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 4 — Combinaisons mixtes (anciennes + nouvelles)
-
-Lisez chaque combinaison :
-
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [لَبَ]{.arabic .arabic-lg} | [بَلَ]{.arabic .arabic-lg} | [كَتَ]{.arabic .arabic-lg} | [تَكَ]{.arabic .arabic-lg} |
-| [فَمَ]{.arabic .arabic-lg} | [مَفَ]{.arabic .arabic-lg} | [سَنَ]{.arabic .arabic-lg} | [نَسَ]{.arabic .arabic-lg} |
-| [هَبَ]{.arabic .arabic-lg} | [بَهَ]{.arabic .arabic-lg} | [لَمَ]{.arabic .arabic-lg} | [مَلَ]{.arabic .arabic-lg} |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 5 — Mots de 3 lettres
-
-Lisez chaque mot **LENTEMENT**, puis **PLUS VITE** :
-
-| | | |
-|:--:|:--:|:--:|
-| [كَتَبَ]{.arabic .arabic-lg} | [فَهَمَ]{.arabic .arabic-lg} | [سَمَكَ]{.arabic .arabic-lg} |
-| **ka-ta-ba** | **fa-ha-ma** | **sa-ma-ka** |
-
-| | | |
-|:--:|:--:|:--:|
-| [مَلَكَ]{.arabic .arabic-lg} | [سَلَمَ]{.arabic .arabic-lg} | [نَسَبَ]{.arabic .arabic-lg} |
-| **ma-la-ka** | **sa-la-ma** | **na-sa-ba** |
-
-| | | |
-|:--:|:--:|:--:|
-| [كَسَبَ]{.arabic .arabic-lg} | [لَبَسَ]{.arabic .arabic-lg} | [هَلَكَ]{.arabic .arabic-lg} |
-| **ka-sa-ba** | **la-ba-sa** | **ha-la-ka** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 6 — Mots de 4 lettres
-
-| | | |
-|:--:|:--:|:--:|
-| [كَتَبَهَ]{.arabic .arabic-lg} | [فَهَمَهَ]{.arabic .arabic-lg} | [سَلَمَكَ]{.arabic .arabic-lg} |
-| **ka-ta-ba-ha** | **fa-ha-ma-ha** | **sa-la-ma-ka** |
-
-| | | |
-|:--:|:--:|:--:|
-| [مَلَكَهَ]{.arabic .arabic-lg} | [سَمَكَتَ]{.arabic .arabic-lg} | [نَسَبَهَ]{.arabic .arabic-lg} |
-| **ma-la-ka-ha** | **sa-ma-ka-ta** | **na-sa-ba-ha** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 7 — Lecture continue
-
-Lisez toute la ligne **D'UN SEUL SOUFFLE** :
+### Exercice 3 — Toutes les 9 lettres avec Kasra
 
 ::: {.display-box .green}
-[كَتَبَ   فَهَمَ   سَلَمَ   مَلَكَ]{.arabic .arabic-lg}
-:::
-
-::: {.display-box style="background: #C8E6C9; border-color: #4CAF50;"}
-[نَسَبَ   كَسَبَ   لَبَسَ   هَلَكَ]{.arabic .arabic-lg}
+[بِ تِ مِ نِ لِ كِ فِ سِ هِ]{.arabic .arabic-xl}
 :::
 
 :::
 
 ::: {.section-exercise}
 
-### Exercice 8 — Dictée inversée
+### Exercice 4 — Toutes les 9 lettres avec Damma
 
-Lisez à voix haute, puis vérifiez votre prononciation :
-
-| Vous lisez | C'est correct si vous dites |
-|:----------:|:----------------------------|
-| [كَتَبَ]{.arabic .arabic-lg} | **ka-ta-ba** |
-| [فَهَمَ]{.arabic .arabic-lg} | **fa-ha-ma** |
-| [سَمَكَ]{.arabic .arabic-lg} | **sa-ma-ka** |
-| [مَلَكَ]{.arabic .arabic-lg} | **ma-la-ka** |
-| [كَتَبَهَ]{.arabic .arabic-lg} | **ka-ta-ba-ha** |
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 9 — Lecture rapide ⏱️
-
-**Chronométrez-vous !** Lisez cette grille le plus vite possible :
-
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [لَ]{.arabic .arabic-lg} | [كَ]{.arabic .arabic-lg} | [فَ]{.arabic .arabic-lg} | [سَ]{.arabic .arabic-lg} |
-| [بَ]{.arabic .arabic-lg} | [تَ]{.arabic .arabic-lg} | [مَ]{.arabic .arabic-lg} | [نَ]{.arabic .arabic-lg} |
-| [هَ]{.arabic .arabic-lg} | [لَ]{.arabic .arabic-lg} | [بَ]{.arabic .arabic-lg} | [كَ]{.arabic .arabic-lg} |
-| [فَ]{.arabic .arabic-lg} | [مَ]{.arabic .arabic-lg} | [سَ]{.arabic .arabic-lg} | [تَ]{.arabic .arabic-lg} |
-
-::: {.callout-tip}
-🎯 **Objectif** : moins de 15 secondes !
+::: {.display-box style="background: #E3F2FD;"}
+[بُ تُ مُ نُ لُ كُ فُ سُ هُ]{.arabic .arabic-xl}
 :::
 
 :::
 
 ::: {.section-exercise}
 
-### Exercice 10 — Lecture finale
+### Exercice 5 — Mots avec Sukūn
 
-Lisez ce texte complet **sans vous arrêter** :
+| Mot | Prononciation |
+|:---:|:-------------:|
+| [مِنْ]{.arabic .arabic-xl} | **min** |
+| [لَكْ]{.arabic .arabic-xl} | **lak** |
+| [كَمْ]{.arabic .arabic-xl} | **kam** |
+| [لَهُمْ]{.arabic .arabic-xl} | **la-houm** |
+| [بِنْتْ]{.arabic .arabic-xl} | **bint** |
 
-::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); border: 3px solid #4CAF50;"}
-[لَ   كَ   فَ   سَ   هَ]{.arabic .arabic-lg}
-
-[لَكَ   كَفَ   فَسَ   سَهَ   هَلَ]{.arabic .arabic-lg}
-
-[كَتَبَ   فَهَمَ   سَلَمَ   مَلَكَ]{.arabic .arabic-lg}
-
-[كَتَبَهَ   فَهَمَهَ   سَلَمَكَ   مَلَكَهَ]{.arabic .arabic-lg}
 :::
+
+::: {.section-exercise}
+
+### Exercice 6 — Lecture rapide ⏱️
+
+**Chronométrez-vous !**
+
+::: {.display-box .purple}
+[بَ تِ مُ نَ لِ كُ فَ سِ هُ]{.arabic .arabic-xl}
+
+[مِنْ لَكْ كَمْ هُمْ بِنْتْ]{.arabic .arabic-xl}
+
+[كَتَبَ سَمِنَ فَهِمَ]{.arabic .arabic-xl}
+:::
+
+🎯 **Objectif** : moins de 25 secondes !
 
 :::
 
@@ -475,25 +372,19 @@ Lisez ce texte complet **sans vous arrêter** :
 
 Avant de passer au Notebook 3, vérifiez que vous maîtrisez :
 
-- [ ] Je reconnais les 5 nouvelles lettres : [ل ك ف س ه]{.arabic .arabic-md}
-- [ ] Je connais les 4 formes de chaque nouvelle lettre
-- [ ] Je lis les syllabes des 9 lettres sans hésiter
-- [ ] Je lis les mots de 3 lettres de façon fluide
-- [ ] Je lis les mots de 4 lettres sans blocage
-
-::: {.callout-note}
-## 💡 Conseil
-Si vous hésitez encore, **refaites les exercices demain** avant de continuer.
-:::
+- [ ] Je reconnais les 9 lettres : [ب ت م ن ل ك ف س ه]{.arabic .arabic-md}
+- [ ] Je sais que **Damma** (boucle en haut) = **"ou"**
+- [ ] Je sais que **Sukūn** (rond en haut) = **silence**
+- [ ] Je lis des mots simples comme [مِنْ]{.arabic} (min) et [كَتَبَ]{.arabic} (kataba)
 
 ---
 
 ::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none;"}
-🎉 **Bravo !**
+🎉 **Excellent !**
 
-Vous connaissez maintenant **9 lettres** sur 28 !
+Vous connaissez maintenant **9 lettres** et les **4 signes de base** !
 
-Rendez-vous au Notebook 3 pour les voyelles complètes !
+Rendez-vous au Jour 3 pour 6 nouvelles lettres et la Shadda.
 :::
 
 ---

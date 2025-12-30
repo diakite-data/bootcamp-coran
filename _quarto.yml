@@ -20,22 +20,19 @@ website:
         href: index.qmd
       - text: "Notebooks"
         menu:
-          - text: "0 - Introduction"
-            href: notebooks/notebook-0.qmd
-          - text: "---"
           - text: "Jour 1 - Premiers sons"
             href: notebooks/notebook-1.qmd
-          - text: "Jour 2 - Mots complets"
+          - text: "Jour 2 - Lecture fluide"
             href: notebooks/notebook-2.qmd
-          - text: "Jour 3 - Voyelles complètes"
+          - text: "Jour 3 - Lecture renforcée"
             href: notebooks/notebook-3.qmd
-          - text: "Jour 4 - Non-attachantes & Article ال"
+          - text: "Jour 4 - Exceptions graphiques"
             href: notebooks/notebook-4.qmd
-          - text: "Jour 5 - Dernières lettres & Shadda"
+          - text: "Jour 5 - Alphabet complet"
             href: notebooks/notebook-5.qmd
-          - text: "Jour 6 - Tanwīn, Hamza & Signes spéciaux"
+          - text: "Jour 6 - Signes coraniques"
             href: notebooks/notebook-6.qmd
-          - text: "Jour 7 - Sourate Al-Fatiha"
+          - text: "Jour 7 - Al-Fatiha"
             href: notebooks/notebook-7.qmd
     right:
       - icon: github
@@ -45,23 +42,35 @@ website:
   # Sidebar pour la navigation dans les notebooks
   sidebar:
     - id: notebooks
-      title: "📓 Notebooks"
+      title: "📓 Parcours 7 jours"
       style: "floating"
       background: "#f8f9fa"
       collapse-level: 1
       contents:
-        - section: "Introduction"
+        - text: "Accueil"
+          href: index.qmd
+        - section: "Lettres & Voyelles"
           contents:
-            - notebooks/notebook-0.qmd
-        - section: "Parcours 7 jours"
+            - text: "Jour 1 - Premiers sons"
+              href: notebooks/notebook-1.qmd
+            - text: "Jour 2 - Lecture fluide"
+              href: notebooks/notebook-2.qmd
+            - text: "Jour 3 - Lecture renforcée"
+              href: notebooks/notebook-3.qmd
+        - section: "Alphabet complet"
           contents:
-            - notebooks/notebook-1.qmd
-            - notebooks/notebook-2.qmd
-            - notebooks/notebook-3.qmd
-            - notebooks/notebook-4.qmd
-            - notebooks/notebook-5.qmd
-            - notebooks/notebook-6.qmd
-            - notebooks/notebook-7.qmd
+            - text: "Jour 4 - Exceptions graphiques"
+              href: notebooks/notebook-4.qmd
+            - text: "Jour 5 - Alphabet complet"
+              href: notebooks/notebook-5.qmd
+        - section: "Signes avancés"
+          contents:
+            - text: "Jour 6 - Signes coraniques"
+              href: notebooks/notebook-6.qmd
+        - section: "Application"
+          contents:
+            - text: "Jour 7 - Al-Fatiha"
+              href: notebooks/notebook-7.qmd
 
   # Pied de page
   page-footer:
