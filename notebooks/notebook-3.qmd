@@ -24,7 +24,7 @@ format:
 :::
 :::
 :::
-[📄 PDF](javascript:window.print()){.pdf-download}
+<button onclick="window.print()" class="pdf-download">📄 PDF</button>
 :::
 
 ---
