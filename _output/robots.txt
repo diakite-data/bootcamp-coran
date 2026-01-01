@@ -1,1 +1,1 @@
-Sitemap: https://keen-mochi-5aeaf8.netlify.app/sitemap.xml
+Sitemap: https://diakite-data.github.io/bootcamp-coran/sitemap.xml
