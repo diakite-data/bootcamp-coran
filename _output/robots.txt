@@ -1,1 +1,1 @@
-Sitemap: https://beerus.quarto.pub/lire-le-coran-en-7-jours/sitemap.xml
+Sitemap: https://keen-mochi-5aeaf8.netlify.app/sitemap.xml
