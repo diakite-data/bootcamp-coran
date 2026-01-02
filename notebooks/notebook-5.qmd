@@ -74,6 +74,95 @@ format:
 - [ظ]{.arabic .arabic-lg} = comme [ط]{.arabic .arabic-lg} avec **1 point**
 :::
 
+
+---
+
+## 🗣️ Comment prononcer les lettres EMPHATIQUES
+
+Les 4 lettres emphatiques [ص ض ط ظ]{.arabic .arabic-lg} sont souvent difficiles pour les francophones. Voici comment les maîtriser :
+
+::: {.callout-important}
+## 🎯 La technique des emphatiques
+
+**3 étapes pour produire le son emphatique :**
+
+1. **Reculez** la racine de votre langue vers l'arrière de la gorge
+2. **Creusez** le milieu de la langue (forme de cuillère)
+3. **Arrondissez** légèrement les lèvres
+
+Le son devient plus **grave**, plus **sombre**, plus **profond**.
+:::
+
+### Comparaison : Normale vs Emphatique
+
+::: {.display-box}
+| Normale | Emphatique | Différence sonore |
+|:-------:|:----------:|:------------------|
+| [سَ]{.arabic .arabic-xxl} **sa** | [صَ]{.arabic .arabic-xxl} **ṣa** | Le ص est plus grave, "sombre" |
+| [تَ]{.arabic .arabic-xxl} **ta** | [طَ]{.arabic .arabic-xxl} **ṭa** | Le ط est plus profond, "lourd" |
+| [دَ]{.arabic .arabic-xxl} **da** | [ضَ]{.arabic .arabic-xxl} **ḍa** | Le ض résonne dans la gorge |
+| [ذَ]{.arabic .arabic-xxl} **dha** | [ظَ]{.arabic .arabic-xxl} **ẓa** | Le ظ est plus épais |
+:::
+
+::: {.callout-tip}
+## 💡 Astuces pratiques
+
+**Astuce 1 — La patate chaude 🥔**
+Imaginez que vous avez une patate chaude dans la bouche. Votre langue recule naturellement → c'est la position des emphatiques !
+
+**Astuce 2 — La voix grave 🎵**
+Prononcez "sa" normalement, puis essayez de le dire avec la voix la plus grave possible, comme un géant. Vous approchez du "ṣa" !
+
+**Astuce 3 — L'écho dans la gorge 🔊**
+Les emphatiques doivent "résonner" dans votre gorge. Si le son reste uniquement dans la bouche, ce n'est pas assez emphatique.
+:::
+
+### Exercice de prononciation
+
+Répétez chaque paire **5 fois** en exagérant la différence :
+
+::: {.display-box style="background: #FFF3E0;"}
+**Paire س / ص :**
+
+[سَ    سَ    سَ]{.arabic .arabic-xl} → [صَ    صَ    صَ]{.arabic .arabic-xl}
+
+**sa — sa — sa** → **ṣa — ṣa — ṣa** (grave)
+:::
+
+::: {.display-box}
+**Paire ت / ط :**
+
+[تَ    تَ    تَ]{.arabic .arabic-xl} → [طَ    طَ    طَ]{.arabic .arabic-xl}
+
+**ta — ta — ta** → **ṭa — ṭa — ṭa** (lourd)
+:::
+
+::: {.display-box style="background: #FFF3E0;"}
+**Paire د / ض :**
+
+[دَ    دَ    دَ]{.arabic .arabic-xl} → [ضَ    ضَ    ضَ]{.arabic .arabic-xl}
+
+**da — da — da** → **ḍa — ḍa — ḍa** (profond)
+:::
+
+::: {.display-box}
+**Paire ذ / ظ :**
+
+[ذَ    ذَ    ذَ]{.arabic .arabic-xl} → [ظَ    ظَ    ظَ]{.arabic .arabic-xl}
+
+**dha — dha — dha** → **ẓa — ẓa — ẓa** (épais)
+:::
+
+::: {.callout-note}
+## 📌 Le ض — La lettre unique de l'arabe
+
+Le [ض]{.arabic .arabic-lg} (ḍād) est considéré comme **la lettre la plus difficile** et la plus unique de l'arabe. 
+
+C'est pourquoi l'arabe est parfois appelé **"la langue du Ḍād"** (لغة الضاد).
+
+Aucune autre langue n'a exactement ce son !
+:::
+
 ---
 
 ## 🎉 L'ALPHABET COMPLET — 28 lettres !
