@@ -132,6 +132,32 @@ La Shadda est **toujours accompagnée** d'une voyelle (Fatha, Kasra ou Damma) :
 | [نُّ]{.arabic .arabic-xxl} | **nnou** |
 :::
 
+::: {.callout-tip}
+## 💡 Position de la voyelle avec la Shadda
+
+**Fatha et Damma** se placent **AU-DESSUS** de la Shadda :
+
+| Voyelle | Exemple | Position |
+|:-------:|:-------:|:---------|
+| Fatha | [نَّ]{.arabic .arabic-xxl} | Fatha **au-dessus** de la Shadda |
+| Damma | [نُّ]{.arabic .arabic-xxl} | Damma **au-dessus** de la Shadda |
+
+**⚠️ EXCEPTION : La Kasra** se place **EN-DESSOUS** de la Shadda :
+
+| Voyelle | Exemple | Position |
+|:-------:|:-------:|:---------|
+| Kasra | [نِّ]{.arabic .arabic-xxl} | Kasra **en-dessous** de la Shadda |
+
+**Exemples dans le Coran (Al-Fatiha) :**
+
+| Mot | Prononciation | Observation |
+|:---:|:-------------:|:------------|
+| [رَبِّ]{.arabic .arabic-xxl} | **rab-bi** | Kasra sous la Shadda |
+| [إِيَّاكَ]{.arabic .arabic-xxl} | **iy-yā-ka** | Kasra sous la Shadda |
+| [الضَّالِّينَ]{.arabic .arabic-xxl} | **aḍ-ḍāl-līn** | Kasra sous la Shadda du ل |
+:::
+
+
 ---
 
 ## 📖 Les formes des nouvelles lettres
