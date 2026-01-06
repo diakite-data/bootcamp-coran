@@ -1,15 +1,15 @@
 ---
 title: "Lire le Coran en 7 jours"
-subtitle: "Bootcamp de lecture arabe pour débutants"
+subtitle: "Bootcamp de lecture arabe pour débutants complets"
 format:
   html:
     css: styles.css
 ---
 
 ::: {.notebook-header}
-📖 BOOTCAMP CORAN
+📖 BOOTCAMP LECTURE ARABE
 
-# Lire le Coran vocalisé en 7 jours
+# Lire le Coran en 7 jours
 
 [⏱️ ~3h30 au total]{.badge .duration} · [7 jours]{.badge .day}
 :::
@@ -20,12 +20,14 @@ format:
 
 À la fin des 7 jours, vous saurez **lire le Coran vocalisé** (avec les signes de vocalisation).
 
+Cette compétence vous permettra aussi de lire **tout texte arabe vocalisé** : livres pour enfants, poésie classique, manuels d'apprentissage, etc.
+
 ::: {.callout-warning}
 ## ⚠️ Lire ≠ Comprendre
 
 L'objectif est la **lecture correcte**, lente mais sans erreur.
 
-La compréhension du sens (tafsīr) est une étape ultérieure, distincte de ce bootcamp.
+La compréhension du sens (tafsīr, vocabulaire) est une étape ultérieure, distincte de ce bootcamp.
 :::
 
 ---
@@ -36,8 +38,9 @@ Ce bootcamp est conçu pour :
 
 - ✅ Les **débutants complets** (aucune connaissance de l'arabe)
 - ✅ Les **francophones**
-- ✅ Les **salariés** avec peu de temps (~30 min/jour)
-- ✅ Ceux qui veulent lire **la Fatiha** rapidement
+- ✅ Ceux qui ont **peu de temps** (~30 min/jour)
+- ✅ Ceux qui veulent **lire le Coran** par eux-mêmes
+- ✅ Toute personne désireuse d'**apprendre à lire l'arabe**
 
 ---
 
@@ -114,12 +117,6 @@ En arabe, les voyelles sont des **petits signes** au-dessus ou en-dessous des le
 | [◌ُ]{.arabic .arabic-xl} | Damma | ou | Jour 2 |
 | [◌ْ]{.arabic .arabic-xl} | Sukūn | — | Jour 2 |
 | [◌ّ]{.arabic .arabic-xl} | Shadda | × 2 | Jour 3 |
-
-::: {.callout-tip}
-## 💡 Mnémotechnique
-- Trait **en haut** → "a" (Fatha)
-- Trait **en bas** → "i" (Kasra)
-:::
 
 ---
 
