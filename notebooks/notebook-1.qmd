@@ -172,6 +172,69 @@ En arabe, une lettre change de forme selon sa position dans le mot :
 Le **corps de la lettre** reste reconnaissable. Seule la **liaison** change.
 :::
 
+
+---
+
+## ✏️ Premiers MOTS — Lettres attachées
+
+Maintenant, voyons comment les lettres s'attachent pour former des mots :
+
+### Mots de 2 lettres
+
+::: {.display-box}
+| Mot | Lettres | Prononciation |
+|:---:|:-------:|:-------------:|
+| [بَنَ]{.arabic .arabic-xxl} | بـ + ـن | **ba-na** |
+| [تَبَ]{.arabic .arabic-xxl} | تـ + ـب | **ta-ba** |
+| [مَنَ]{.arabic .arabic-xxl} | مـ + ـن | **ma-na** |
+| [نَمَ]{.arabic .arabic-xxl} | نـ + ـم | **na-ma** |
+:::
+
+::: {.callout-tip}
+## 💡 Observez !
+- La **première lettre** prend sa forme "début" (بـ ، تـ ، مـ ، نـ)
+- La **dernière lettre** prend sa forme "fin" (ـب ، ـت ، ـم ، ـن)
+:::
+
+### Mots de 3 lettres
+
+::: {.display-box .green}
+| Mot | Lettres | Prononciation |
+|:---:|:-------:|:-------------:|
+| [بَنَتَ]{.arabic .arabic-xxl} | بـ + ـنـ + ـت | **ba-na-ta** |
+| [تَمَنَ]{.arabic .arabic-xxl} | تـ + ـمـ + ـن | **ta-ma-na** |
+| [نَبَتَ]{.arabic .arabic-xxl} | نـ + ـبـ + ـت | **na-ba-ta** |
+:::
+
+::: {.callout-note}
+## 💡 La lettre du milieu
+La lettre au **milieu** prend sa forme "milieu" avec liaison des deux côtés : ـبـ ، ـتـ ، ـمـ ، ـنـ
+:::
+
+### Exercice — Lecture de mots attachés
+
+Lisez ces mots à voix haute :
+
+::: {.display-box style="background: #FFF3E0;"}
+[بَنَ    مَنَ    تَبَ    نَمَ]{.arabic .arabic-xl}
+
+**ba-na — ma-na — ta-ba — na-ma**
+:::
+
+::: {.display-box}
+[بَنَتَ    تَمَنَ    نَبَتَ    مَتَنَ]{.arabic .arabic-xl}
+
+**ba-na-ta — ta-ma-na — na-ba-ta — ma-ta-na**
+:::
+
+::: {.display-box .green}
+[بِنْتِ    مِنْ    تِبْنَ]{.arabic .arabic-xl}
+
+**bin-ti — min — tib-na**
+
+*(Aperçu du Jour 2 : le petit rond ْ = Sukūn = pas de voyelle)*
+:::
+
 ---
 
 ## 👁️ Lecture guidée
