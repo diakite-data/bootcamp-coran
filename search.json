@@ -172,7 +172,7 @@
     "href": "notebooks/notebook-1.html#compétence-visée",
     "title": "Notebook 1",
     "section": "🎯 Compétence visée",
-    "text": "🎯 Compétence visée\nÀ la fin de ce notebook, vous saurez :\n\n✅ Reconnaître 4 lettres arabes\n✅ Lire la voyelle Fatha (son “a”)\n✅ Lire la voyelle Kasra (son “i”)\n✅ Lire vos premières syllabes arabes",
+    "text": "🎯 Compétence visée\nÀ la fin de ce notebook, vous saurez :\n\n✅ Reconnaître 4 lettres arabes\n✅ Lire la voyelle Fatha (son “a”)\n✅ Lire la voyelle Kasra (son “i”)\n✅ Lire vos premières syllabes et premiers mots arabes",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
@@ -196,7 +196,7 @@
     "href": "notebooks/notebook-1.html#les-2-premières-voyelles-fatha-et-kasra",
     "title": "Notebook 1",
     "section": "✏️ Les 2 premières voyelles : Fatha et Kasra",
-    "text": "✏️ Les 2 premières voyelles : Fatha et Kasra\nEn arabe, les lettres seules n’ont pas de son voyelle. On ajoute des petits signes :\n\nFatha — Le son “a”\n\n◌َ\nUn petit trait AU-DESSUS de la lettre = son “a”\n\n\n\nKasra — Le son “i”\n\n◌ِ\nUn petit trait EN-DESSOUS de la lettre = son “i”\n\n\n\n\n\n\n\nImportant🧠 Règle mnémotechnique SIMPLE\n\n\n\n\n\n\nPosition\nSon\n\n\n\n\nTrait en HAUT ↑\na\n\n\nTrait en BAS ↓\ni\n\n\n\nC’est tout ! Haut = a, Bas = i.",
+    "text": "✏️ Les 2 premières voyelles : Fatha et Kasra\nEn arabe, les lettres seules n’ont pas de son voyelle. On ajoute des petits signes :\n\nFatha — Le son “a”\n\n◌َ\nUn petit trait AU-DESSUS de la lettre = son “a”\n\n\n\nKasra — Le son “i”\n\n◌ِ\nUn petit trait EN-DESSOUS de la lettre = son “i”",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
@@ -204,11 +204,11 @@
     ]
   },
   {
-    "objectID": "notebooks/notebook-1.html#vos-premières-syllabes-avec-fatha-a",
-    "href": "notebooks/notebook-1.html#vos-premières-syllabes-avec-fatha-a",
+    "objectID": "notebooks/notebook-1.html#les-4-lettres-avec-fatha",
+    "href": "notebooks/notebook-1.html#les-4-lettres-avec-fatha",
     "title": "Notebook 1",
-    "section": "🔊 Vos premières syllabes avec Fatha (a)",
-    "text": "🔊 Vos premières syllabes avec Fatha (a)\nLettre + Fatha = syllabe en “a” :\n\n\n\n\n\n\n\n\n\nLettre\n+ Fatha\n=\nPrononciation\n\n\n\n\nب\n◌َ\nبَ\nba\n\n\nت\n◌َ\nتَ\nta\n\n\nم\n◌َ\nمَ\nma\n\n\nن\n◌َ\nنَ\nna\n\n\n\n\nLisez à voix haute :\nبَ تَ مَ نَ\nba — ta — ma — na",
+    "section": "🔊 Les 4 lettres avec Fatha",
+    "text": "🔊 Les 4 lettres avec Fatha\n\nبَ تَ مَ نَ\nba — ta — ma — na\n\n\n\n\n\n\n\nNote📌 Observez\n\n\n\nLa Fatha ◌َ est le petit trait au-dessus de chaque lettre.",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
@@ -216,11 +216,11 @@
     ]
   },
   {
-    "objectID": "notebooks/notebook-1.html#vos-premières-syllabes-avec-kasra-i",
-    "href": "notebooks/notebook-1.html#vos-premières-syllabes-avec-kasra-i",
+    "objectID": "notebooks/notebook-1.html#les-4-lettres-avec-kasra",
+    "href": "notebooks/notebook-1.html#les-4-lettres-avec-kasra",
     "title": "Notebook 1",
-    "section": "🔊 Vos premières syllabes avec Kasra (i)",
-    "text": "🔊 Vos premières syllabes avec Kasra (i)\nLettre + Kasra = syllabe en “i” :\n\n\n\n\n\n\n\n\n\nLettre\n+ Kasra\n=\nPrononciation\n\n\n\n\nب\n◌ِ\nبِ\nbi\n\n\nت\n◌ِ\nتِ\nti\n\n\nم\n◌ِ\nمِ\nmi\n\n\nن\n◌ِ\nنِ\nni\n\n\n\n\nLisez à voix haute :\nبِ تِ مِ نِ\nbi — ti — mi — ni",
+    "section": "🔊 Les 4 lettres avec Kasra",
+    "text": "🔊 Les 4 lettres avec Kasra\n\nبِ تِ مِ نِ\nbi — ti — mi — ni\n\n\n\n\n\n\n\nNote📌 Observez\n\n\n\nLa Kasra ◌ِ est le petit trait en-dessous de chaque lettre.",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
@@ -228,11 +228,11 @@
     ]
   },
   {
-    "objectID": "notebooks/notebook-1.html#mélangez-fatha-et-kasra",
-    "href": "notebooks/notebook-1.html#mélangez-fatha-et-kasra",
+    "objectID": "notebooks/notebook-1.html#récapitulatif-des-8-syllabes",
+    "href": "notebooks/notebook-1.html#récapitulatif-des-8-syllabes",
     "title": "Notebook 1",
-    "section": "🔀 Mélangez Fatha et Kasra",
-    "text": "🔀 Mélangez Fatha et Kasra\nMaintenant, alternez entre les deux voyelles :\n\nبَ بِ تَ تِ مَ مِ نَ نِ\nba — bi — ta — ti — ma — mi — na — ni\n\n\nنَ مِ تَ بِ مَ نِ بَ تِ\nna — mi — ta — bi — ma — ni — ba — ti",
+    "section": "📊 Récapitulatif des 8 syllabes",
+    "text": "📊 Récapitulatif des 8 syllabes\n\n\n\n\n\n\n\n\n\n\nFatha (a)\nKasra (i)\n\n\n\n\nب\nبَ ba\nبِ bi\n\n\nت\nتَ ta\nتِ ti\n\n\nم\nمَ ma\nمِ mi\n\n\nن\nنَ na\nنِ ni",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
@@ -256,7 +256,7 @@
     "href": "notebooks/notebook-1.html#premiers-mots-lettres-attachées",
     "title": "Notebook 1",
     "section": "✏️ Premiers MOTS — Lettres attachées",
-    "text": "✏️ Premiers MOTS — Lettres attachées\nMaintenant, voyons comment les lettres s’attachent pour former des mots :\n\nMots de 2 lettres\n\n\n\n\nMot\nLettres\nPrononciation\n\n\n\n\nبَنَ\nبـ + ـن\nba-na\n\n\nتَبَ\nتـ + ـب\nta-ba\n\n\nمَنَ\nمـ + ـن\nma-na\n\n\nنَمَ\nنـ + ـم\nna-ma\n\n\n\n\n\n\n\n\n\n\nAstuce💡 Observez !\n\n\n\n\nLa première lettre prend sa forme “début” (بـ ، تـ ، مـ ، نـ)\nLa dernière lettre prend sa forme “fin” (ـب ، ـت ، ـم ، ـن)\n\n\n\n\n\nMots de 3 lettres\n\n\n\n\nMot\nLettres\nPrononciation\n\n\n\n\nبَنَتَ\nبـ + ـنـ + ـت\nba-na-ta\n\n\nتَمَنَ\nتـ + ـمـ + ـن\nta-ma-na\n\n\nنَبَتَ\nنـ + ـبـ + ـت\nna-ba-ta\n\n\n\n\n\n\n\n\n\n\nNote💡 La lettre du milieu\n\n\n\nLa lettre au milieu prend sa forme “milieu” avec liaison des deux côtés : ـبـ ، ـتـ ، ـمـ ، ـنـ\n\n\n\n\nExercice — Lecture de mots attachés\nLisez ces mots à voix haute :\n\nبَنَ مَنَ تَبَ نَمَ\nba-na — ma-na — ta-ba — na-ma\n\n\nبَنَتَ تَمَنَ نَبَتَ مَتَنَ\nba-na-ta — ta-ma-na — na-ba-ta — ma-ta-na\n\n\nبِنْتِ مِنْ تِبْنَ\nbin-ti — min — tib-na\n(Aperçu du Jour 2 : le petit rond ْ = Sukūn = pas de voyelle)",
+    "text": "✏️ Premiers MOTS — Lettres attachées\nMaintenant, voyons comment les lettres s’attachent pour former des mots :\n\nMots de 2 lettres\n\n\n\n\nMot\nLettres\nPrononciation\n\n\n\n\nبَنَ\nبـ + ـن\nba-na\n\n\nتَبَ\nتـ + ـب\nta-ba\n\n\nمَنَ\nمـ + ـن\nma-na\n\n\nنَمَ\nنـ + ـم\nna-ma\n\n\n\n\n\n\n\n\n\n\nAstuce💡 Observez !\n\n\n\n\nLa première lettre prend sa forme “début” (بـ ، تـ ، مـ ، نـ)\nLa dernière lettre prend sa forme “fin” (ـب ، ـت ، ـم ، ـن)\n\n\n\n\n\nMots de 3 lettres\n\n\n\n\nMot\nLettres\nPrononciation\n\n\n\n\nبَنَتَ\nبـ + ـنـ + ـت\nba-na-ta\n\n\nتَمَنَ\nتـ + ـمـ + ـن\nta-ma-na\n\n\nنَبَتَ\nنـ + ـبـ + ـت\nna-ba-ta\n\n\n\n\n\n\n\n\n\n\nNote💡 La lettre du milieu\n\n\n\nLa lettre au milieu prend sa forme “milieu” avec liaison des deux côtés : ـبـ ، ـتـ ، ـمـ ، ـنـ",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
@@ -268,7 +268,7 @@
     "href": "notebooks/notebook-1.html#lecture-guidée",
     "title": "Notebook 1",
     "section": "👁️ Lecture guidée",
-    "text": "👁️ Lecture guidée\n\nÉtape 1 — Syllabes avec Fatha\nLisez chaque syllabe 3 fois :\n\nبَ تَ مَ نَ\n\n\n\nÉtape 2 — Syllabes avec Kasra\nLisez chaque syllabe 3 fois :\n\nبِ تِ مِ نِ\n\n\n\nÉtape 3 — Mélange aléatoire\nLisez sans hésitation :\n\nمَ نِ بَ تِ نَ مِ تَ بِ",
+    "text": "👁️ Lecture guidée\n\nÉtape 1 — Syllabes avec Fatha\nLisez chaque syllabe 3 fois :\n\nبَ تَ مَ نَ\n\n\n\nÉtape 2 — Syllabes avec Kasra\nLisez chaque syllabe 3 fois :\n\nبِ تِ مِ نِ\n\n\n\nÉtape 3 — Mélange aléatoire\nLisez sans hésitation :\n\nمَ نِ بَ تِ نَ مِ تَ بِ\n\n\n\nÉtape 4 — Mots attachés\nLisez ces mots :\n\nبَنَ مَنَ تَبَ نَمَ\nba-na — ma-na — ta-ba — na-ma\n\n\nبَنَتَ تَمَنَ نَبَتَ\nba-na-ta — ta-ma-na — na-ba-ta",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
@@ -280,7 +280,7 @@
     "href": "notebooks/notebook-1.html#quiz-testez-vous",
     "title": "Notebook 1",
     "section": "🧪 QUIZ — Testez-vous !",
-    "text": "🧪 QUIZ — Testez-vous !\n\nQuiz 1 — Reconnaître les lettres\nQuel est le nom de chaque lettre ?\n\n\n\n\n\n\n\n\n\n1.\n2.\n3.\n4.\n\n\n\n\nن\nب\nم\nت\n\n\n\n\n\n\n\n\n\nNoteVoir les réponses\n\n\n\n\n\n\nnūn — 2. bā’ — 3. mīm — 4. tā’\n\n\n\n\n\n\nQuiz 2 — Fatha ou Kasra ?\nQuelle voyelle porte chaque syllabe ?\n\n\n\n\n\n\n\n\n\n1.\n2.\n3.\n4.\n\n\n\n\nبَ\nتِ\nمِ\nنَ\n\n\n\n\n\n\n\n\n\nNoteVoir les réponses\n\n\n\n\n\n\nFatha (a) — 2. Kasra (i) — 3. Kasra (i) — 4. Fatha (a)\n\n\n\n\n\n\nQuiz 3 — Lecture\nLisez ces syllabes :\n\nتَ مِ نَ بِ\n\n\n\n\n\n\n\nNoteVoir les réponses\n\n\n\n\n\nta — mi — na — bi",
+    "text": "🧪 QUIZ — Testez-vous !\n\nQuiz 1 — Reconnaître les lettres\nQuel est le nom de chaque lettre ?\n\n\n\n\n\n\n\n\n\n1.\n2.\n3.\n4.\n\n\n\n\nن\nب\nم\nت\n\n\n\n\n\n\n\n\n\nNoteVoir les réponses\n\n\n\n\n\n\nnūn — 2. bā’ — 3. mīm — 4. tā’\n\n\n\n\n\n\nQuiz 2 — Fatha ou Kasra ?\nQuelle voyelle porte chaque syllabe ?\n\n\n\n\n\n\n\n\n\n1.\n2.\n3.\n4.\n\n\n\n\nبَ\nتِ\nمِ\nنَ\n\n\n\n\n\n\n\n\n\nNoteVoir les réponses\n\n\n\n\n\n\nFatha (a) — 2. Kasra (i) — 3. Kasra (i) — 4. Fatha (a)\n\n\n\n\n\n\nQuiz 3 — Lecture de syllabes\nLisez ces syllabes :\n\nتَ مِ نَ بِ\n\n\n\n\n\n\n\nNoteVoir les réponses\n\n\n\n\n\nta — mi — na — bi\n\n\n\n\n\nQuiz 4 — Lecture de MOTS\nLisez ces mots attachés :\n\nبَنَ نَمَ تَبَ\n\n\n\n\n\n\n\nNoteVoir les réponses\n\n\n\n\n\nba-na — na-ma — ta-ba\n\n\n\n\n\nQuiz 5 — Reconnaître les formes\nDans quel mot trouvez-vous la lettre ب en position milieu ?\n\n\n\n\n\n\n\n\n1.\n2.\n3.\n\n\n\n\nبَنَ\nنَبَتَ\nتَبَ\n\n\n\n\n\n\n\n\n\nNoteVoir les réponses\n\n\n\n\n\nRéponse : 2. نَبَتَ (na-ba-ta) — le ب est au milieu avec la forme ـبـ",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
@@ -292,7 +292,7 @@
     "href": "notebooks/notebook-1.html#exercices-entraînez-vous",
     "title": "Notebook 1",
     "section": "✍️ EXERCICES — Entraînez-vous !",
-    "text": "✍️ EXERCICES — Entraînez-vous !\n\nExercice 1 — Répétition Fatha\nLisez chaque ligne 3 fois à voix haute :\n\nبَ بَ بَ بَ\n\n\nتَ تَ تَ تَ\n\n\nمَ مَ مَ مَ\n\n\nنَ نَ نَ نَ\n\n\n\nExercice 2 — Répétition Kasra\nLisez chaque ligne 3 fois à voix haute :\n\nبِ بِ بِ بِ\n\n\nتِ تِ تِ تِ\n\n\nمِ مِ مِ مِ\n\n\nنِ نِ نِ نِ\n\n\n\nExercice 3 — Alternance\nAlternez Fatha et Kasra sur chaque lettre :\n\nبَ بِ بَ بِ\n\n\nتَ تِ تَ تِ\n\n\nمَ مِ مَ مِ\n\n\nنَ نِ نَ نِ\n\n\n\nExercice 4 — Lecture rapide ⏱️\nChronométrez-vous ! Lisez le plus vite possible sans erreur :\n\nبَ تِ مَ نِ تَ بِ نَ مِ\nمَ بِ نَ تِ بَ مِ تَ نِ\nنِ تَ بِ مَ تِ نَ مِ بَ\n\n🎯 Objectif : moins de 20 secondes !\n\n\nExercice 5 — Lecture finale\nLisez ce texte complet sans vous arrêter :\n\nبَ تَ مَ نَ\nبِ تِ مِ نِ\nبَ تِ مَ نِ بِ تَ مِ نَ\nنَ مِ تَ بِ نِ مَ تِ بَ",
+    "text": "✍️ EXERCICES — Entraînez-vous !\n\nExercice 1 — Répétition Fatha\nLisez chaque ligne 3 fois à voix haute :\n\nبَ بَ بَ بَ\n\n\nتَ تَ تَ تَ\n\n\nمَ مَ مَ مَ\n\n\nنَ نَ نَ نَ\n\n\n\nExercice 2 — Répétition Kasra\n\nبِ بِ بِ بِ\n\n\nتِ تِ تِ تِ\n\n\nمِ مِ مِ مِ\n\n\nنِ نِ نِ نِ\n\n\n\nExercice 3 — Alternance Fatha / Kasra\n\nبَ بِ بَ بِ\n\n\nتَ تِ تَ تِ\n\n\nمَ مِ مَ مِ\n\n\nنَ نِ نَ نِ\n\n\n\nExercice 4 — Lecture de MOTS\nLisez ces mots attachés :\n\nبَنَ مَنَ تَبَ نَمَ\nba-na — ma-na — ta-ba — na-ma\n\n\nبَنَتَ تَمَنَ نَبَتَ مَتَنَ\nba-na-ta — ta-ma-na — na-ba-ta — ma-ta-na\n\n\n\nExercice 5 — Lecture rapide ⏱️\nChronométrez-vous ! Lisez le plus vite possible sans erreur :\n\nبَ تِ مَ نِ تَ بِ نَ مِ\nبَنَ تَبَ مَنَ نَمَ\nبَنَتَ نَبَتَ تَمَنَ\n\n🎯 Objectif : moins de 25 secondes !\n\n\nExercice 6 — Lecture finale\nLisez ce texte complet sans vous arrêter :\n\nبَ تَ مَ نَ\nبِ تِ مِ نِ\nبَنَ تَبَ مَنَ نَمَ\nبَنَتَ نَبَتَ تَمَنَ",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
@@ -304,7 +304,7 @@
     "href": "notebooks/notebook-1.html#validation-du-notebook-1",
     "title": "Notebook 1",
     "section": "✅ Validation du Notebook 1",
-    "text": "✅ Validation du Notebook 1\nAvant de passer au Notebook 2, vérifiez que vous maîtrisez :\n\nJe reconnais les 4 lettres : ب ت م ن\nJe sais que Fatha (trait en haut) = “a”\nJe sais que Kasra (trait en bas) = “i”\nJe lis les 8 syllabes : بَ بِ تَ تِ مَ مِ نَ نِ\n\n\n\n🎉 Félicitations !\nVous savez maintenant lire 8 syllabes en arabe !\nRendez-vous au Jour 2 pour apprendre 5 nouvelles lettres et 2 nouvelles voyelles.\n\n\n\n← Accueil Notebook 2 →",
+    "text": "✅ Validation du Notebook 1\nAvant de passer au Notebook 2, vérifiez que vous maîtrisez :\n\nJe reconnais les 4 lettres : ب ت م ن\nJe sais que Fatha (trait en haut) = “a”\nJe sais que Kasra (trait en bas) = “i”\nJe lis les 8 syllabes : بَ بِ تَ تِ مَ مِ نَ نِ\nJe lis des mots attachés : بَنَ نَبَتَ\n\n\n\n🎉 Félicitations !\nVous savez maintenant lire 8 syllabes et vos premiers mots en arabe !\nRendez-vous au Jour 2 pour apprendre 5 nouvelles lettres et 2 nouvelles voyelles.\n\n\n\n← Accueil Notebook 2 →",
     "crumbs": [
       "Accueil",
       "Lettres & Voyelles",
