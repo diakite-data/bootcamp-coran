@@ -77,6 +77,34 @@ format:
 
 ---
 
+## 🔊 Les 6 nouvelles lettres avec les 3 voyelles
+
+### Avec Fatha (a)
+
+::: {.display-box}
+[جَ    شَ    يَ    قَ    عَ    غَ]{.arabic .arabic-xxl}
+
+**ja — sha — ya — qa — ʿa — gha**
+:::
+
+### Avec Kasra (i)
+
+::: {.display-box .green}
+[جِ    شِ    يِ    قِ    عِ    غِ]{.arabic .arabic-xxl}
+
+**ji — shi — yi — qi — ʿi — ghi**
+:::
+
+### Avec Damma (ou)
+
+::: {.display-box style="background: #E3F2FD;"}
+[جُ    شُ    يُ    قُ    عُ    غُ]{.arabic .arabic-xxl}
+
+**jou — shou — you — qou — ʿou — ghou**
+:::
+
+---
+
 ## ✏️ La voyelle longue ī (i long)
 
 Quand la lettre [ي]{.arabic} n'a **pas de voyelle** (pas de signe dessus), elle sert à **allonger** le son "i" :
@@ -153,12 +181,6 @@ La kasra **remonte** et se place **entre** la Shadda et la lettre.
 
 C'est la position la plus courante dans les Mushafs modernes.
 
-```
-    ّ   ← Shadda (en haut)
-    ِ   ← Kasra (ici, sous la shadda)
-    ن   ← Lettre
-```
-
 Exemple : [رَبِّ]{.arabic .arabic-xxl} (rabbi)
 :::
 
@@ -168,12 +190,6 @@ Exemple : [رَبِّ]{.arabic .arabic-xxl} (rabbi)
 La kasra reste à sa position habituelle, **sous la lettre**, avec la Shadda au-dessus.
 
 On trouve cette variante dans certaines éditions.
-
-```
-    ّ   ← Shadda (en haut)
-    ن   ← Lettre
-    ِ   ← Kasra (en bas, position normale)
-```
 :::
 
 ---
@@ -182,11 +198,6 @@ On trouve cette variante dans certaines éditions.
 ## ⚠️ Les deux sont correctes !
 
 Les deux positions sont valides et utilisées. La prononciation reste la même : **doublement de la consonne + son "i"**.
-
-| Position | Prononciation | Résultat |
-|:---------|:-------------:|:--------:|
-| Kasra sous la Shadda | nni | ✅ Correct |
-| Kasra sous la lettre | nni | ✅ Correct |
 :::
 
 **Exemples dans Al-Fatiha :**
@@ -198,7 +209,6 @@ Les deux positions sont valides et utilisées. La prononciation reste la même :
 | [الضَّالِّينَ]{.arabic .arabic-xxl} | **aḍ-ḍāl-līn** | Le ل porte shadda + kasra |
 
 :::
-
 
 ---
 
@@ -215,9 +225,82 @@ Les deux positions sont valides et utilisées. La prononciation reste la même :
 
 ---
 
+## ✏️ Premiers MOTS avec les nouvelles lettres
+
+Maintenant, pratiquons les nouvelles lettres dans des mots attachés :
+
+### Mots avec ج (jīm)
+
+::: {.display-box}
+| Mot | Lettres | Prononciation |
+|:---:|:-------:|:-------------:|
+| [جَمَلَ]{.arabic .arabic-xxl} | جـ + ـمـ + ـل | **ja-ma-la** |
+| [نَجَمَ]{.arabic .arabic-xxl} | نـ + ـجـ + ـم | **na-ja-ma** |
+| [فَجْ]{.arabic .arabic-xxl} | فـ + ـج | **faj** |
+:::
+
+### Mots avec ش (shīn)
+
+::: {.display-box .green}
+| Mot | Lettres | Prononciation |
+|:---:|:-------:|:-------------:|
+| [شَمْسَ]{.arabic .arabic-xxl} | شـ + ـمـ + ـس | **sham-sa** |
+| [مَشَى]{.arabic .arabic-xxl} | مـ + ـشـ + ـى | **ma-shā** |
+| [بَشَّ]{.arabic .arabic-xxl} | بـ + ـشّ | **bash-sha** |
+:::
+
+### Mots avec ي (yā')
+
+::: {.display-box style="background: #E3F2FD;"}
+| Mot | Lettres | Prononciation |
+|:---:|:-------:|:-------------:|
+| [يَمِينَ]{.arabic .arabic-xxl} | يـ + ـمـ + ـيـ + ـن | **ya-mī-na** |
+| [بَيْنَ]{.arabic .arabic-xxl} | بـ + ـيـ + ـن | **bay-na** |
+| [فِيهِ]{.arabic .arabic-xxl} | فـ + ـيـ + ـه | **fī-hi** |
+:::
+
+### Mots avec ق (qāf)
+
+::: {.display-box .orange}
+| Mot | Lettres | Prononciation |
+|:---:|:-------:|:-------------:|
+| [قَلْبَ]{.arabic .arabic-xxl} | قـ + ـلـ + ـب | **qal-ba** |
+| [فَقَ]{.arabic .arabic-xxl} | فـ + ـق | **fa-qa** |
+| [نَفَقَ]{.arabic .arabic-xxl} | نـ + ـفـ + ـق | **na-fa-qa** |
+:::
+
+### Mots avec ع (ʿayn)
+
+::: {.display-box .purple}
+| Mot | Lettres | Prononciation |
+|:---:|:-------:|:-------------:|
+| [عَمِلَ]{.arabic .arabic-xxl} | عـ + ـمـ + ـل | **ʿa-mi-la** |
+| [سَمِعَ]{.arabic .arabic-xxl} | سـ + ـمـ + ـع | **sa-mi-ʿa** |
+| [جَمَعَ]{.arabic .arabic-xxl} | جـ + ـمـ + ـع | **ja-ma-ʿa** |
+:::
+
+### Mots avec غ (ghayn)
+
+::: {.display-box}
+| Mot | Lettres | Prononciation |
+|:---:|:-------:|:-------------:|
+| [غَفَلَ]{.arabic .arabic-xxl} | غـ + ـفـ + ـل | **gha-fa-la** |
+| [بَلَغَ]{.arabic .arabic-xxl} | بـ + ـلـ + ـغ | **ba-la-gha** |
+| [فَغَمَ]{.arabic .arabic-xxl} | فـ + ـغـ + ـم | **fa-gha-ma** |
+:::
+
+::: {.callout-tip}
+## 💡 Observez les positions !
+- [ج]{.arabic} au **début** : [جَمَلَ]{.arabic} (جـ)
+- [ج]{.arabic} au **milieu** : [نَجَمَ]{.arabic} (ـجـ)
+- [ع]{.arabic} à la **fin** : [سَمِعَ]{.arabic} (ـع)
+:::
+
+---
+
 ## 👁️ Lecture guidée
 
-### Étape 1 — Nouvelles syllabes avec Fatha
+### Étape 1 — Syllabes isolées avec Fatha
 
 ::: {.display-box}
 [جَ    شَ    يَ    قَ    عَ    غَ]{.arabic .arabic-xxl}
@@ -225,7 +308,7 @@ Les deux positions sont valides et utilisées. La prononciation reste la même :
 **ja — sha — ya — qa — ʿa — gha**
 :::
 
-### Étape 2 — Nouvelles syllabes avec Kasra
+### Étape 2 — Syllabes isolées avec Kasra
 
 ::: {.display-box .green}
 [جِ    شِ    يِ    قِ    عِ    غِ]{.arabic .arabic-xxl}
@@ -233,7 +316,7 @@ Les deux positions sont valides et utilisées. La prononciation reste la même :
 **ji — shi — yi — qi — ʿi — ghi**
 :::
 
-### Étape 3 — Nouvelles syllabes avec Damma
+### Étape 3 — Syllabes isolées avec Damma
 
 ::: {.display-box style="background: #E3F2FD;"}
 [جُ    شُ    يُ    قُ    عُ    غُ]{.arabic .arabic-xxl}
@@ -244,9 +327,9 @@ Les deux positions sont valides et utilisées. La prononciation reste la même :
 ### Étape 4 — Mots avec ī long
 
 ::: {.display-box .green}
-[فِي]{.arabic .arabic-xl}   [بِي]{.arabic .arabic-xl}   [لِي]{.arabic .arabic-xl}   [كِي]{.arabic .arabic-xl}
+[فِي]{.arabic .arabic-xl}   [بِي]{.arabic .arabic-xl}   [لِي]{.arabic .arabic-xl}   [كِي]{.arabic .arabic-xl}   [فِيهِ]{.arabic .arabic-xl}
 
-**fī — bī — lī — kī**
+**fī — bī — lī — kī — fīhi**
 :::
 
 ### Étape 5 — Mots avec Shadda
@@ -255,6 +338,20 @@ Les deux positions sont valides et utilisées. La prononciation reste la même :
 [إِنَّ]{.arabic .arabic-xl}   [أَنَّ]{.arabic .arabic-xl}   [كُلَّ]{.arabic .arabic-xl}   [ثُمَّ]{.arabic .arabic-xl}
 
 **in-na — an-na — koul-la — thoum-ma**
+:::
+
+### Étape 6 — Mots attachés avec les nouvelles lettres
+
+::: {.display-box .orange}
+[جَمَلَ]{.arabic .arabic-xl}   [شَمْسَ]{.arabic .arabic-xl}   [قَلْبَ]{.arabic .arabic-xl}   [عَمِلَ]{.arabic .arabic-xl}
+
+**ja-ma-la — sham-sa — qal-ba — ʿa-mi-la**
+:::
+
+::: {.display-box .purple}
+[سَمِعَ]{.arabic .arabic-xl}   [بَلَغَ]{.arabic .arabic-xl}   [نَجَمَ]{.arabic .arabic-xl}   [بَيْنَ]{.arabic .arabic-xl}
+
+**sa-mi-ʿa — ba-la-gha — na-ja-ma — bay-na**
 :::
 
 ---
@@ -280,7 +377,24 @@ Quel est le **nom** de chaque lettre ?
 
 ::: {.section-quiz}
 
-### Quiz 2 — i court ou i long ?
+### Quiz 2 — Lire les syllabes
+
+Lisez ces syllabes :
+
+| 1. | 2. | 3. | 4. | 5. | 6. |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [جَ]{.arabic .arabic-xxl} | [شِ]{.arabic .arabic-xxl} | [قُ]{.arabic .arabic-xxl} | [عَ]{.arabic .arabic-xxl} | [غِ]{.arabic .arabic-xxl} | [يُ]{.arabic .arabic-xxl} |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+1. **ja** — 2. **shi** — 3. **qou** — 4. **ʿa** — 5. **ghi** — 6. **you**
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 3 — i court ou i long ?
 
 | 1. | 2. | 3. | 4. |
 |:--:|:--:|:--:|:--:|
@@ -295,7 +409,7 @@ Quel est le **nom** de chaque lettre ?
 
 ::: {.section-quiz}
 
-### Quiz 3 — Lire avec la Shadda
+### Quiz 4 — Lire avec la Shadda
 
 | 1. | 2. | 3. |
 |:--:|:--:|:--:|
@@ -308,13 +422,47 @@ Quel est le **nom** de chaque lettre ?
 
 :::
 
+::: {.section-quiz}
+
+### Quiz 5 — Lire les MOTS attachés
+
+Lisez ces mots :
+
+::: {.display-box .orange}
+[جَمَلَ]{.arabic .arabic-xxl}   [عَمِلَ]{.arabic .arabic-xxl}   [سَمِعَ]{.arabic .arabic-xxl}
+:::
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+**ja-ma-la — ʿa-mi-la — sa-mi-ʿa**
+:::
+
+:::
+
+::: {.section-quiz}
+
+### Quiz 6 — Reconnaître la position des lettres
+
+Dans quel mot la lettre [ج]{.arabic} est-elle en position **milieu** ?
+
+| 1. | 2. | 3. |
+|:--:|:--:|:--:|
+| [جَمَلَ]{.arabic .arabic-xxl} | [نَجَمَ]{.arabic .arabic-xxl} | [فَجْ]{.arabic .arabic-xxl} |
+
+::: {.callout-note collapse="true"}
+## Voir les réponses
+**Réponse : 2.** [نَجَمَ]{.arabic} (na-ja-ma) — le ج est au milieu avec la forme ـجـ
+:::
+
+:::
+
 ---
 
 ## ✍️ EXERCICES — Entraînez-vous !
 
 ::: {.section-exercise}
 
-### Exercice 1 — Nouvelles syllabes
+### Exercice 1 — Nouvelles syllabes (toutes voyelles)
 
 Lisez chaque ligne **3 fois** :
 
@@ -370,7 +518,31 @@ Lisez chaque ligne **3 fois** :
 
 ::: {.section-exercise}
 
-### Exercice 4 — Toutes les 15 lettres avec Fatha
+### Exercice 4 — MOTS avec les nouvelles lettres
+
+::: {.display-box .orange}
+[جَمَلَ    نَجَمَ    شَمْسَ    مَشَى]{.arabic .arabic-xl}
+
+**ja-ma-la — na-ja-ma — sham-sa — ma-shā**
+:::
+
+::: {.display-box}
+[قَلْبَ    نَفَقَ    عَمِلَ    سَمِعَ]{.arabic .arabic-xl}
+
+**qal-ba — na-fa-qa — ʿa-mi-la — sa-mi-ʿa**
+:::
+
+::: {.display-box .green}
+[غَفَلَ    بَلَغَ    بَيْنَ    فِيهِ]{.arabic .arabic-xl}
+
+**gha-fa-la — ba-la-gha — bay-na — fī-hi**
+:::
+
+:::
+
+::: {.section-exercise}
+
+### Exercice 5 — Toutes les 15 lettres avec Fatha
 
 ::: {.display-box}
 [بَ تَ مَ نَ لَ كَ فَ سَ هَ جَ شَ يَ قَ عَ غَ]{.arabic .arabic-lg}
@@ -380,17 +552,19 @@ Lisez chaque ligne **3 fois** :
 
 ::: {.section-exercise}
 
-### Exercice 5 — Lecture rapide ⏱️
+### Exercice 6 — Lecture rapide ⏱️
 
 ::: {.display-box .purple}
 [جَ شِ يُ قَ عِ غُ]{.arabic .arabic-xl}
 
-[فِي لِي بِي كِي]{.arabic .arabic-xl}
+[فِي لِي بِي كِي فِيهِ]{.arabic .arabic-xl}
 
 [إِنَّ كُلَّ عَمَّ]{.arabic .arabic-xl}
+
+[جَمَلَ شَمْسَ قَلْبَ عَمِلَ سَمِعَ]{.arabic .arabic-xl}
 :::
 
-🎯 **Objectif** : moins de 20 secondes !
+🎯 **Objectif** : moins de 30 secondes !
 
 :::
 
@@ -401,8 +575,10 @@ Lisez chaque ligne **3 fois** :
 Avant de passer au Notebook 4, vérifiez que vous maîtrisez :
 
 - [ ] Je reconnais les 15 lettres : [ب ت م ن ل ك ف س ه ج ش ي ق ع غ]{.arabic .arabic-sm}
+- [ ] Je lis les syllabes : [جَ شِ قُ عَ غِ يُ]{.arabic}
 - [ ] Je lis la voyelle longue **ī** : [فِي]{.arabic} = fī
-- [ ] Je reconnais la **Shadda** et je double la consonne : [إِنَّ]{.arabic} = in-na
+- [ ] Je reconnais la **Shadda** : [إِنَّ]{.arabic} = in-na
+- [ ] Je lis des mots attachés : [جَمَلَ]{.arabic} [سَمِعَ]{.arabic}
 
 ---
 
