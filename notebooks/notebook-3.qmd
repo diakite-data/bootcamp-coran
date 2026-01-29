@@ -446,27 +446,27 @@ Dans quel mot la lettre [ج]{.arabic} est-elle en position **milieu** ?
 Lisez chaque ligne **3 fois** :
 
 ::: {.display-box}
-[جَ    جِ    جُ    جْ]{.arabic .arabic-xl}
+[جَ    جِ    جُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box style="background: white;"}
-[شَ    شِ    شُ    شْ]{.arabic .arabic-xl}
+[شَ    شِ    شُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box}
-[يَ    يِ    يُ    يْ]{.arabic .arabic-xl}
+[يَ    يِ    يُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box style="background: white;"}
-[قَ    قِ    قُ    قْ]{.arabic .arabic-xl}
+[قَ    قِ    قُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box}
-[عَ    عِ    عُ    عْ]{.arabic .arabic-xl}
+[عَ    عِ    عُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box style="background: white;"}
-[غَ    غِ    غُ    غْ]{.arabic .arabic-xl}
+[غَ    غِ    غُ]{.arabic .arabic-xl}
 :::
 
 :::

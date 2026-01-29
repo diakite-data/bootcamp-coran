@@ -283,23 +283,23 @@ Lisez ces mots :
 Lisez chaque ligne **3 fois** :
 
 ::: {.display-box}
-[لَ    لِ    لُ    لْ]{.arabic .arabic-xl}
+[لَ    لِ    لُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box style="background: white;"}
-[كَ    كِ    كُ    كْ]{.arabic .arabic-xl}
+[كَ    كِ    كُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box}
-[فَ    فِ    فُ    فْ]{.arabic .arabic-xl}
+[فَ    فِ    فُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box style="background: white;"}
-[سَ    سِ    سُ    سْ]{.arabic .arabic-xl}
+[سَ    سِ    سُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box}
-[هَ    هِ    هُ    هْ]{.arabic .arabic-xl}
+[هَ    هِ    هُ]{.arabic .arabic-xl}
 :::
 
 :::

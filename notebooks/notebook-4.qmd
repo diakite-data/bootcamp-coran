@@ -306,19 +306,19 @@ Repérez la ligature [لا]{.arabic} dans ces mots :
 ### Exercice 1 — Nouvelles syllabes
 
 ::: {.display-box}
-[دَ    دِ    دُ    دْ]{.arabic .arabic-xl}
+[دَ    دِ    دُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box style="background: white;"}
-[ذَ    ذِ    ذُ    ذْ]{.arabic .arabic-xl}
+[ذَ    ذِ    ذُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box}
-[رَ    رِ    رُ    رْ]{.arabic .arabic-xl}
+[رَ    رِ    رُ]{.arabic .arabic-xl}
 :::
 
 ::: {.display-box style="background: white;"}
-[زَ    زِ    زُ    زْ]{.arabic .arabic-xl}
+[زَ    زِ    زُ]{.arabic .arabic-xl}
 :::
 
 :::
