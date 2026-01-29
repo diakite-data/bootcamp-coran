@@ -64,7 +64,7 @@ Fatha (◌َ) = a | Kasra (◌ِ) = i
 | [ك]{.arabic .arabic-xxl} | **kāf** | k | comme "kayak" |
 | [ف]{.arabic .arabic-xxl} | **fā'** | f | comme "famille" |
 | [س]{.arabic .arabic-xxl} | **sīn** | s | comme "soleil" |
-| [ه]{.arabic .arabic-xxl} | **hā'** | h | h aspiré (comme "hello") |
+| [ه]{.arabic .arabic-xxl} | **hā'** | h | h soufflé fort (comme faire de la buée sur une vitre) |
 
 ::: {.callout-tip}
 ## 💡 Astuces visuelles
