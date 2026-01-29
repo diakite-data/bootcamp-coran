@@ -246,11 +246,11 @@ Quelle voyelle porte chaque syllabe ?
 
 | 1. | 2. | 3. | 4. |
 |:--:|:--:|:--:|:--:|
-| [كُ]{.arabic .arabic-xxl} | [سَ]{.arabic .arabic-xxl} | [لِ]{.arabic .arabic-xxl} | [فْ]{.arabic .arabic-xxl} |
+| [كُ]{.arabic .arabic-xxl} | [سَ]{.arabic .arabic-xxl} | [لِ]{.arabic .arabic-xxl} | [مِنْ]{.arabic .arabic-xxl} |
 
 ::: {.callout-note collapse="true"}
 ## Voir les réponses
-1. Damma (ou) — 2. Fatha (a) — 3. Kasra (i) — 4. Sukūn (muet)
+1. Damma (ou) — 2. Fatha (a) — 3. Kasra (i) — 4. Le ن porte un Sukūn
 :::
 
 :::
