@@ -58,7 +58,7 @@ format:
 
 | Lettre | Nom | Son | Équivalent |
 |:------:|:----|:---:|:-----------|
-| [ج]{.arabic .arabic-xxl} | **jīm** | j | comme "jardin" |
+| [ج]{.arabic .arabic-xxl} | **jīm** | j | comme "Djibouti" ou "adjectif" |
 | [ش]{.arabic .arabic-xxl} | **shīn** | sh | comme "chat" |
 | [ي]{.arabic .arabic-xxl} | **yā'** | y / ī | comme "yaourt" ou "i" long |
 | [ق]{.arabic .arabic-xxl} | **qāf** | q | k profond (du fond de la gorge) |
@@ -200,13 +200,13 @@ On trouve cette variante dans certaines éditions.
 Les deux positions sont valides et utilisées. La prononciation reste la même : **doublement de la consonne + son "i"**.
 :::
 
-**Exemples dans Al-Fatiha :**
+**Exemples avec Shadda + Kasra :**
 
 | Mot | Prononciation | Note |
 |:---:|:-------------:|:-----|
 | [رَبِّ]{.arabic .arabic-xxl} | **rab-bi** | Le ب porte shadda + kasra |
-| [إِيَّاكَ]{.arabic .arabic-xxl} | **iy-yā-ka** | Le ي porte shadda + kasra |
-| [الضَّالِّينَ]{.arabic .arabic-xxl} | **aḍ-ḍāl-līn** | Le ل porte shadda + kasra |
+| [إِنِّي]{.arabic .arabic-xxl} | **in-nī** | Le ن porte shadda + kasra |
+| [أُمِّي]{.arabic .arabic-xxl} | **um-mī** | Le م porte shadda + kasra |
 
 :::
 
