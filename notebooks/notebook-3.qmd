@@ -146,8 +146,8 @@ Elle signifie : **doublez cette consonne !**
 | Sans Shadda | Avec Shadda | Prononciation |
 |:-----------:|:-----------:|:-------------:|
 | [كَتَبَ]{.arabic .arabic-xl} kataba | [كَتَّبَ]{.arabic .arabic-xl} | ka-**tt**-aba |
-| [سَمَعَ]{.arabic .arabic-xl} samaʿa | [سَمَّعَ]{.arabic .arabic-xl} | sa-**mm**-aʿa |
-| [جَمَعَ]{.arabic .arabic-xl} jamaʿa | [جَمَّعَ]{.arabic .arabic-xl} | ja-**mm**-aʿa |
+| [سَلَمَ]{.arabic .arabic-xl} salama | [سَلَّمَ]{.arabic .arabic-xl} | sal-**l**-ama |
+| [فَتَنَ]{.arabic .arabic-xl} fatana | [فَتَّنَ]{.arabic .arabic-xl} | fat-**t**-ana |
 
 ::: {.callout-important}
 ## ⚠️ La Shadda porte aussi une voyelle !
@@ -157,8 +157,8 @@ La Shadda est **toujours accompagnée** d'une voyelle (Fatha, Kasra ou Damma) :
 | Exemple | Prononciation |
 |:-------:|:-------------:|
 | [سَمَّ]{.arabic .arabic-xxl} | **samma** (shadda + fatha) |
-| [أُمِّي]{.arabic .arabic-xxl} | **ummī** (shadda + kasra) |
-| [يَضُرُّ]{.arabic .arabic-xxl} | **yaḍurru** (shadda + damma) |
+| [كُلِّ]{.arabic .arabic-xxl} | **kulli** (shadda + kasra) |
+| [كُلُّ]{.arabic .arabic-xxl} | **kullu** (shadda + damma) |
 :::
 
 ::: {.callout-tip}
@@ -215,7 +215,7 @@ Maintenant, pratiquons les nouvelles lettres dans des mots attachés :
 |:---:|:-------:|:-------------:|
 | [جَمَلَ]{.arabic .arabic-xxl} | جـ + ـمـ + ـل | **ja-ma-la** |
 | [نَجَمَ]{.arabic .arabic-xxl} | نـ + ـجـ + ـم | **na-ja-ma** |
-| [فَجْ]{.arabic .arabic-xxl} | فـ + ـج | **faj** |
+| [نَهَجَ]{.arabic .arabic-xxl} | نـ + ـهـ + ـج | **na-ha-ja** |
 :::
 
 ### Mots avec ش (shīn)
@@ -224,7 +224,7 @@ Maintenant, pratiquons les nouvelles lettres dans des mots attachés :
 | Mot | Lettres | Prononciation |
 |:---:|:-------:|:-------------:|
 | [شَمْسَ]{.arabic .arabic-xxl} | شـ + ـمـ + ـس | **sham-sa** |
-| [مَشَى]{.arabic .arabic-xxl} | مـ + ـشـ + ـى | **ma-shā** |
+| [نَشَبَ]{.arabic .arabic-xxl} | نـ + ـشـ + ـب | **na-sha-ba** |
 | [بَشَّ]{.arabic .arabic-xxl} | بـ + ـشّ | **bash-sha** |
 :::
 
@@ -426,7 +426,7 @@ Dans quel mot la lettre [ج]{.arabic} est-elle en position **milieu** ?
 
 | 1. | 2. | 3. |
 |:--:|:--:|:--:|
-| [جَمَلَ]{.arabic .arabic-xxl} | [نَجَمَ]{.arabic .arabic-xxl} | [فَجْ]{.arabic .arabic-xxl} |
+| [جَمَلَ]{.arabic .arabic-xxl} | [نَجَمَ]{.arabic .arabic-xxl} | [نَهَجَ]{.arabic .arabic-xxl} |
 
 ::: {.callout-note collapse="true"}
 ## Voir les réponses
@@ -500,9 +500,9 @@ Lisez chaque ligne **3 fois** :
 ### Exercice 4 — MOTS avec les nouvelles lettres
 
 ::: {.display-box .orange}
-[جَمَلَ    نَجَمَ    شَمْسَ    مَشَى]{.arabic .arabic-xl}
+[جَمَلَ    نَجَمَ    شَمْسَ    نَشَبَ]{.arabic .arabic-xl}
 
-**ja-ma-la — na-ja-ma — sham-sa — ma-shā**
+**ja-ma-la — na-ja-ma — sham-sa — na-sha-ba**
 :::
 
 ::: {.display-box}
