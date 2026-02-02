@@ -202,28 +202,47 @@ La Shadda est **toujours accompagnée** d'une voyelle (Fatha, Kasra ou Damma) :
 
 **Kasra avec Shadda** — **2 positions possibles** selon les éditions :
 
-| Position | Description |
-|:---------|:------------|
-| **Cas 1** | Kasra **sous la Shadda** (au-dessus de la ligne de base) — position courante dans les Mushafs modernes |
-| **Cas 2** | Kasra **sous la lettre** (position normale) — dans certaines éditions |
+::: {.display-box style="background: #E8F5E9;"}
+**Cas 1 : Kasra SOUS la Shadda** (Mushafs modernes)
+
+```
+    َ   ← Fatha (au-dessus)
+    ّ   ← Shadda
+    ب   ← Lettre
+
+    ّ   ← Shadda
+    ِ   ← Kasra (remonte ici)
+    ب   ← Lettre
+```
+:::
+
+::: {.display-box style="background: #E3F2FD;"}
+**Cas 2 : Kasra SOUS la lettre** (position classique)
+
+```
+    ّ   ← Shadda (en haut)
+    ب   ← Lettre
+    ِ   ← Kasra (reste en bas)
+```
+:::
 
 ::: {.callout-note}
 ## ⚠️ Les deux sont correctes !
-Les deux positions sont valides. La prononciation reste la même : **doublement de la consonne + son "i"**.
-
-La police utilisée sur ce site affiche la kasra sous la lettre (cas 2).
+La prononciation reste la même. La police de ce site affiche le **cas 2** (kasra en bas).
 :::
 
 :::
 
 ### Exemples avec Shadda + Kasra
 
-| Mot | Prononciation | Note |
-|:---:|:-------------:|:-----|
-| [رَبِّ]{.arabic .arabic-xxl} | **rabbi** | Le ب porte shadda + kasra |
-| [إِنِّي]{.arabic .arabic-xxl} | **innī** | Le ن porte shadda + kasra |
-| [أُمِّي]{.arabic .arabic-xxl} | **ummī** | Le م porte shadda + kasra |
+| Mot | Prononciation | Décomposition |
+|:---:|:-------------:|:-------------:|
+| [رَبِّ]{.arabic .arabic-xxl} | **rabbi** | رَ + بْ + بِ |
+| [كُلِّ]{.arabic .arabic-xxl} | **kulli** | كُ + لْ + لِ |
+| [سِتِّ]{.arabic .arabic-xxl} | **sitti** | سِ + تْ + تِ |
 
+
+---
 
 ## 📖 Les formes des nouvelles lettres
 
