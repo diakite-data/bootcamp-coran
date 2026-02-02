@@ -141,6 +141,40 @@ La **Shadda** ressemble à un petit **"w"** au-dessus de la lettre.
 Elle signifie : **doublez cette consonne !**
 :::
 
+
+::: {.callout-note}
+## 💡 Comprendre la Shadda : Sukūn + Voyelle
+
+La Shadda représente **deux lettres identiques** qui se suivent :
+
+1. La **première** porte un **Sukūn** (muette)
+2. La **deuxième** porte une **voyelle** (Fatha, Kasra ou Damma)
+
+::: {.display-box style="background: #FFF3E0;"}
+**Exemple : [سَلَّمَ]{.arabic .arabic-xl} (sallama)**
+
+[سَلَّمَ]{.arabic .arabic-xl} = [سَ]{.arabic .arabic-xl} + [لْ]{.arabic .arabic-xl} + [لَ]{.arabic .arabic-xl} + [مَ]{.arabic .arabic-xl}
+
+La lettre [لّ]{.arabic .arabic-xl} (lām + shadda + fatha) = [لْ]{.arabic .arabic-xl} (sukūn) + [لَ]{.arabic .arabic-xl} (fatha)
+
+**Prononciation :** sa - **l** - **la** - ma → sal-la-ma
+:::
+
+:::
+
+### Décomposition visuelle
+
+| Mot | Décomposition | Prononciation |
+|:---:|:-------------:|:-------------:|
+| [كَتَّبَ]{.arabic .arabic-xl} | كَ + تْ + تَ + بَ | ka-**t**-**ta**-ba |
+| [سَلَّمَ]{.arabic .arabic-xl} | سَ + لْ + لَ + مَ | sa-**l**-**la**-ma |
+| [فَتَّنَ]{.arabic .arabic-xl} | فَ + تْ + تَ + نَ | fa-**t**-**ta**-na |
+
+::: {.callout-tip}
+## 💡 Astuce de prononciation
+Quand vous voyez une Shadda, pensez à **appuyer** sur la consonne — comme si vous la disiez deux fois très rapidement !
+:::
+
 ### Exemples avec Shadda
 
 | Sans Shadda | Avec Shadda | Prononciation |
