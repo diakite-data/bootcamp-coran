@@ -60,7 +60,7 @@ format:
 |:------:|:----|:---:|:-----------|
 | [ج]{.arabic .arabic-xxl} | **jīm** | dj | comme "Djibouti" ou "adjectif" |
 | [ش]{.arabic .arabic-xxl} | **shīn** | ch | comme "chat" |
-| [ي]{.arabic .arabic-xxl} | **yā'** | y / ī | comme "yaourt" ou "i" long |
+| [ي]{.arabic .arabic-xxl} | **yā'** | y / ī | comme "yaourt" |
 | [ق]{.arabic .arabic-xxl} | **qāf** | q | k profond (du fond de la gorge) |
 | [ع]{.arabic .arabic-xxl} | **ʿayn** | ʿ | son guttural (pas d'équivalent français) |
 | [غ]{.arabic .arabic-xxl} | **ghayn** | gh | comme un "r" grasseyé parisien |
