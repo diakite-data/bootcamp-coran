@@ -144,7 +144,7 @@ Damma + Wāw = **ū** (ou long)
 | Court | Long | Exemple |
 |:-----:|:----:|:-------:|
 | [نُ]{.arabic .arabic-xl} **nou** | [نُو]{.arabic .arabic-xl} **nū** | [نُورَ]{.arabic .arabic-xl} **nūra** |
-| [سُ]{.arabic .arabic-xl} **sou** | [سُو]{.arabic .arabic-xl} **sū** | [سُورَة]{.arabic .arabic-xl} **sūra** |
+| [قُ]{.arabic .arabic-xl} **qou** | [قُو]{.arabic .arabic-xl} **qū** | [يَقُولُ]{.arabic .arabic-xl} **yaqūlu** |
 
 ---
 
@@ -185,7 +185,7 @@ Quand [ل]{.arabic} et [ا]{.arabic} se suivent, ils forment une **ligature spé
 |:---:|:-------------:|:-----|
 | [لا]{.arabic .arabic-xl} | **lā** | non |
 | [إِلَّا]{.arabic .arabic-xl} | **il-lā** | sauf |
-| [صَلاة]{.arabic .arabic-xl} | **ṣa-lā** | prière |
+| [قَالَ]{.arabic .arabic-xl} | **qā-la** | il a dit |
 
 ::: {.callout-tip}
 ## 💡 Reconnaître لا
@@ -311,7 +311,7 @@ Quelle voyelle longue contient chaque mot ?
 Repérez la ligature [لا]{.arabic} dans ces mots :
 
 ::: {.display-box}
-[صَلاة    إِلَّا    لا    فَلا]{.arabic .arabic-xl}
+[قَالَ    إِلَّا    لا    فَلا]{.arabic .arabic-xl}
 :::
 
 :::
@@ -347,9 +347,9 @@ Repérez la ligature [لا]{.arabic} dans ces mots :
 ### Exercice 2 — Voyelles longues ā
 
 ::: {.display-box .orange}
-[بَابَ    كَانَ    قَالَ    جَاءَ    نَامَ    صَامَ]{.arabic .arabic-xl}
+[بَابَ    كَانَ    قَالَ    جَاءَ    نَامَ    زَارَ]{.arabic .arabic-xl}
 
-**bāba — kāna — qāla — jā'a — nāma — ṣāma**
+**bāba — kāna — qāla — jā'a — nāma — zāra**
 :::
 
 :::
@@ -359,9 +359,9 @@ Repérez la ligature [لا]{.arabic} dans ces mots :
 ### Exercice 3 — Voyelles longues ū
 
 ::: {.display-box style="background: #E3F2FD;"}
-[نُورَ    سُورَة    يَقُولُ    رَسُولَ]{.arabic .arabic-xl}
+[نُورَ    يَقُولُ    رَسُولَ    كَانُوا]{.arabic .arabic-xl}
 
-**nūra — sūra — ya-qū-lou — ra-sū-la**
+**nūra — ya-qū-lu — ra-sū-la — kā-nū**
 :::
 
 :::
@@ -371,9 +371,9 @@ Repérez la ligature [لا]{.arabic} dans ces mots :
 ### Exercice 4 — Mots avec Lām-Alif
 
 ::: {.display-box}
-[لا    إِلَّا    صَلاة    فَلا    وَلا]{.arabic .arabic-xl}
+[لا    إِلَّا    قَالَ    فَلا    وَلا]{.arabic .arabic-xl}
 
-**lā — il-lā — ṣa-lā — fa-lā — wa-lā**
+**lā — il-lā — qā-la — fa-lā — wa-lā**
 :::
 
 :::
