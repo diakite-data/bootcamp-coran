@@ -40,12 +40,31 @@ format:
 
 ---
 
-## 📝 Rappel — Vos 15 lettres
+## 📝 Rappel — Vos 15 lettres et vos signes
 
 ::: {.display-box style="background: #F5F5F5;"}
 [ب ت م ن ل ك ف س ه ج ش ي ق ع غ]{.arabic .arabic-lg}
+:::
 
-Voyelle longue : **ī** (avec ي) · Shadda : doublement
+### Les signes de vocalisation appris
+
+| Signe | Nom | Son | Appris au |
+|:-----:|:----|:---:|:---------:|
+| [◌َ]{.arabic .arabic-xl} | **Fatha** | a | Jour 1 |
+| [◌ِ]{.arabic .arabic-xl} | **Kasra** | i | Jour 1 |
+| [◌ُ]{.arabic .arabic-xl} | **Damma** | ou | Jour 2 |
+| [◌ْ]{.arabic .arabic-xl} | **Sukūn** | — (muet) | Jour 2 |
+| [◌ِي]{.arabic .arabic-xl} | **ī long** | ii | Jour 3 |
+| [◌ّ]{.arabic .arabic-xl} | **Shadda** | × 2 | Jour 3 |
+
+::: {.callout-note}
+## 💡 Rappel rapide
+- **Fatha** (trait en haut) = "a"
+- **Kasra** (trait en bas) = "i"  
+- **Damma** (petit و en haut) = "ou"
+- **Sukūn** (petit rond) = pas de voyelle
+- **Kasra + ي** = "ī" long
+- **Shadda** = doubler la consonne
 :::
 
 ---
