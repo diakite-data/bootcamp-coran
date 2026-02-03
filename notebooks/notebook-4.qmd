@@ -36,7 +36,7 @@ format:
 - ✅ Reconnaître **21 lettres** au total (15 + 6 nouvelles)
 - ✅ Identifier les **6 lettres qui NE S'ATTACHENT PAS**
 - ✅ Lire les voyelles longues **ā** et **ū**
-- ✅ Reconnaître la ligature **Lām-Alif** (لا)
+- ✅ Reconnaître la ligature **Lām-Alif** (لَا)
 
 ---
 
@@ -164,31 +164,30 @@ Damma + Wāw = **ū** (ou long)
 
 ---
 
-## ✏️ La ligature LĀM-ALIF (لا)
+## ✏️ La ligature LĀM-ALIF (لَا)
 
 Quand [ل]{.arabic} et [ا]{.arabic} se suivent, ils forment une **ligature spéciale** :
 
 ::: {.display-box style="background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%); border: 3px solid #1976D2;"}
-[لا]{.arabic .arabic-giant style="color: #1565C0;"}
+[لَا]{.arabic .arabic-giant style="color: #1565C0;"}
 
-**Lām + Alif = لا**
+**Lām + Alif = لَا**
 :::
 
 | Séparées | Ligature | Prononciation |
 |:--------:|:--------:|:-------------:|
-| ل + ا | [لا]{.arabic .arabic-xxl} | **lā** |
-| ل + ا + ل | [لاَل]{.arabic .arabic-xxl} | **lāl** |
+| ل + ا | [لَا]{.arabic .arabic-xxl} | **lā** |
 
-### Exemples de mots avec لا
+### Exemples de mots avec لَا
 
 | Mot | Prononciation | Sens |
 |:---:|:-------------:|:-----|
-| [لا]{.arabic .arabic-xl} | **lā** | non |
+| [لَا]{.arabic .arabic-xl} | **lā** | non |
 | [إِلَّا]{.arabic .arabic-xl} | **il-lā** | sauf |
 | [قَالَ]{.arabic .arabic-xl} | **qā-la** | il a dit |
 
 ::: {.callout-tip}
-## 💡 Reconnaître لا
+## 💡 Reconnaître لَا
 C'est comme un **"X" allongé** ou une **croix**. Très reconnaissable !
 :::
 
@@ -308,10 +307,10 @@ Quelle voyelle longue contient chaque mot ?
 
 ### Quiz 3 — Reconnaître Lām-Alif
 
-Repérez la ligature [لا]{.arabic} dans ces mots :
+Repérez la ligature [لَا]{.arabic} dans ces mots :
 
 ::: {.display-box}
-[قَالَ    إِلَّا    لا    فَلا]{.arabic .arabic-xl}
+[قَالَ    إِلَّا    لَا    فَلَا]{.arabic .arabic-xl}
 :::
 
 :::
@@ -371,7 +370,7 @@ Repérez la ligature [لا]{.arabic} dans ces mots :
 ### Exercice 4 — Mots avec Lām-Alif
 
 ::: {.display-box}
-[لا    إِلَّا    قَالَ    فَلا    وَلا]{.arabic .arabic-xl}
+[لَا    إِلَّا    قَالَ    فَلَا    وَلَا]{.arabic .arabic-xl}
 
 **lā — il-lā — qā-la — fa-lā — wa-lā**
 :::
@@ -387,7 +386,7 @@ Repérez la ligature [لا]{.arabic} dans ces mots :
 
 [بَا تُو فِي كَا نُو لِي]{.arabic .arabic-xl}
 
-[وَلَدَ دَرَسَ لا إِلَّا]{.arabic .arabic-xl}
+[وَلَدَ دَرَسَ لَا إِلَّا]{.arabic .arabic-xl}
 :::
 
 🎯 **Objectif** : moins de 20 secondes !
@@ -402,7 +401,7 @@ Avant de passer au Notebook 5, vérifiez que vous maîtrisez :
 
 - [ ] Je reconnais les 6 non-attachantes : [ا د ذ ر ز و]{.arabic .arabic-md}
 - [ ] Je lis les voyelles longues : **ā** (avec ا), **ū** (avec و)
-- [ ] Je reconnais la ligature **Lām-Alif** : [لا]{.arabic .arabic-md}
+- [ ] Je reconnais la ligature **Lām-Alif** : [لَا]{.arabic .arabic-md}
 - [ ] Je compte **21 lettres** au total
 
 ---
