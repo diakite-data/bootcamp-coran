@@ -39,10 +39,34 @@ format:
 
 ---
 
-## 📝 Rappel — Vos 21 lettres
+## 📝 Rappel — Vos 21 lettres et vos signes
 
 ::: {.display-box style="background: #F5F5F5;"}
 [ب ت م ن ل ك ف س ه ج ش ي ق ع غ ا د ذ ر ز و]{.arabic .arabic-lg}
+:::
+
+### Les signes de vocalisation appris
+
+| Signe | Nom | Son | Appris au |
+|:-----:|:----|:---:|:---------:|
+| [◌َ]{.arabic .arabic-xl} | **Fatha** | a | Jour 1 |
+| [◌ِ]{.arabic .arabic-xl} | **Kasra** | i | Jour 1 |
+| [◌ُ]{.arabic .arabic-xl} | **Damma** | ou | Jour 2 |
+| [◌ْ]{.arabic .arabic-xl} | **Sukūn** | — (muet) | Jour 2 |
+| [◌ِي]{.arabic .arabic-xl} | **ī long** | ii | Jour 3 |
+| [◌ّ]{.arabic .arabic-xl} | **Shadda** | × 2 | Jour 3 |
+| [◌َا]{.arabic .arabic-xl} | **ā long** | aa | Jour 4 |
+| [◌ُو]{.arabic .arabic-xl} | **ū long** | oo | Jour 4 |
+
+### Rappel des règles importantes
+
+::: {.callout-note}
+## 💡 Ce que vous savez déjà
+- **3 voyelles courtes** : Fatha (a) · Kasra (i) · Damma (ou)
+- **3 voyelles longues** : ◌َا (ā) · ◌ِي (ī) · ◌ُو (ū)
+- **Sukūn** = pas de voyelle · **Shadda** = doubler la consonne
+- **6 lettres non-attachantes** : [ا د ذ ر ز و]{.arabic}
+- **Ligature Lām-Alif** : [لَا]{.arabic}
 :::
 
 ---
