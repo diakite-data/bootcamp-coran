@@ -35,6 +35,7 @@ format:
 
 - ✅ Reconnaître les **28 lettres** de l'alphabet arabe
 - ✅ Maîtriser l'**article ال** (le/la/les)
+- ✅ Maîtriser le **tanwīn** (nunation)
 - ✅ Distinguer les lettres **lunaires** et **solaires**
 
 ---
@@ -177,17 +178,115 @@ Répétez chaque paire **5 fois** en exagérant la différence :
 **dha — dha — dha** → **ẓa — ẓa — ẓa** (épais)
 :::
 
+
+---
+
+## ✏️ Le TANWĪN — La nunation
+
+Le **tanwīn** (تَنْوِين) ajoute un son **"n"** à la fin d'un mot. C'est comme si on ajoutait un [ن]{.arabic} muet.
+
+::: {.display-box style="background: linear-gradient(135deg, #E1F5FE 0%, #B3E5FC 100%); border: 3px solid #0288D1;"}
+[◌ً    ◌ٍ    ◌ٌ]{.arabic .arabic-giant style="color: #01579B;"}
+
+**Fatha tanwīn · Kasra tanwīn · Damma tanwīn**
+:::
+
+### Les 3 types de tanwīn
+
+| Tanwīn | Nom | Son | Exemple |
+|:------:|:----|:---:|:-------:|
+| [◌ً]{.arabic .arabic-xxl} | **Tanwīn Fatha** | -an | [كِتَابًا]{.arabic .arabic-xl} **kitāban** |
+| [◌ٍ]{.arabic .arabic-xxl} | **Tanwīn Kasra** | -in | [كِتَابٍ]{.arabic .arabic-xl} **kitābin** |
+| [◌ٌ]{.arabic .arabic-xxl} | **Tanwīn Damma** | -oun | [كِتَابٌ]{.arabic .arabic-xl} **kitāboun** |
+
+::: {.callout-important}
+## ⚠️ Tanwīn Fatha + Alif
+
+Le tanwīn fatha (ً) est presque toujours accompagné d'un **alif** :
+
+[كِتَابًا]{.arabic .arabic-xl} → Le **ا** final est un support, il ne se prononce pas !
+
+**Note** : Quelques exceptions existent (vous les verrez au Notebook 6).
+:::
+
+### Comparaison : Voyelle simple vs Tanwīn
+
+| Voyelle simple | Tanwīn | Différence |
+|:--------------:|:------:|:-----------|
+| [كِتَابَ]{.arabic .arabic-xl} **kitāba** | [كِتَابًا]{.arabic .arabic-xl} **kitāban** | +n final |
+| [كِتَابِ]{.arabic .arabic-xl} **kitābi** | [كِتَابٍ]{.arabic .arabic-xl} **kitābin** | +n final |
+| [كِتَابُ]{.arabic .arabic-xl} **kitābou** | [كِتَابٌ]{.arabic .arabic-xl} **kitāboun** | +n final |
+
+::: {.callout-tip}
+## 💡 Reconnaître le tanwīn
+
+- **Tanwīn Fatha** [◌ً]{.arabic} = deux traits **superposés** (+ alif)
+- **Tanwīn Kasra** [◌ٍ]{.arabic} = deux traits **en bas**
+- **Tanwīn Damma** [◌ٌ]{.arabic} = damma avec **boucle supplémentaire**
+:::
+
+### Exercice : Lire avec tanwīn
+
+::: {.display-box style="background: #E1F5FE;"}
+[عَلِيمٌ    رَحِيمٌ    كَرِيمٌ    عَظِيمٌ]{.arabic .arabic-xl}
+
+**ʿalīmoun — raḥīmoun — karīmoun — ʿaẓīmoun**
+:::
+
+::: {.display-box}
+[كِتَابًا    بَابًا    قَلْبًا    نُورًا]{.arabic .arabic-xl}
+
+**kitāban — bāban — qalban — nūran**
+:::
+
+::: {.display-box style="background: #E1F5FE;"}
+[يَوْمٍ    رَبٍّ    قَوْمٍ    عِلْمٍ]{.arabic .arabic-xl}
+
+**yawmin — rabbin — qawmin — ʿilmin**
+:::
+
+---
+
+::: {.callout-important}
+## 📚 Les 7 lettres d'élévation (حروف الاستعلاء)
+
+En tajwīd, on parle des **7 lettres d'élévation** (al-istiʿlā') — des lettres où la langue s'élève vers le palais, donnant un son "lourd" :
+
+::: {.display-box style="background: #FFF8E1;"}
+[خ    ص    ض    غ    ط    ق    ظ]{.arabic .arabic-xl}
+
+**Moyen mnémotechnique :** [خُصَّ ضَغْطٍ قِظْ]{.arabic .arabic-lg}
+:::
+
+| Lettre | Catégorie |
+|:------:|:----------|
+| [ص ض ط ظ]{.arabic .arabic-lg} | **Emphatiques** (muṭbaqa) — les plus lourdes |
+| [خ غ ق]{.arabic .arabic-lg} | **Élevées** (mustaʿliya) — son lourd aussi |
+
+Ces 7 lettres affectent les voyelles autour d'elles, les rendant plus graves.
+
+::: {.callout-tip}
+## 💡 Et le ر (rā') ?
+
+Le [ر]{.arabic .arabic-lg} (rā') peut aussi être **emphatique** (lourd) ou **non-emphatique** (léger) selon le contexte :
+
+- [رَ]{.arabic .arabic-lg} [رُ]{.arabic .arabic-lg} avec fatha ou damma → généralement **lourd**
+- [رِ]{.arabic .arabic-lg} avec kasra → généralement **léger**
+
+Les règles détaillées du rā' seront abordées dans un **cours de tajwīd** approfondi.
+:::
+:::
+
 ::: {.callout-note}
 ## 📌 Le ض — La lettre unique de l'arabe
 
 Le [ض]{.arabic .arabic-lg} (ḍād) est considéré comme **la lettre la plus difficile** et la plus unique de l'arabe. 
 
-C'est pourquoi l'arabe est parfois appelé **"la langue du Ḍād"** (لغة الضاد).
+C'est pourquoi l'arabe est parfois appelé **"la langue du Ḍād"** (lughat aḍ-ḍād).
 
 Aucune autre langue n'a exactement ce son !
 :::
 
----
 
 ## 🎉 L'ALPHABET COMPLET — 28 lettres !
 
@@ -441,6 +540,7 @@ Mot clé : **الشَّمْس** (ash-shams = le soleil) → commence par une let
 Avant de passer au Notebook 6, vérifiez que vous maîtrisez :
 
 - [ ] Je reconnais les **28 lettres** de l'alphabet arabe
+- [ ] Je lis le **tanwīn** : [كِتَابٌ]{.arabic} = kitāboun
 - [ ] Je connais l'article **ال** (le/la/les)
 - [ ] Je distingue **lunaires** (al-) et **solaires** (assimilation)
 - [ ] Je prononce correctement [الشَّمْس]{.arabic} (ash-shams) et [الْقَمَر]{.arabic} (al-qamar)

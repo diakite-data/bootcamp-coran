@@ -1,19 +1,17 @@
-
-
+---
 title: "Notebook 7"
 subtitle: "Application — Al-Fatiha"
 format:
   html:
     css: ../styles.css
-
-
+---
 
 ::: {.notebook-header}
 📓 NOTEBOOK 7 · Jour 7
 
 # 🎉 Sourate Al-Fatiha
 
-[⏱️ 35 minutes]{.badge .duration} · [Objectif final]{.badge .new}
+[⏱️ 45 minutes]{.badge .duration} · [Objectif final]{.badge .new}
 :::
 
 ::: {.progress-container}
@@ -29,8 +27,7 @@ format:
 <button onclick="window.print()" class="pdf-download">📄 PDF</button>
 :::
 
-
-
+---
 
 ## 🎯 L'aboutissement du Bootcamp
 
@@ -41,55 +38,125 @@ Vous y êtes ! Après 6 jours d'apprentissage, vous allez lire la **sourate Al-F
 C'est la **première sourate** du Coran, composée de **7 versets**.
 :::
 
-
-
+---
 
 ## 📝 Rappel — Tout ce que vous savez
 
+### Les 28 lettres
+
 ::: {.display-box style="background: #F5F5F5;"}
-**28 lettres** · **4 voyelles** (Fatha, Kasra, Damma, Sukūn) · **Shadda** · **Voyelles longues** (ā, ī, ū) · **Article ال** · **Tanwīn** · **Hamza** · **Tā' Marbūṭa** · **Alif Maqṣūra** · **Madda** · **Liaison**
+[ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي]{.arabic .arabic-lg}
 :::
 
+### Les signes de vocalisation (11)
 
+| Signe | Nom | Son |
+|:-----:|:----|:---:|
+| [◌َ]{.arabic .arabic-xl} | Fatha | a |
+| [◌ِ]{.arabic .arabic-xl} | Kasra | i |
+| [◌ُ]{.arabic .arabic-xl} | Damma | ou |
+| [◌ْ]{.arabic .arabic-xl} | Sukūn | — |
+| [◌ّ]{.arabic .arabic-xl} | Shadda | ×2 |
+| [◌َا]{.arabic .arabic-lg} | ā long | aa |
+| [◌ِي]{.arabic .arabic-lg} | ī long | ii |
+| [◌ُو]{.arabic .arabic-lg} | ū long | oo |
+| [◌ً]{.arabic .arabic-xl} | Tanwīn Fatha | -an |
+| [◌ٍ]{.arabic .arabic-xl} | Tanwīn Kasra | -in |
+| [◌ٌ]{.arabic .arabic-xl} | Tanwīn Damma | -oun |
 
+### Les signes spéciaux (Notebook 6)
+
+| Signe | Nom | Explication |
+|:-----:|:----|:------------|
+| [ة]{.arabic .arabic-xl} | Tā' Marbūṭa | -a (pause) / -t (liaison) |
+| [ى]{.arabic .arabic-xl} | Alif Maqṣūra | = ā (comme alif) |
+| [آ]{.arabic .arabic-xl} | Madda | = 'ā (hamza + alif) |
+| [◌ٰ]{.arabic .arabic-xl} | Alif Khanjariyya | = ā (petit alif au-dessus) |
+| [ء أ إ ؤ ئ]{.arabic .arabic-lg} | Hamza | coup de glotte |
+| [ٱ]{.arabic .arabic-xl} | Hamza Waṣl | disparaît en liaison |
+
+### Les règles clés
+
+::: {.callout-tip}
+## 💡 Règles à retenir pour la lecture
+
+1. **Shadda** = la lettre est doublée (sukūn + voyelle)
+2. **Article ال** devant lettre **solaire** = le ل s'assimile
+3. **Liaison** = l'alif de ال disparaît après une voyelle
+4. **Alif Khanjariyya** [◌ٰ]{.arabic} = ā long (petit alif au-dessus)
+:::
+
+---
+
+## 📜 Les signes de pause coraniques (علامات الوقف)
+
+Dans les Muṣḥafs, vous verrez des **symboles de pause** qui indiquent où s'arrêter (ou ne pas s'arrêter) pendant la récitation.
+
+::: {.display-box style="background: linear-gradient(135deg, #FFF3E0 0%, #FFE0B2 100%); border: 3px solid #FF9800;"}
+| Signe | Nom | Signification |
+|:-----:|:----|:--------------|
+| [مـ]{.arabic .arabic-xl} | **Mīm** | Pause **obligatoire** |
+| [ج]{.arabic .arabic-xl} | **Jīm** | Pause **permise** |
+| [صلى]{.arabic .arabic-lg} | **Ṣilā** | Mieux de **continuer** |
+| [لا]{.arabic .arabic-xl} | **Lā** | **Ne pas** s'arrêter |
+| [قلى]{.arabic .arabic-lg} | **Qilā** | Mieux de **s'arrêter** |
+| [۝]{.arabic .arabic-xl} | **Fin de verset** | Pause naturelle |
+:::
+
+::: {.callout-note}
+## 📌 Pour la Fatiha
+La Fatiha est courte et chaque verset se termine par une **rime en ī** (sauf le dernier). On fait généralement une **pause à chaque fin de verset**.
+:::
+
+---
 
 ## 📖 La Sourate Al-Fatiha — Vue d'ensemble
 
 ::: {.display-box style="background: linear-gradient(135deg, #FFF8E1 0%, #FFECB3 100%); border: 3px solid #FFC107;"}
-[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ۝]{.arabic .arabic-lg}
+[بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ۝١]{.arabic .arabic-lg}
 
-[الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ۝]{.arabic .arabic-lg}
+[ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمِينَ ۝٢]{.arabic .arabic-lg}
 
-[الرَّحْمَٰنِ الرَّحِيمِ ۝]{.arabic .arabic-lg}
+[ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ۝٣]{.arabic .arabic-lg}
 
-[مَالِكِ يَوْمِ الدِّينِ ۝]{.arabic .arabic-lg}
+[مَالِكِ يَوْمِ ٱلدِّينِ ۝٤]{.arabic .arabic-lg}
 
-[إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝]{.arabic .arabic-lg}
+[إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝٥]{.arabic .arabic-lg}
 
-[اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝]{.arabic .arabic-lg}
+[ٱهْدِنَا ٱلصِّرَاطَ ٱلْمُسْتَقِيمَ ۝٦]{.arabic .arabic-lg}
 
-[صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ۝]{.arabic .arabic-lg}
+[صِرَاطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّالِّينَ ۝٧]{.arabic .arabic-lg}
 :::
 
-
-
+---
 
 ## 📖 Verset 0 — La Basmala
 
 ::: {.display-box style="background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%); border: 3px solid #1976D2;"}
-[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-xl}
+[بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ]{.arabic .arabic-xl}
 :::
 
-### Décomposition
+### Règles appliquées dans ce verset
 
-| Mot | Translittération | Sens |
-|:---:|:----------------:|:-----|
-| [بِسْمِ]{.arabic .arabic-lg} | **bismi** | au nom de |
-| [اللَّهِ]{.arabic .arabic-lg} | **llāhi** | Allah |
-| [الرَّحْمَٰنِ]{.arabic .arabic-lg} | **r-raḥmāni** | le Tout-Miséricordieux |
-| [الرَّحِيمِ]{.arabic .arabic-lg} | **r-raḥīmi** | le Très-Miséricordieux |
+::: {.callout-important}
+## 🔍 Règles à repérer
 
-### Lecture complète
+1. **[بِسْمِ]{.arabic}** — Kasra sous ب et م
+2. **[ٱللَّهِ]{.arabic}** — Hamza Waṣl (disparaît après بِسْمِ) + Shadda sur ل
+3. **[ٱلرَّحْمَٰنِ]{.arabic}** — Hamza Waṣl + Shadda sur ر (lettre solaire) + **Alif Khanjariyya** [◌ٰ]{.arabic} sur le م
+4. **[ٱلرَّحِيمِ]{.arabic}** — Hamza Waṣl + Shadda sur ر + ī long
+:::
+
+### Décomposition mot par mot
+
+| Mot | Lettres | Règles | Prononciation |
+|:---:|:--------|:-------|:-------------:|
+| [بِسْمِ]{.arabic .arabic-lg} | ب + سْ + مِ | Kasra + Sukūn + Kasra | **bis-mi** |
+| [ٱللَّهِ]{.arabic .arabic-lg} | ٱل + لَّ + هِ | Waṣl + Shadda | **(-l)lā-hi** |
+| [ٱلرَّحْمَٰنِ]{.arabic .arabic-lg} | ٱل + رَّ + حْ + مَٰ + نِ | Waṣl + Solaire + Alif Khanjariyya | **(-r)raḥ-mā-ni** |
+| [ٱلرَّحِيمِ]{.arabic .arabic-lg} | ٱل + رَّ + حِ + ي + مِ | Waṣl + Solaire + ī long | **(-r)ra-ḥī-mi** |
+
+### Lecture complète (avec liaisons)
 
 ::: {.display-box .green}
 **bismi-llāhi-r-raḥmāni-r-raḥīm**
@@ -97,23 +164,33 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Au nom d'Allah, le Tout-Miséricordieux, le Très-Miséricordieux"
 :::
 
+---
 
-
-
-## 📖 Verset 1
+## 📖 Verset 1 — La louange
 
 ::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); border: 3px solid #4CAF50;"}
-[الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-xl}
+[ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمِينَ]{.arabic .arabic-xl}
 :::
 
-### Décomposition
+### Règles appliquées dans ce verset
 
-| Mot | Translittération | Sens |
-|:---:|:----------------:|:-----|
-| [الْحَمْدُ]{.arabic .arabic-lg} | **al-ḥamdu** | la louange |
-| [لِلَّهِ]{.arabic .arabic-lg} | **li-llāhi** | à Allah |
-| [رَبِّ]{.arabic .arabic-lg} | **rabbi** | Seigneur |
-| [الْعَالَمِينَ]{.arabic .arabic-lg} | **l-ʿālamīna** | des mondes |
+::: {.callout-important}
+## 🔍 Règles à repérer
+
+1. **[ٱلْحَمْدُ]{.arabic}** — Hamza Waṣl (début de phrase = se prononce "al") + Sukūn sur ل (lettre lunaire)
+2. **[لِلَّهِ]{.arabic}** — Préposition لِ + لَّه avec Shadda (liaison)
+3. **[رَبِّ]{.arabic}** — Shadda sur ب
+4. **[ٱلْعَالَمِينَ]{.arabic}** — Hamza Waṣl + ع (lunaire) + ā long + ī long
+:::
+
+### Décomposition mot par mot
+
+| Mot | Règles | Prononciation |
+|:---:|:-------|:-------------:|
+| [ٱلْحَمْدُ]{.arabic .arabic-lg} | Waṣl (début) + ح lunaire | **al-ḥam-du** |
+| [لِلَّهِ]{.arabic .arabic-lg} | Préposition + Shadda | **li-llā-hi** |
+| [رَبِّ]{.arabic .arabic-lg} | Shadda sur ب | **rab-bi** |
+| [ٱلْعَالَمِينَ]{.arabic .arabic-lg} | Waṣl + ع lunaire + ā long + ī long | **(-l)ʿā-la-mī-na** |
 
 ### Lecture complète
 
@@ -123,21 +200,29 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Louange à Allah, Seigneur des mondes"
 :::
 
+---
 
-
-
-## 📖 Verset 2
+## 📖 Verset 2 — Les attributs divins
 
 ::: {.display-box style="background: linear-gradient(135deg, #F3E5F5 0%, #E1BEE7 100%); border: 3px solid #9C27B0;"}
-[الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-xl}
+[ٱلرَّحْمَٰنِ ٱلرَّحِيمِ]{.arabic .arabic-xl}
 :::
 
-### Décomposition
+### Règles appliquées dans ce verset
 
-| Mot | Translittération | Sens |
-|:---:|:----------------:|:-----|
-| [الرَّحْمَٰنِ]{.arabic .arabic-lg} | **ar-raḥmāni** | le Tout-Miséricordieux |
-| [الرَّحِيمِ]{.arabic .arabic-lg} | **ar-raḥīmi** | le Très-Miséricordieux |
+::: {.callout-important}
+## 🔍 Règles à repérer
+
+1. **[ٱلرَّحْمَٰنِ]{.arabic}** — Waṣl (début) + ر solaire (Shadda) + **Alif Khanjariyya** [◌ٰ]{.arabic}
+2. **[ٱلرَّحِيمِ]{.arabic}** — Waṣl (liaison) + ر solaire + ī long
+:::
+
+### Décomposition mot par mot
+
+| Mot | Règles | Prononciation |
+|:---:|:-------|:-------------:|
+| [ٱلرَّحْمَٰنِ]{.arabic .arabic-lg} | Waṣl + Solaire + Alif Khanjariyya | **ar-raḥ-mā-ni** |
+| [ٱلرَّحِيمِ]{.arabic .arabic-lg} | Waṣl + Solaire + ī long | **(-r)ra-ḥī-mi** |
 
 ### Lecture complète
 
@@ -147,22 +232,31 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Le Tout-Miséricordieux, le Très-Miséricordieux"
 :::
 
+---
 
-
-
-## 📖 Verset 3
+## 📖 Verset 3 — Le Jour du Jugement
 
 ::: {.display-box style="background: linear-gradient(135deg, #FFF3E0 0%, #FFE0B2 100%); border: 3px solid #FF9800;"}
-[مَالِكِ يَوْمِ الدِّينِ]{.arabic .arabic-xl}
+[مَالِكِ يَوْمِ ٱلدِّينِ]{.arabic .arabic-xl}
 :::
 
-### Décomposition
+### Règles appliquées dans ce verset
 
-| Mot | Translittération | Sens |
-|:---:|:----------------:|:-----|
-| [مَالِكِ]{.arabic .arabic-lg} | **māliki** | Maître/Roi |
-| [يَوْمِ]{.arabic .arabic-lg} | **yawmi** | du jour |
-| [الدِّينِ]{.arabic .arabic-lg} | **d-dīni** | du Jugement |
+::: {.callout-important}
+## 🔍 Règles à repérer
+
+1. **[مَالِكِ]{.arabic}** — ā long (alif normal)
+2. **[يَوْمِ]{.arabic}** — Sukūn sur و (ne forme PAS un ū long car pas de Damma avant)
+3. **[ٱلدِّينِ]{.arabic}** — Waṣl + د solaire (Shadda) + ī long
+:::
+
+### Décomposition mot par mot
+
+| Mot | Règles | Prononciation |
+|:---:|:-------|:-------------:|
+| [مَالِكِ]{.arabic .arabic-lg} | ā long | **mā-li-ki** |
+| [يَوْمِ]{.arabic .arabic-lg} | Sukūn sur و = "aw" | **yaw-mi** |
+| [ٱلدِّينِ]{.arabic .arabic-lg} | Waṣl + Solaire + ī long | **(-d)dī-ni** |
 
 ### Lecture complète
 
@@ -172,23 +266,33 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "Maître du Jour du Jugement"
 :::
 
+---
 
-
-
-## 📖 Verset 4
+## 📖 Verset 4 — L'adoration
 
 ::: {.display-box style="background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%); border: 3px solid #1976D2;"}
 [إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ]{.arabic .arabic-xl}
 :::
 
-### Décomposition
+### Règles appliquées dans ce verset
 
-| Mot | Translittération | Sens |
-|:---:|:----------------:|:-----|
-| [إِيَّاكَ]{.arabic .arabic-lg} | **iyyāka** | C'est Toi |
-| [نَعْبُدُ]{.arabic .arabic-lg} | **naʿbudu** | nous adorons |
-| [وَإِيَّاكَ]{.arabic .arabic-lg} | **wa-iyyāka** | et c'est Toi |
-| [نَسْتَعِينُ]{.arabic .arabic-lg} | **nastaʿīnu** | nous implorons |
+::: {.callout-important}
+## 🔍 Règles à repérer
+
+1. **[إِيَّاكَ]{.arabic}** — Hamza Qatʿ (sous alif) + Shadda sur ي
+2. **[نَعْبُدُ]{.arabic}** — Sukūn sur ع
+3. **[وَإِيَّاكَ]{.arabic}** — Conjonction وَ + Hamza Qatʿ (se prononce toujours)
+4. **[نَسْتَعِينُ]{.arabic}** — Sukūn sur س + ī long
+:::
+
+### Décomposition mot par mot
+
+| Mot | Règles | Prononciation |
+|:---:|:-------|:-------------:|
+| [إِيَّاكَ]{.arabic .arabic-lg} | Hamza Qatʿ + Shadda | **iy-yā-ka** |
+| [نَعْبُدُ]{.arabic .arabic-lg} | Sukūn sur ع | **naʿ-bu-du** |
+| [وَإِيَّاكَ]{.arabic .arabic-lg} | وَ + Hamza Qatʿ | **wa-iy-yā-ka** |
+| [نَسْتَعِينُ]{.arabic .arabic-lg} | Sukūn + ī long | **nas-ta-ʿī-nu** |
 
 ### Lecture complète
 
@@ -198,248 +302,210 @@ C'est la **première sourate** du Coran, composée de **7 versets**.
 "C'est Toi que nous adorons, et c'est Toi dont nous implorons le secours"
 :::
 
+---
 
-
-
-## 📖 Verset 5
+## 📖 Verset 5 — La guidance
 
 ::: {.display-box style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); border: 3px solid #4CAF50;"}
-[اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ]{.arabic .arabic-xl}
+[ٱهْدِنَا ٱلصِّرَاطَ ٱلْمُسْتَقِيمَ]{.arabic .arabic-xl}
 :::
 
-### Décomposition
+### Règles appliquées dans ce verset
 
-| Mot | Translittération | Sens |
-|:---:|:----------------:|:-----|
-| [اهْدِنَا]{.arabic .arabic-lg} | **ihdinā** | guide-nous |
-| [الصِّرَاطَ]{.arabic .arabic-lg} | **ṣ-ṣirāṭa** | le chemin |
-| [الْمُسْتَقِيمَ]{.arabic .arabic-lg} | **l-mustaqīma** | droit |
+::: {.callout-important}
+## 🔍 Règles à repérer
+
+1. **[ٱهْدِنَا]{.arabic}** — Hamza Waṣl (début = se prononce "i") + Sukūn sur ه + ā long final
+2. **[ٱلصِّرَاطَ]{.arabic}** — Waṣl + ص solaire (Shadda) + ā long
+3. **[ٱلْمُسْتَقِيمَ]{.arabic}** — Waṣl + م lunaire + ī long
+:::
+
+### Décomposition mot par mot
+
+| Mot | Règles | Prononciation |
+|:---:|:-------|:-------------:|
+| [ٱهْدِنَا]{.arabic .arabic-lg} | Waṣl (début = "i") + Sukūn | **ih-di-nā** |
+| [ٱلصِّرَاطَ]{.arabic .arabic-lg} | Waṣl + Solaire + ā long | **(-ṣ)ṣi-rā-ṭa** |
+| [ٱلْمُسْتَقِيمَ]{.arabic .arabic-lg} | Waṣl + Lunaire + ī long | **(-l)mus-ta-qī-ma** |
 
 ### Lecture complète
 
 ::: {.display-box .green}
-**ihdinaṣ-ṣirāṭa-l-mustaqīm**
+**ihdina-ṣ-ṣirāṭa-l-mustaqīm**
 
 "Guide-nous vers le chemin droit"
 :::
 
+---
 
-
-
-## 📖 Verset 6
+## 📖 Verset 6 — Le chemin des élus
 
 ::: {.display-box style="background: linear-gradient(135deg, #F3E5F5 0%, #E1BEE7 100%); border: 3px solid #9C27B0;"}
-[صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ]{.arabic .arabic-lg}
-
-[غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ]{.arabic .arabic-lg}
+[صِرَاطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ]{.arabic .arabic-lg}
 :::
 
-### Décomposition — Partie 1
+### Règles appliquées dans ce verset
 
-| Mot | Translittération | Sens |
-|:---:|:----------------:|:-----|
-| [صِرَاطَ]{.arabic .arabic-lg} | **ṣirāṭa** | le chemin |
-| [الَّذِينَ]{.arabic .arabic-lg} | **lladhīna** | de ceux que |
-| [أَنْعَمْتَ]{.arabic .arabic-lg} | **anʿamta** | Tu as comblé |
-| [عَلَيْهِمْ]{.arabic .arabic-lg} | **ʿalayhim** | sur eux |
+::: {.callout-important}
+## 🔍 Règles à repérer
 
-### Décomposition — Partie 2
+1. **[صِرَاطَ]{.arabic}** — ص emphatique + ā long
+2. **[ٱلَّذِينَ]{.arabic}** — Waṣl + Shadda sur ل + ī long
+3. **[أَنْعَمْتَ]{.arabic}** — Hamza Qatʿ (se prononce) + Sukūn sur ن et م
+4. **[عَلَيْهِمْ]{.arabic}** — Sukūn sur ي et م
+:::
 
-| Mot | Translittération | Sens |
-|:---:|:----------------:|:-----|
-| [غَيْرِ]{.arabic .arabic-lg} | **ghayri** | non pas |
-| [الْمَغْضُوبِ]{.arabic .arabic-lg} | **l-maghḍūbi** | ceux qui ont encouru la colère |
-| [عَلَيْهِمْ]{.arabic .arabic-lg} | **ʿalayhim** | sur eux |
-| [وَلَا]{.arabic .arabic-lg} | **wa-lā** | ni |
-| [الضَّالِّينَ]{.arabic .arabic-lg} | **ḍ-ḍāllīn** | les égarés |
+### Décomposition mot par mot
+
+| Mot | Règles | Prononciation |
+|:---:|:-------|:-------------:|
+| [صِرَاطَ]{.arabic .arabic-lg} | ص emphatique + ā long | **ṣi-rā-ṭa** |
+| [ٱلَّذِينَ]{.arabic .arabic-lg} | Waṣl + Shadda + ī long | **(-l)la-dhī-na** |
+| [أَنْعَمْتَ]{.arabic .arabic-lg} | Hamza Qatʿ + Sukūn | **an-ʿam-ta** |
+| [عَلَيْهِمْ]{.arabic .arabic-lg} | Sukūn sur ي et م | **ʿa-lay-him** |
 
 ### Lecture complète
 
 ::: {.display-box .green}
 **ṣirāṭa-lladhīna anʿamta ʿalayhim**
 
+"Le chemin de ceux que Tu as comblés de bienfaits"
+:::
+
+---
+
+## 📖 Verset 7 — La conclusion
+
+::: {.display-box style="background: linear-gradient(135deg, #FFEBEE 0%, #FFCDD2 100%); border: 3px solid #F44336;"}
+[غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّالِّينَ]{.arabic .arabic-lg}
+:::
+
+### Règles appliquées dans ce verset
+
+::: {.callout-important}
+## 🔍 Règles à repérer
+
+1. **[غَيْرِ]{.arabic}** — غ (lettre d'élévation) + Sukūn sur ي
+2. **[ٱلْمَغْضُوبِ]{.arabic}** — Waṣl + م lunaire + غ et ض emphatiques + ū long
+3. **[وَلَا]{.arabic}** — Conjonction وَ + لَا (ligature)
+4. **[ٱلضَّالِّينَ]{.arabic}** — Waṣl + ض solaire (Shadda) + ā long + Shadda sur ل + ī long
+:::
+
+### Décomposition mot par mot
+
+| Mot | Règles | Prononciation |
+|:---:|:-------|:-------------:|
+| [غَيْرِ]{.arabic .arabic-lg} | غ élevée + Sukūn | **ghay-ri** |
+| [ٱلْمَغْضُوبِ]{.arabic .arabic-lg} | Waṣl + Lunaire + ū long | **(-l)magh-ḍū-bi** |
+| [عَلَيْهِمْ]{.arabic .arabic-lg} | Sukūn | **ʿa-lay-him** |
+| [وَلَا]{.arabic .arabic-lg} | Conjonction + Ligature | **wa-lā** |
+| [ٱلضَّالِّينَ]{.arabic .arabic-lg} | Waṣl + Solaire + ā long + Shadda + ī long | **(-ḍ)ḍāl-līn** |
+
+### Lecture complète
+
+::: {.display-box .green}
 **ghayri-l-maghḍūbi ʿalayhim wa-la-ḍ-ḍāllīn**
 
-"Le chemin de ceux que Tu as comblés de bienfaits, non pas de ceux qui ont encouru Ta colère, ni des égarés"
+"Non pas de ceux qui ont encouru Ta colère, ni des égarés"
 :::
 
+::: {.callout-tip}
+## 💡 Après le dernier verset
+On dit traditionnellement **آمِين** (āmīn = "amen") après avoir terminé la Fatiha.
+:::
 
+---
 
+## 🎧 Récitation complète
 
-## 🎯 Lecture complète — Al-Fatiha
+::: {.display-box style="background: linear-gradient(135deg, #FFF8E1 0%, #FFECB3 100%); border: 3px solid #FFC107; padding: 20px;"}
 
-::: {.display-box style="background: linear-gradient(135deg, #FFF8E1 0%, #FFECB3 100%); border: 3px solid #FFC107; padding: 2rem;"}
-[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-lg}
-
+### Basmala
+[بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ]{.arabic .arabic-lg}
 **bismi-llāhi-r-raḥmāni-r-raḥīm**
 
-・・・
-
-[الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg}
-
+### Verset 1
+[ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمِينَ]{.arabic .arabic-lg}
 **al-ḥamdu li-llāhi rabbi-l-ʿālamīn**
 
-・・・
-
-[الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-lg}
-
+### Verset 2
+[ٱلرَّحْمَٰنِ ٱلرَّحِيمِ]{.arabic .arabic-lg}
 **ar-raḥmāni-r-raḥīm**
 
-・・・
-
-[مَالِكِ يَوْمِ الدِّينِ]{.arabic .arabic-lg}
-
+### Verset 3
+[مَالِكِ يَوْمِ ٱلدِّينِ]{.arabic .arabic-lg}
 **māliki yawmi-d-dīn**
 
-・・・
-
+### Verset 4
 [إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ]{.arabic .arabic-lg}
-
 **iyyāka naʿbudu wa-iyyāka nastaʿīn**
 
-・・・
+### Verset 5
+[ٱهْدِنَا ٱلصِّرَاطَ ٱلْمُسْتَقِيمَ]{.arabic .arabic-lg}
+**ihdina-ṣ-ṣirāṭa-l-mustaqīm**
 
-[اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ]{.arabic .arabic-lg}
+### Verset 6
+[صِرَاطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ]{.arabic .arabic-lg}
+**ṣirāṭa-lladhīna anʿamta ʿalayhim**
 
-**ihdinaṣ-ṣirāṭa-l-mustaqīm**
+### Verset 7
+[غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّالِّينَ]{.arabic .arabic-lg}
+**ghayri-l-maghḍūbi ʿalayhim wa-la-ḍ-ḍāllīn**
 
-・・・
-
-[صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ]{.arabic .arabic-lg}
-
-**ṣirāṭa-lladhīna anʿamta ʿalayhim ghayri-l-maghḍūbi ʿalayhim wa-la-ḍ-ḍāllīn**
-:::
-
-
-
-
-## ✍️ EXERCICES — Entraînez-vous !
-
-::: {.section-exercise}
-
-### Exercice 1 — Lecture lente
-
-Lisez chaque verset **3 fois** lentement, en articulant bien :
-
-1. [بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-lg}
-2. [الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg}
-3. [الرَّحْمَٰنِ الرَّحِيمِ]{.arabic .arabic-lg}
-4. [مَالِكِ يَوْمِ الدِّينِ]{.arabic .arabic-lg}
-5. [إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ]{.arabic .arabic-lg}
-6. [اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ]{.arabic .arabic-lg}
-7. [صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ]{.arabic .arabic-md}
+### Conclusion
+[آمِين]{.arabic .arabic-xl}
+**āmīn**
 
 :::
 
-::: {.section-exercise}
+---
 
-### Exercice 2 — Enchaînement 2 par 2
+## 📊 Récapitulatif des règles dans la Fatiha
 
-Lisez les versets par paires, sans pause entre eux :
+| Règle | Exemples dans la Fatiha |
+|:------|:------------------------|
+| **Hamza Waṣl** | [ٱللَّهِ]{.arabic} · [ٱلرَّحْمَٰنِ]{.arabic} · [ٱهْدِنَا]{.arabic} |
+| **Hamza Qatʿ** | [إِيَّاكَ]{.arabic} · [أَنْعَمْتَ]{.arabic} |
+| **Alif Khanjariyya** | [ٱلرَّحْمَٰنِ]{.arabic} |
+| **Shadda** | [ٱللَّهِ]{.arabic} · [رَبِّ]{.arabic} · [ٱلضَّالِّينَ]{.arabic} |
+| **Lettres solaires** | ر ل د ص ض (assimilation du ل) |
+| **Lettres lunaires** | ح ع م (ل se prononce) |
+| **ā long** | [مَالِكِ]{.arabic} · [ٱلصِّرَاطَ]{.arabic} · [ٱلضَّالِّينَ]{.arabic} |
+| **ī long** | [ٱلرَّحِيمِ]{.arabic} · [ٱلْعَالَمِينَ]{.arabic} · [ٱلْمُسْتَقِيمَ]{.arabic} |
+| **ū long** | [ٱلْمَغْضُوبِ]{.arabic} |
 
-**Basmala + Verset 1 :**
-::: {.display-box}
-[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ]{.arabic .arabic-lg}
+---
+
+## ✅ Validation finale
+
+::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none;"}
+🎉 **FÉLICITATIONS !**
+
+Vous avez terminé le **Bootcamp de lecture arabe** !
+
+Vous savez maintenant :
+- ✅ Reconnaître les **28 lettres** arabes
+- ✅ Lire les **voyelles** et **signes** de vocalisation
+- ✅ Appliquer les règles de **liaison** et d'**assimilation**
+- ✅ Lire la **sourate Al-Fatiha** en entier !
 :::
 
-**Versets 2 + 3 :**
-::: {.display-box}
-[الرَّحْمَٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ]{.arabic .arabic-lg}
+---
+
+## 🚀 Et après ?
+
+::: {.callout-tip}
+## Prochaines étapes recommandées
+
+1. **Pratiquez** la Fatiha quotidiennement jusqu'à la mémoriser
+2. **Écoutez** des récitations (Mishary Rashid, Abdul Basit)
+3. **Apprenez** d'autres courtes sourates (Al-Ikhlas, Al-Falaq, An-Nas)
+4. **Étudiez** les règles de tajwīd pour perfectionner votre récitation
 :::
 
-**Versets 4 + 5 :**
-::: {.display-box}
-[إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ]{.arabic .arabic-lg}
-:::
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 3 — Lecture complète chronométrée ⏱️
-
-Lisez la sourate **complète** d'une traite.
-
-🎯 **Objectif débutant** : moins de 2 minutes
-
-🎯 **Objectif intermédiaire** : moins de 1 minute
-
-:::
-
-::: {.section-exercise}
-
-### Exercice 4 — Écouter un récitateur
-
-Écoutez la récitation de **Mishary Rashid Alafasy** ou un autre récitateur sur :
-- [Quran.com](https://quran.com/1)
-- YouTube
-
-Comparez avec votre lecture et ajustez votre prononciation.
-
-:::
-
-
-
-
-## ✅ Validation finale du Bootcamp
-
-Vérifiez que vous maîtrisez :
-
-- [ ] Je reconnais les **28 lettres** de l'alphabet arabe
-- [ ] Je lis les **4 voyelles** : Fatha, Kasra, Damma, Sukūn
-- [ ] Je lis les **voyelles longues** : ā, ī, ū
-- [ ] Je reconnais la **Shadda** (doublement)
-- [ ] Je lis l'**article ال** (lunaires et solaires)
-- [ ] Je lis le **Tanwīn** (-an, -in, -oun)
-- [ ] Je reconnais la **Hamza** et ses supports
-- [ ] Je lis la **Tā' Marbūṭa** (ة), **Alif Maqṣūra** (ى), **Madda** (آ)
-- [ ] J'applique les **liaisons**
-- [ ] **Je lis la sourate Al-Fatiha en entier** ✅
-
-
-
-
-::: {.display-box style="background: linear-gradient(135deg, #4CAF50 0%, #81C784 100%); border: none; padding: 2rem;"}
-# 🎉 FÉLICITATIONS !
-
-**Vous avez terminé le Bootcamp !**
-
-Vous savez maintenant **lire l'arabe coranique vocalisé**.
-
-・・・
-
-[بَارَكَ اللَّهُ فِيكُمْ]{.arabic .arabic-xl}
-
-**Qu'Allah vous bénisse**
-:::
-
-
-
-
-## 🔜 Et après ?
-
-### Prochaines étapes recommandées
-
-1. **Pratiquez quotidiennement** — Relisez Al-Fatiha chaque jour pendant 2 semaines
-2. **Écoutez des récitateurs** — Habituez votre oreille à la prononciation
-3. **Apprenez d'autres sourates courtes** — Al-Ikhlāṣ, Al-Falaq, An-Nās
-4. **Étudiez le Tajwīd** — Les règles de récitation mélodique
-5. **Apprenez le vocabulaire** — Commencez à comprendre ce que vous lisez
-
-### Sourates courtes pour continuer
-
-| Sourate | Nom | Versets | Difficulté |
-|:-------:|:----|:-------:|:----------:|
-| 112 | Al-Ikhlāṣ | 4 | ⭐ |
-| 113 | Al-Falaq | 5 | ⭐ |
-| 114 | An-Nās | 6 | ⭐ |
-| 108 | Al-Kawthar | 3 | ⭐ |
-| 110 | An-Naṣr | 3 | ⭐⭐ |
-
-
-
+---
 
 ::: {.nav-buttons}
 [← Notebook 6](notebook-6.html){.nav-btn .prev}
-[🏠 Accueil](../index.html){.nav-btn}
+[🏠 Accueil](index.html){.nav-btn}
 :::
